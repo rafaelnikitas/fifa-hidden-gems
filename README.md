@@ -29,7 +29,7 @@ The top-20 list is based on **21 September 2025**, FC26. It is a dated prospecti
 
 ## Run and edit
 
-The source notebook is kept small in Git; its recorded charts, tables and article are published on the portfolio. The complete executed notebook, model bundles and normalized source snapshots are supplied in the **v1.0.0 release bundle**.
+The source notebook is kept small in Git; its recorded charts, tables and article are published on the portfolio. The complete executed notebook, model bundles and normalized source snapshots are supplied in the [**v1.0.0 release bundle**](https://github.com/rafaelnikitas/fifa-hidden-gems/releases/tag/v1.0.0).
 
 1. Import `FIFA_Beyond_Potential_Hidden_Gems.ipynb` into Kaggle and attach the three public source datasets below.
 2. Run all cells on CPU. The default fits the models; the complete release bundle also contains checked dated caches.
