@@ -1,0 +1,15 @@
+Derived normalized FIFA / EA Sports ratings snapshot.
+
+FIFA15–FC24: Stefano Leone, EA Sports FC 24 complete player dataset, CC0.
+https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset
+https://creativecommons.org/publicdomain/zero/1.0/
+
+FC25: Davis Nyagami, EA SPORTS FC 25 DATABASE, RATINGS AND STATS, Apache License 2.0.
+https://www.kaggle.com/datasets/nyagami/ea-sports-fc-25-database-ratings-and-stats
+Apache-2.0.txt contains the license terms.
+
+FC26: rovnez, FC 26 (FIFA 26) Player Data, CC BY 4.0.
+https://www.kaggle.com/datasets/rovnez/fc-26-fifa-26-player-data
+https://creativecommons.org/licenses/by/4.0/
+
+Changes: selected canonical annual records, normalized columns and derived new statistical features. No source author endorsement is implied.

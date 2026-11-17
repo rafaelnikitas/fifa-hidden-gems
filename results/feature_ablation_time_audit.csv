@@ -1,0 +1,13 @@
+year,method,features,training_rows,positives,last_origin,last_label
+2020,FIFA inputs only,11,21748,1118,2017,2020
+2020,Without team / peer context,162,21748,1118,2017,2020
+2020,Without player history,340,21748,1118,2017,2020
+2021,FIFA inputs only,11,29360,1413,2018,2021
+2021,Without team / peer context,162,29360,1413,2018,2021
+2021,Without player history,340,29360,1413,2018,2021
+2022,FIFA inputs only,11,37181,1679,2019,2022
+2022,Without team / peer context,162,37181,1679,2019,2022
+2022,Without player history,340,37181,1679,2019,2022
+2023,FIFA inputs only,11,44614,1916,2020,2023
+2023,Without team / peer context,162,44614,1916,2020,2023
+2023,Without player history,340,44614,1916,2020,2023

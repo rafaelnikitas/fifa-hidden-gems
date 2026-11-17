@@ -1,0 +1,4 @@
+model,baseline,extra_hits,low,high,draws,scope
+Player model,FIFA inputs only,15,6.0,25.0,500,Conditional on fitted models and these historical cohorts; player IDs resampled jointly across editions.
+Player model,Without team / peer context,11,3.0,19.0,500,Conditional on fitted models and these historical cohorts; player IDs resampled jointly across editions.
+Player model,Without player history,5,-1.0,11.0,500,Conditional on fitted models and these historical cohorts; player IDs resampled jointly across editions.

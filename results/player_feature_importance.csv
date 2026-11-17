@@ -1,0 +1,432 @@
+feature,group,mean_abs_shap
+overall,Current skills,0.06948269425114208
+age,Age / physique,0.05150118107895908
+height_cm,Age / physique,0.1425701570374396
+weight_kg,Age / physique,0.008582820287751649
+weak_foot,Current skills,0.0009630556560323387
+skill_moves,Current skills,0.010766604856739468
+pace,Current skills,0.009371877883374494
+shooting,Current skills,0.00461439540479781
+passing,Current skills,0.004920633356240159
+dribbling,Current skills,0.004018696740681401
+defending,Current skills,0.00401198472152822
+physic,Current skills,0.0011827239857940736
+attacking_crossing,Current skills,0.00856086364301814
+attacking_finishing,Current skills,0.01136910008284492
+attacking_heading_accuracy,Current skills,0.01100689518917395
+attacking_short_passing,Current skills,0.0069853428647422815
+attacking_volleys,Current skills,0.00027572827096773836
+skill_dribbling,Current skills,0.0048768446888187884
+skill_curve,Current skills,0.01213670790433816
+skill_fk_accuracy,Current skills,0.05120163145606472
+skill_long_passing,Current skills,0.006752334199426526
+skill_ball_control,Current skills,0.022925885988627603
+movement_acceleration,Current skills,0.008035525722991384
+movement_sprint_speed,Current skills,0.003791243216719141
+movement_agility,Current skills,0.008622274452057488
+movement_reactions,Current skills,0.014200033746070859
+movement_balance,Current skills,0.019104087766214892
+power_shot_power,Current skills,0.005294851501865362
+power_jumping,Current skills,0.020670685955879092
+power_stamina,Current skills,0.003844501975867484
+power_strength,Current skills,0.009754890939982587
+power_long_shots,Current skills,0.0018846816762616903
+mentality_aggression,Current skills,0.004840840806263641
+mentality_interceptions,Current skills,0.0066219331600546605
+mentality_positioning,Current skills,0.004170666376600635
+mentality_vision,Current skills,0.0015371127750489213
+mentality_penalties,Current skills,0.0035803440404575866
+mentality_composure,Current skills,0.04782474107050602
+defending_marking_awareness,Current skills,0.013438319812360587
+defending_standing_tackle,Current skills,0.009696661917371497
+defending_sliding_tackle,Current skills,0.005799026258554103
+goalkeeping_diving,Current skills,0.005678432362760458
+goalkeeping_handling,Current skills,0.0006912548267620725
+goalkeeping_kicking,Current skills,0.0024271804576247768
+goalkeeping_positioning,Current skills,0.003367361976739335
+goalkeeping_reflexes,Current skills,0.005791313888102532
+right_foot,Current skills,0.007053208778232881
+role_FW,Current skills,0.0
+role_Wing,Current skills,0.0
+role_MF,Current skills,0.0015506304505117955
+role_CB,Current skills,0.0
+role_FB,Current skills,0.0
+role_GK,Current skills,0.0
+role_Other,Current skills,0.0
+role_quality,Current skills,0.011601117134602719
+technical_quality,Current skills,0.0027832683426671123
+athletic_quality,Current skills,0.008936930162053451
+mental_quality,Current skills,0.007068993650561337
+role_headroom,Current skills,0.007074828523727935
+technical_headroom,Current skills,0.0061465183787891686
+athletic_headroom,Current skills,0.01568701844257378
+mental_headroom,Current skills,0.0049450333887118515
+skill_spikiness,Current skills,0.012400530102757181
+attributes_75plus,Current skills,0.03430304816765079
+attributes_80plus,Current skills,0.0012835255641939522
+role_balance,Current skills,0.01697263358682981
+weakest_role_skill,Current skills,0.008932054180266748
+age_to_21,Age / physique,0.04703183230658721
+age_rating_interaction,Age / physique,0.0569929663466689
+role_quality_peer_percentile,Team / peer context,0.1021252275680194
+technical_quality_peer_percentile,Team / peer context,0.014296382631966595
+athletic_quality_peer_percentile,Team / peer context,0.010987062532763422
+mental_quality_peer_percentile,Team / peer context,0.02114750979576073
+overall_lag1,Player history,0.0019957632277670854
+overall_change1,Player history,7.863741889196555e-05
+overall_lag2,Player history,0.00036533052248529453
+overall_change2,Player history,0.007070298910522405
+role_quality_lag1,Player history,0.002027496630151095
+role_quality_change1,Player history,0.003861060167741935
+role_quality_lag2,Player history,0.0
+role_quality_change2,Player history,0.005838216261719864
+technical_quality_lag1,Player history,0.0024347338942927225
+technical_quality_change1,Player history,0.007456871189157964
+technical_quality_lag2,Player history,0.002097137371860396
+technical_quality_change2,Player history,0.0011009059448751316
+athletic_quality_lag1,Player history,0.004529651806701565
+athletic_quality_change1,Player history,0.0
+athletic_quality_lag2,Player history,0.005791642298340674
+athletic_quality_change2,Player history,0.004249061819622058
+mental_quality_lag1,Player history,2.068297478376041e-05
+mental_quality_change1,Player history,0.003293113493914851
+mental_quality_lag2,Player history,0.0
+mental_quality_change2,Player history,0.0011935398313252538
+movement_reactions_lag1,Player history,0.00747269364511529
+movement_reactions_change1,Player history,0.0036918629991035154
+movement_reactions_lag2,Player history,0.002299848989246985
+movement_reactions_change2,Player history,0.00510499877635005
+skill_ball_control_lag1,Player history,0.0054406599108544965
+skill_ball_control_change1,Player history,0.00016464293284886518
+skill_ball_control_lag2,Player history,0.011154123360917591
+skill_ball_control_change2,Player history,0.00037711627855069237
+power_stamina_lag1,Player history,0.0024017502451933598
+power_stamina_change1,Player history,0.003169926140211337
+power_stamina_lag2,Player history,0.009627290996596906
+power_stamina_change2,Player history,0.0
+history_length,Player history,0.010384268482316873
+rating_acceleration,Player history,0.0
+core_growth_ahead_of_rating,Player history,0.0
+technical_growth_ahead_of_rating,Player history,0.006788251428799888
+team_roster_n,Team / peer context,0.013471096615202776
+team_mean_rating,Team / peer context,0.048269050842687185
+team_median_rating,Team / peer context,0.10554896079292725
+team_rating_std,Team / peer context,0.006483477934295668
+team_best_rating,Team / peer context,0.008046758895946821
+team_mean_age,Team / peer context,0.014046412662759833
+team_top11_rating,Team / peer context,0.12104018036501747
+team_u21_share,Team / peer context,0.007063308177535411
+team_80plus_count,Team / peer context,0.012420870412014132
+team_strength_league_percentile,Team / peer context,0.017298295502313488
+league_team_count,Team / peer context,0.006374077004591454
+league_mean_team_strength,Team / peer context,0.07883161944154023
+league_best_team_strength,Team / peer context,0.10103715480591494
+team_strength_vs_league,Team / peer context,0.01291124007677713
+team_strength_vs_league_best,Team / peer context,0.008728481543949377
+team_strength_global_percentile,Team / peer context,0.1043291775168817
+rating_vs_team_top11,Team / peer context,0.002036896494214511
+rating_vs_team_mean,Team / peer context,0.006726024432648449
+age_vs_team_mean,Team / peer context,0.06605482401871171
+team_roster_log_n,Team / peer context,0.048794614569808915
+league_level_numeric,Team / peer context,0.008134608275145186
+previous_peak_gap,Player history,1.9430966557011764e-05
+first_observed_age,Player history,0.017860668351383155
+editions_since_first_seen,Player history,0.026898657958030495
+team_peer_log_n,Team / peer context,0.01713022097441191
+team_pct_overall,Team / peer context,0.006261706385008745
+team_gap_overall,Team / peer context,0.002467128428860832
+team_pct_pace,Team / peer context,0.0050012195964526576
+team_gap_pace,Team / peer context,0.003659690726097654
+team_pct_shooting,Team / peer context,0.006944268918202189
+team_gap_shooting,Team / peer context,0.005590385304580718
+team_pct_passing,Team / peer context,0.005897581499272419
+team_gap_passing,Team / peer context,0.006765940154086616
+team_pct_dribbling,Team / peer context,0.004913939959682277
+team_gap_dribbling,Team / peer context,0.004009390824720648
+team_pct_defending,Team / peer context,0.0036743201342503366
+team_gap_defending,Team / peer context,0.0
+team_pct_physic,Team / peer context,0.0
+team_gap_physic,Team / peer context,0.003633500545779933
+team_pct_role_quality,Team / peer context,0.003720430303436133
+team_gap_role_quality,Team / peer context,0.010278825286940393
+team_pct_technical_quality,Team / peer context,0.0027119568785196765
+team_gap_technical_quality,Team / peer context,0.0031414335735028207
+team_pct_athletic_quality,Team / peer context,0.001486027575823178
+team_gap_athletic_quality,Team / peer context,0.0
+team_pct_mental_quality,Team / peer context,0.005144280696024575
+team_gap_mental_quality,Team / peer context,0.024332179105197048
+team_pct_attacking_crossing,Team / peer context,0.03692245173860756
+team_gap_attacking_crossing,Team / peer context,0.02232531227165444
+team_pct_attacking_finishing,Team / peer context,0.001526431972775917
+team_gap_attacking_finishing,Team / peer context,0.02412311530948024
+team_pct_attacking_heading_accuracy,Team / peer context,0.00960111313290173
+team_gap_attacking_heading_accuracy,Team / peer context,0.0013795972534726387
+team_pct_attacking_short_passing,Team / peer context,0.004107982411558567
+team_gap_attacking_short_passing,Team / peer context,0.0018810453156280149
+team_pct_attacking_volleys,Team / peer context,0.003946930071645247
+team_gap_attacking_volleys,Team / peer context,0.005140037297332021
+team_pct_skill_dribbling,Team / peer context,0.008071867857671269
+team_gap_skill_dribbling,Team / peer context,0.0061082593165054655
+team_pct_skill_curve,Team / peer context,0.006942892801806845
+team_gap_skill_curve,Team / peer context,0.0
+team_pct_skill_fk_accuracy,Team / peer context,0.0
+team_gap_skill_fk_accuracy,Team / peer context,0.010877243819720604
+team_pct_skill_long_passing,Team / peer context,0.002391194393429195
+team_gap_skill_long_passing,Team / peer context,0.0
+team_pct_skill_ball_control,Team / peer context,0.0
+team_gap_skill_ball_control,Team / peer context,0.01568631440625255
+team_pct_movement_acceleration,Team / peer context,0.001522516401432502
+team_gap_movement_acceleration,Team / peer context,0.005174295277583212
+team_pct_movement_sprint_speed,Team / peer context,0.005677656385057518
+team_gap_movement_sprint_speed,Team / peer context,0.005881062168564062
+team_pct_movement_agility,Team / peer context,0.0029284041967245072
+team_gap_movement_agility,Team / peer context,0.0029407502333022757
+team_pct_movement_reactions,Team / peer context,0.003096325134402736
+team_gap_movement_reactions,Team / peer context,0.013023372425467245
+team_pct_movement_balance,Team / peer context,0.0
+team_gap_movement_balance,Team / peer context,0.014354064799724842
+team_pct_power_shot_power,Team / peer context,0.006437580767625318
+team_gap_power_shot_power,Team / peer context,0.0
+team_pct_power_jumping,Team / peer context,0.023159835178904953
+team_gap_power_jumping,Team / peer context,0.008952193507533988
+team_pct_power_stamina,Team / peer context,0.002807998764968757
+team_gap_power_stamina,Team / peer context,0.004407799413774963
+team_pct_power_strength,Team / peer context,0.00510367691695906
+team_gap_power_strength,Team / peer context,0.011429969387612815
+team_pct_power_long_shots,Team / peer context,0.0010497264141661447
+team_gap_power_long_shots,Team / peer context,0.004061106218975217
+team_pct_mentality_aggression,Team / peer context,0.004745542325117718
+team_gap_mentality_aggression,Team / peer context,0.0054378985630027755
+team_pct_mentality_interceptions,Team / peer context,0.012484904403142026
+team_gap_mentality_interceptions,Team / peer context,0.0015168061975656762
+team_pct_mentality_positioning,Team / peer context,0.0082213598222836
+team_gap_mentality_positioning,Team / peer context,0.0019015410591342995
+team_pct_mentality_vision,Team / peer context,0.0003859481744156326
+team_gap_mentality_vision,Team / peer context,0.009025950011596118
+team_pct_mentality_penalties,Team / peer context,0.001177991614329883
+team_gap_mentality_penalties,Team / peer context,0.001516286463497739
+team_pct_mentality_composure,Team / peer context,0.025072497127592963
+team_gap_mentality_composure,Team / peer context,0.023471191963487296
+team_pct_defending_marking_awareness,Team / peer context,0.007386841504749203
+team_gap_defending_marking_awareness,Team / peer context,0.0037140255665003095
+team_pct_defending_standing_tackle,Team / peer context,0.010960720046438903
+team_gap_defending_standing_tackle,Team / peer context,0.001335774028583924
+team_pct_defending_sliding_tackle,Team / peer context,0.012823137403553083
+team_gap_defending_sliding_tackle,Team / peer context,0.0006177335520673493
+team_pct_goalkeeping_diving,Team / peer context,0.011355551550863388
+team_gap_goalkeeping_diving,Team / peer context,0.006101901063890858
+team_pct_goalkeeping_handling,Team / peer context,0.004696862920265639
+team_gap_goalkeeping_handling,Team / peer context,0.0017431938809164857
+team_pct_goalkeeping_kicking,Team / peer context,0.00553825899139553
+team_gap_goalkeeping_kicking,Team / peer context,0.0027884006181159438
+team_pct_goalkeeping_positioning,Team / peer context,0.0061560247422393815
+team_gap_goalkeeping_positioning,Team / peer context,0.017822130006506846
+team_pct_goalkeeping_reflexes,Team / peer context,0.015763383988786826
+team_gap_goalkeeping_reflexes,Team / peer context,0.014727547758689083
+position_peer_log_n,Team / peer context,0.02007530560802934
+position_pct_overall,Team / peer context,0.0655272792882286
+position_pct_pace,Team / peer context,0.004518479386258926
+position_pct_shooting,Team / peer context,0.003927627140175367
+position_pct_passing,Team / peer context,0.010630663981432125
+position_pct_dribbling,Team / peer context,0.017345299276514663
+position_pct_defending,Team / peer context,0.006527792220670694
+position_pct_physic,Team / peer context,0.0004126114099247245
+position_pct_role_quality,Team / peer context,0.02951991171525421
+position_pct_technical_quality,Team / peer context,0.024873723679395353
+position_pct_athletic_quality,Team / peer context,0.0021552774713681686
+position_pct_mental_quality,Team / peer context,0.02754019478580285
+position_pct_attacking_crossing,Team / peer context,0.004046325866360708
+position_pct_attacking_finishing,Team / peer context,0.008449506195123468
+position_pct_attacking_heading_accuracy,Team / peer context,0.020048122014779658
+position_pct_attacking_short_passing,Team / peer context,0.00747242132682337
+position_pct_attacking_volleys,Team / peer context,0.004831619969076025
+position_pct_skill_dribbling,Team / peer context,0.003720552577906121
+position_pct_skill_curve,Team / peer context,0.021303240975435934
+position_pct_skill_fk_accuracy,Team / peer context,0.012444999874911015
+position_pct_skill_long_passing,Team / peer context,0.005501716461482829
+position_pct_skill_ball_control,Team / peer context,0.009803786885434235
+position_pct_movement_acceleration,Team / peer context,0.0082868544842659
+position_pct_movement_sprint_speed,Team / peer context,0.008252518057461754
+position_pct_movement_agility,Team / peer context,0.00614472854469899
+position_pct_movement_reactions,Team / peer context,0.010888689942212176
+position_pct_movement_balance,Team / peer context,0.003587578938244034
+position_pct_power_shot_power,Team / peer context,0.019694511406931518
+position_pct_power_jumping,Team / peer context,0.006906349878551786
+position_pct_power_stamina,Team / peer context,0.004434952004032418
+position_pct_power_strength,Team / peer context,0.024506158788132434
+position_pct_power_long_shots,Team / peer context,0.0020688330279928823
+position_pct_mentality_aggression,Team / peer context,0.0034484713800060226
+position_pct_mentality_interceptions,Team / peer context,0.011743712709555099
+position_pct_mentality_positioning,Team / peer context,0.006049782669020217
+position_pct_mentality_vision,Team / peer context,0.013870334104958608
+position_pct_mentality_penalties,Team / peer context,0.012939695325629113
+position_pct_mentality_composure,Team / peer context,0.043326998280978614
+position_pct_defending_marking_awareness,Team / peer context,0.015031064483750469
+position_pct_defending_standing_tackle,Team / peer context,0.00766672105959691
+position_pct_defending_sliding_tackle,Team / peer context,0.0035447165944362397
+position_pct_goalkeeping_diving,Team / peer context,0.0011435509068488657
+position_pct_goalkeeping_handling,Team / peer context,0.009504360524305236
+position_pct_goalkeeping_kicking,Team / peer context,0.007200613732199456
+position_pct_goalkeeping_positioning,Team / peer context,0.0017124462480567842
+position_pct_goalkeeping_reflexes,Team / peer context,0.004231075946022677
+position_age_peer_log_n,Team / peer context,0.015998200263295122
+position_age_pct_overall,Team / peer context,0.1144760249236586
+position_age_pct_pace,Team / peer context,0.006633957147740316
+position_age_pct_shooting,Team / peer context,0.0
+position_age_pct_passing,Team / peer context,0.005289880907540282
+position_age_pct_dribbling,Team / peer context,0.028677961946606743
+position_age_pct_defending,Team / peer context,0.013005483961699626
+position_age_pct_physic,Team / peer context,0.013791049633427305
+position_age_pct_role_quality,Team / peer context,0.09160724680326815
+position_age_pct_technical_quality,Team / peer context,0.015876568003170156
+position_age_pct_athletic_quality,Team / peer context,0.013641492564173617
+position_age_pct_mental_quality,Team / peer context,0.00865811834751082
+position_age_pct_attacking_crossing,Team / peer context,0.016186467002147306
+position_age_pct_attacking_finishing,Team / peer context,0.016657940202490108
+position_age_pct_attacking_heading_accuracy,Team / peer context,0.004270217730540377
+position_age_pct_attacking_short_passing,Team / peer context,0.0013574327626056095
+position_age_pct_attacking_volleys,Team / peer context,0.004681731545027772
+position_age_pct_skill_dribbling,Team / peer context,0.022162789365489707
+position_age_pct_skill_curve,Team / peer context,0.01660228713092514
+position_age_pct_skill_fk_accuracy,Team / peer context,0.006002140658599197
+position_age_pct_skill_long_passing,Team / peer context,0.009960489497597199
+position_age_pct_skill_ball_control,Team / peer context,0.0065849303091155345
+position_age_pct_movement_acceleration,Team / peer context,0.0042856979527194465
+position_age_pct_movement_sprint_speed,Team / peer context,0.004339975297053363
+position_age_pct_movement_agility,Team / peer context,0.032813415717341296
+position_age_pct_movement_reactions,Team / peer context,0.01464110665361061
+position_age_pct_movement_balance,Team / peer context,0.006838744869675609
+position_age_pct_power_shot_power,Team / peer context,0.01592272701604414
+position_age_pct_power_jumping,Team / peer context,0.021945207175173228
+position_age_pct_power_stamina,Team / peer context,0.008856528270068895
+position_age_pct_power_strength,Team / peer context,0.005334286418925638
+position_age_pct_power_long_shots,Team / peer context,0.004626349732510683
+position_age_pct_mentality_aggression,Team / peer context,0.0018908886023685663
+position_age_pct_mentality_interceptions,Team / peer context,0.023396483096352984
+position_age_pct_mentality_positioning,Team / peer context,0.009980525402969061
+position_age_pct_mentality_vision,Team / peer context,0.013037703094961084
+position_age_pct_mentality_penalties,Team / peer context,0.011413046960087594
+position_age_pct_mentality_composure,Team / peer context,0.01840424277784346
+position_age_pct_defending_marking_awareness,Team / peer context,0.003077047846119424
+position_age_pct_defending_standing_tackle,Team / peer context,0.0280019135428799
+position_age_pct_defending_sliding_tackle,Team / peer context,0.0
+position_age_pct_goalkeeping_diving,Team / peer context,0.00959538156177065
+position_age_pct_goalkeeping_handling,Team / peer context,0.0033757578435612517
+position_age_pct_goalkeeping_kicking,Team / peer context,0.003801984416451913
+position_age_pct_goalkeeping_positioning,Team / peer context,0.009593575384725736
+position_age_pct_goalkeeping_reflexes,Team / peer context,0.0033208126873433366
+team_role_peer_log_n,Team / peer context,0.006053603194070649
+team_role_pct_overall,Team / peer context,0.004800694612075154
+team_role_gap_overall,Team / peer context,0.0
+team_role_pct_role_quality,Team / peer context,0.0022915977157963686
+team_role_gap_role_quality,Team / peer context,0.0019988300270320026
+team_role_pct_technical_quality,Team / peer context,0.008636750661108663
+team_role_gap_technical_quality,Team / peer context,0.006237535983103301
+team_role_pct_athletic_quality,Team / peer context,0.0021604970475660296
+team_role_gap_athletic_quality,Team / peer context,0.006868188495317898
+team_role_pct_mental_quality,Team / peer context,0.005095905576444342
+team_role_gap_mental_quality,Team / peer context,0.012959437650385035
+team_role_pct_movement_reactions,Team / peer context,0.010116834131727193
+team_role_gap_movement_reactions,Team / peer context,0.0034111376698861173
+team_role_rating_depth_gap,Team / peer context,0.004726708934080266
+league_position_peer_log_n,Team / peer context,0.005056242927684416
+league_position_pct_overall,Team / peer context,0.01061961285682734
+league_position_pct_role_quality,Team / peer context,0.010929164149771646
+league_position_pct_technical_quality,Team / peer context,0.001387888286351494
+league_position_pct_athletic_quality,Team / peer context,0.0018227217091680518
+league_position_pct_mental_quality,Team / peer context,0.004663849103923678
+league_position_pct_pace,Team / peer context,0.006594847820349523
+league_position_age_peer_log_n,Team / peer context,0.0025341941048144935
+league_position_age_pct_overall,Team / peer context,0.0024973588029105205
+league_position_age_pct_role_quality,Team / peer context,0.0029976939857065082
+league_position_age_pct_technical_quality,Team / peer context,0.007684654521712084
+league_position_age_pct_athletic_quality,Team / peer context,0.0004150610451995661
+league_position_age_pct_mental_quality,Team / peer context,0.0005938755120993401
+league_position_age_pct_pace,Team / peer context,0.001275817304899329
+team_skill_above_rating_rank,Team / peer context,0.01548926636079019
+position_age_skill_above_rating_rank,Team / peer context,0.013565828172091818
+club_named_starter,Team / peer context,0.11980537699353887
+club_substitute,Team / peer context,0.0030400993238631564
+club_reserve,Team / peer context,0.025302487918700427
+team_top11_rating_context_change1,Team / peer context,0.0011874228214384804
+team_strength_league_percentile_context_change1,Team / peer context,0.0
+league_mean_team_strength_context_change1,Team / peer context,0.0005738198094401538
+rating_vs_team_mean_context_change1,Team / peer context,0.0001282473238539334
+team_pct_overall_context_change1,Team / peer context,0.0
+team_pct_role_quality_context_change1,Team / peer context,0.001835790998580183
+team_role_pct_role_quality_context_change1,Team / peer context,0.0
+position_age_pct_role_quality_context_change1,Team / peer context,0.0047831637323434255
+team_role_rating_depth_gap_context_change1,Team / peer context,0.002782498114051224
+club_team_id_changed1,Team / peer context,0.001843218095844262
+league_id_changed1,Team / peer context,0.0029974741930134715
+team_top11_rating_context_change2,Team / peer context,0.002047164759142543
+team_strength_league_percentile_context_change2,Team / peer context,0.0008721732892180728
+league_mean_team_strength_context_change2,Team / peer context,0.004161387143999734
+rating_vs_team_mean_context_change2,Team / peer context,0.00039521485712179657
+team_pct_overall_context_change2,Team / peer context,0.00040231384672215225
+team_pct_role_quality_context_change2,Team / peer context,0.005329836554600229
+team_role_pct_role_quality_context_change2,Team / peer context,0.006552852772559823
+position_age_pct_role_quality_context_change2,Team / peer context,0.011032908641490162
+team_role_rating_depth_gap_context_change2,Team / peer context,0.004041481560556935
+club_team_id_changed2,Team / peer context,0.000466215509526924
+league_id_changed2,Team / peer context,0.0028146859500421005
+potential,FIFA potential,0.1522612082857639
+potential_gap,FIFA potential,0.01985449949012996
+overall_lag3,Player history,0.004871453411501729
+overall_change3,Player history,0.008935204670010688
+role_quality_lag3,Player history,0.0
+role_quality_change3,Player history,0.0
+technical_quality_lag3,Player history,0.0
+technical_quality_change3,Player history,0.0
+athletic_quality_lag3,Player history,0.004564259417394097
+athletic_quality_change3,Player history,0.0038382267033467542
+mental_quality_lag3,Player history,0.0
+mental_quality_change3,Player history,0.0
+team_top11_rating_lag3,Team / peer context,0.020974039028945
+team_top11_rating_change3,Team / peer context,0.0
+movement_reactions_lag3,Player history,0.0
+movement_reactions_change3,Player history,1.149388998776655e-05
+skill_ball_control_lag3,Player history,0.032668605880076265
+skill_ball_control_change3,Player history,0.0
+power_stamina_lag3,Player history,0.0027935512855727053
+power_stamina_change3,Player history,0.004732294264095969
+overall_lag4,Player history,0.0
+overall_change4,Player history,0.0025677549413670227
+role_quality_lag4,Player history,0.012683409997008283
+role_quality_change4,Player history,0.0
+technical_quality_lag4,Player history,0.005460504496731646
+technical_quality_change4,Player history,0.0
+athletic_quality_lag4,Player history,0.0
+athletic_quality_change4,Player history,0.0
+mental_quality_lag4,Player history,0.0
+mental_quality_change4,Player history,0.0
+team_top11_rating_lag4,Team / peer context,0.0
+team_top11_rating_change4,Team / peer context,0.0
+movement_reactions_lag4,Player history,2.0948495780789933e-06
+movement_reactions_change4,Player history,5.627153909174806e-06
+skill_ball_control_lag4,Player history,0.02478622370993346
+skill_ball_control_change4,Player history,0.0
+power_stamina_lag4,Player history,0.016106418346684772
+power_stamina_change4,Player history,0.011504686239405688
+overall_past_slope,Player history,0.010304715642450628
+overall_past_observations,Player history,0.0028023206472820674
+role_quality_past_slope,Player history,0.000643469266461884
+role_quality_past_observations,Player history,0.006086595206081496
+technical_quality_past_slope,Player history,0.0
+technical_quality_past_observations,Player history,0.016766777300024356
+athletic_quality_past_slope,Player history,0.00802887987698098
+athletic_quality_past_observations,Player history,0.0
+mental_quality_past_slope,Player history,0.0031461121118000605
+mental_quality_past_observations,Player history,0.0
+team_top11_rating_past_slope,Team / peer context,0.000789018984077595
+team_top11_rating_past_observations,Team / peer context,0.039181708027284275
+movement_reactions_past_slope,Player history,0.0006437183920918334
+movement_reactions_past_observations,Player history,0.0
+skill_ball_control_past_slope,Player history,0.001801956782604878
+skill_ball_control_past_observations,Player history,0.004045413177607211
+power_stamina_past_slope,Player history,0.0
+power_stamina_past_observations,Player history,0.013496189988333912
+rating_below_recent_peak,Player history,0.0010609782646663851
+rating_above_recent_floor,Player history,0.0
+past_growth_skill_ahead,Player history,0.006852866062380564
+recent_growth_consistency,Player history,0.003215433525158708

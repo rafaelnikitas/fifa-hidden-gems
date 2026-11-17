@@ -1,0 +1,51 @@
+{
+  "checked_on": "2026-11-16",
+  "candidates": [
+    {
+      "name": "EAFC26 Player Database",
+      "date": "2026-04-02",
+      "url": "https://www.kaggle.com/datasets/flynn28/eafc26-player-database",
+      "rows_checked": "Men CSV",
+      "potential_field_present": false,
+      "decision": "Rejected for scoring: no contemporaneous potential."
+    },
+    {
+      "name": "FC27 EA API community export",
+      "date": "2026-09-12",
+      "url": "https://github.com/LakshmiKanth11/EA_FC_ANALYSIS",
+      "rows_checked": 19789,
+      "potential_field_present": false,
+      "height_coverage": 0,
+      "weight_coverage": 0,
+      "decision": "Rejected for scoring: no contemporaneous potential or physical metadata."
+    },
+    {
+      "name": "FC27 FIFPlay community export",
+      "date": "2026-10-11",
+      "url": "https://github.com/mattabelhom/fc-27-players-dataset",
+      "rows_checked": 10762,
+      "unique_base_ids": 9907,
+      "potential_nonmissing": 0,
+      "generic_league_rows": 10503,
+      "decision": "Rejected for scoring: potential is entirely empty; duplicate IDs and generic league labels."
+    }
+  ],
+  "verified_downloads": [
+    {
+      "name": "fc27_career_20261011.csv",
+      "url": "https://raw.githubusercontent.com/mattabelhom/fc-27-players-dataset/main/fc27-players-2026-10-11.csv",
+      "bytes": 2686221,
+      "sha256": "1abaebe45d9ee7448667638c0fa96e8b4f2af710fe608cd0a6ba9b1bb4817eeb",
+      "git_blob_sha": "09b215b6867338a48da105ea8a10a7ff85661f92"
+    },
+    {
+      "name": "fc27_ea_20260912.csv",
+      "url": "https://raw.githubusercontent.com/LakshmiKanth11/EA_FC_ANALYSIS/main/EA_FC_PLAYERS_DATASET_AND_%20DASHBOARD/data/players.csv",
+      "bytes": 5011918,
+      "sha256": "18ed434e5bb90f9afa72363d14438005c785eb4b8872a64c89c75bb38e14e911",
+      "git_blob_sha": "75a86961556e1f6f8df9d881052a514a663dc484"
+    }
+  ],
+  "selected_snapshot": "2025-09-21",
+  "selection_reason": "Latest complete snapshot available in this analysis. No claim that no other compatible dataset exists."
+}

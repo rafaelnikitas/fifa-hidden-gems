@@ -1,0 +1,35 @@
+{
+  "snapshot": {
+    "snapshot_date": "2025-09-21",
+    "edition": 2026,
+    "source": "rovnez / FC26_20250921.csv",
+    "custom_snapshot": false,
+    "model_edition": 2026,
+    "snapshot_age_days": 421
+  },
+  "eligible_players": 13154,
+  "top_n": 20,
+  "future_target_editions": [
+    2027,
+    2028,
+    2029
+  ],
+  "model": "Player model",
+  "features": 431,
+  "hyperparameter_search_performed": false,
+  "probability_calibration_performed": false,
+  "shap_additivity_checked": true,
+  "outcomes": "Unconfirmed. No future ratings are used in the current shortlist.",
+  "parameters": {
+    "iterations": 450,
+    "learning_rate": 0.045,
+    "depth": 5,
+    "l2_leaf_reg": 12,
+    "loss_function": "Logloss",
+    "border_count": 64,
+    "thread_count": 4,
+    "random_seed": 42,
+    "verbose": false,
+    "allow_writing_files": false
+  }
+}

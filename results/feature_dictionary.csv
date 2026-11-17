@@ -1,0 +1,432 @@
+feature,group
+overall,Current skills
+age,Age / physique
+height_cm,Age / physique
+weight_kg,Age / physique
+weak_foot,Current skills
+skill_moves,Current skills
+pace,Current skills
+shooting,Current skills
+passing,Current skills
+dribbling,Current skills
+defending,Current skills
+physic,Current skills
+attacking_crossing,Current skills
+attacking_finishing,Current skills
+attacking_heading_accuracy,Current skills
+attacking_short_passing,Current skills
+attacking_volleys,Current skills
+skill_dribbling,Current skills
+skill_curve,Current skills
+skill_fk_accuracy,Current skills
+skill_long_passing,Current skills
+skill_ball_control,Current skills
+movement_acceleration,Current skills
+movement_sprint_speed,Current skills
+movement_agility,Current skills
+movement_reactions,Current skills
+movement_balance,Current skills
+power_shot_power,Current skills
+power_jumping,Current skills
+power_stamina,Current skills
+power_strength,Current skills
+power_long_shots,Current skills
+mentality_aggression,Current skills
+mentality_interceptions,Current skills
+mentality_positioning,Current skills
+mentality_vision,Current skills
+mentality_penalties,Current skills
+mentality_composure,Current skills
+defending_marking_awareness,Current skills
+defending_standing_tackle,Current skills
+defending_sliding_tackle,Current skills
+goalkeeping_diving,Current skills
+goalkeeping_handling,Current skills
+goalkeeping_kicking,Current skills
+goalkeeping_positioning,Current skills
+goalkeeping_reflexes,Current skills
+right_foot,Current skills
+role_FW,Current skills
+role_Wing,Current skills
+role_MF,Current skills
+role_CB,Current skills
+role_FB,Current skills
+role_GK,Current skills
+role_Other,Current skills
+role_quality,Current skills
+technical_quality,Current skills
+athletic_quality,Current skills
+mental_quality,Current skills
+role_headroom,Current skills
+technical_headroom,Current skills
+athletic_headroom,Current skills
+mental_headroom,Current skills
+skill_spikiness,Current skills
+attributes_75plus,Current skills
+attributes_80plus,Current skills
+role_balance,Current skills
+weakest_role_skill,Current skills
+age_to_21,Age / physique
+age_rating_interaction,Age / physique
+role_quality_peer_percentile,Team / peer context
+technical_quality_peer_percentile,Team / peer context
+athletic_quality_peer_percentile,Team / peer context
+mental_quality_peer_percentile,Team / peer context
+overall_lag1,Player history
+overall_change1,Player history
+overall_lag2,Player history
+overall_change2,Player history
+role_quality_lag1,Player history
+role_quality_change1,Player history
+role_quality_lag2,Player history
+role_quality_change2,Player history
+technical_quality_lag1,Player history
+technical_quality_change1,Player history
+technical_quality_lag2,Player history
+technical_quality_change2,Player history
+athletic_quality_lag1,Player history
+athletic_quality_change1,Player history
+athletic_quality_lag2,Player history
+athletic_quality_change2,Player history
+mental_quality_lag1,Player history
+mental_quality_change1,Player history
+mental_quality_lag2,Player history
+mental_quality_change2,Player history
+movement_reactions_lag1,Player history
+movement_reactions_change1,Player history
+movement_reactions_lag2,Player history
+movement_reactions_change2,Player history
+skill_ball_control_lag1,Player history
+skill_ball_control_change1,Player history
+skill_ball_control_lag2,Player history
+skill_ball_control_change2,Player history
+power_stamina_lag1,Player history
+power_stamina_change1,Player history
+power_stamina_lag2,Player history
+power_stamina_change2,Player history
+history_length,Player history
+rating_acceleration,Player history
+core_growth_ahead_of_rating,Player history
+technical_growth_ahead_of_rating,Player history
+team_roster_n,Team / peer context
+team_mean_rating,Team / peer context
+team_median_rating,Team / peer context
+team_rating_std,Team / peer context
+team_best_rating,Team / peer context
+team_mean_age,Team / peer context
+team_top11_rating,Team / peer context
+team_u21_share,Team / peer context
+team_80plus_count,Team / peer context
+team_strength_league_percentile,Team / peer context
+league_team_count,Team / peer context
+league_mean_team_strength,Team / peer context
+league_best_team_strength,Team / peer context
+team_strength_vs_league,Team / peer context
+team_strength_vs_league_best,Team / peer context
+team_strength_global_percentile,Team / peer context
+rating_vs_team_top11,Team / peer context
+rating_vs_team_mean,Team / peer context
+age_vs_team_mean,Team / peer context
+team_roster_log_n,Team / peer context
+league_level_numeric,Team / peer context
+previous_peak_gap,Player history
+first_observed_age,Player history
+editions_since_first_seen,Player history
+team_peer_log_n,Team / peer context
+team_pct_overall,Team / peer context
+team_gap_overall,Team / peer context
+team_pct_pace,Team / peer context
+team_gap_pace,Team / peer context
+team_pct_shooting,Team / peer context
+team_gap_shooting,Team / peer context
+team_pct_passing,Team / peer context
+team_gap_passing,Team / peer context
+team_pct_dribbling,Team / peer context
+team_gap_dribbling,Team / peer context
+team_pct_defending,Team / peer context
+team_gap_defending,Team / peer context
+team_pct_physic,Team / peer context
+team_gap_physic,Team / peer context
+team_pct_role_quality,Team / peer context
+team_gap_role_quality,Team / peer context
+team_pct_technical_quality,Team / peer context
+team_gap_technical_quality,Team / peer context
+team_pct_athletic_quality,Team / peer context
+team_gap_athletic_quality,Team / peer context
+team_pct_mental_quality,Team / peer context
+team_gap_mental_quality,Team / peer context
+team_pct_attacking_crossing,Team / peer context
+team_gap_attacking_crossing,Team / peer context
+team_pct_attacking_finishing,Team / peer context
+team_gap_attacking_finishing,Team / peer context
+team_pct_attacking_heading_accuracy,Team / peer context
+team_gap_attacking_heading_accuracy,Team / peer context
+team_pct_attacking_short_passing,Team / peer context
+team_gap_attacking_short_passing,Team / peer context
+team_pct_attacking_volleys,Team / peer context
+team_gap_attacking_volleys,Team / peer context
+team_pct_skill_dribbling,Team / peer context
+team_gap_skill_dribbling,Team / peer context
+team_pct_skill_curve,Team / peer context
+team_gap_skill_curve,Team / peer context
+team_pct_skill_fk_accuracy,Team / peer context
+team_gap_skill_fk_accuracy,Team / peer context
+team_pct_skill_long_passing,Team / peer context
+team_gap_skill_long_passing,Team / peer context
+team_pct_skill_ball_control,Team / peer context
+team_gap_skill_ball_control,Team / peer context
+team_pct_movement_acceleration,Team / peer context
+team_gap_movement_acceleration,Team / peer context
+team_pct_movement_sprint_speed,Team / peer context
+team_gap_movement_sprint_speed,Team / peer context
+team_pct_movement_agility,Team / peer context
+team_gap_movement_agility,Team / peer context
+team_pct_movement_reactions,Team / peer context
+team_gap_movement_reactions,Team / peer context
+team_pct_movement_balance,Team / peer context
+team_gap_movement_balance,Team / peer context
+team_pct_power_shot_power,Team / peer context
+team_gap_power_shot_power,Team / peer context
+team_pct_power_jumping,Team / peer context
+team_gap_power_jumping,Team / peer context
+team_pct_power_stamina,Team / peer context
+team_gap_power_stamina,Team / peer context
+team_pct_power_strength,Team / peer context
+team_gap_power_strength,Team / peer context
+team_pct_power_long_shots,Team / peer context
+team_gap_power_long_shots,Team / peer context
+team_pct_mentality_aggression,Team / peer context
+team_gap_mentality_aggression,Team / peer context
+team_pct_mentality_interceptions,Team / peer context
+team_gap_mentality_interceptions,Team / peer context
+team_pct_mentality_positioning,Team / peer context
+team_gap_mentality_positioning,Team / peer context
+team_pct_mentality_vision,Team / peer context
+team_gap_mentality_vision,Team / peer context
+team_pct_mentality_penalties,Team / peer context
+team_gap_mentality_penalties,Team / peer context
+team_pct_mentality_composure,Team / peer context
+team_gap_mentality_composure,Team / peer context
+team_pct_defending_marking_awareness,Team / peer context
+team_gap_defending_marking_awareness,Team / peer context
+team_pct_defending_standing_tackle,Team / peer context
+team_gap_defending_standing_tackle,Team / peer context
+team_pct_defending_sliding_tackle,Team / peer context
+team_gap_defending_sliding_tackle,Team / peer context
+team_pct_goalkeeping_diving,Team / peer context
+team_gap_goalkeeping_diving,Team / peer context
+team_pct_goalkeeping_handling,Team / peer context
+team_gap_goalkeeping_handling,Team / peer context
+team_pct_goalkeeping_kicking,Team / peer context
+team_gap_goalkeeping_kicking,Team / peer context
+team_pct_goalkeeping_positioning,Team / peer context
+team_gap_goalkeeping_positioning,Team / peer context
+team_pct_goalkeeping_reflexes,Team / peer context
+team_gap_goalkeeping_reflexes,Team / peer context
+position_peer_log_n,Team / peer context
+position_pct_overall,Team / peer context
+position_pct_pace,Team / peer context
+position_pct_shooting,Team / peer context
+position_pct_passing,Team / peer context
+position_pct_dribbling,Team / peer context
+position_pct_defending,Team / peer context
+position_pct_physic,Team / peer context
+position_pct_role_quality,Team / peer context
+position_pct_technical_quality,Team / peer context
+position_pct_athletic_quality,Team / peer context
+position_pct_mental_quality,Team / peer context
+position_pct_attacking_crossing,Team / peer context
+position_pct_attacking_finishing,Team / peer context
+position_pct_attacking_heading_accuracy,Team / peer context
+position_pct_attacking_short_passing,Team / peer context
+position_pct_attacking_volleys,Team / peer context
+position_pct_skill_dribbling,Team / peer context
+position_pct_skill_curve,Team / peer context
+position_pct_skill_fk_accuracy,Team / peer context
+position_pct_skill_long_passing,Team / peer context
+position_pct_skill_ball_control,Team / peer context
+position_pct_movement_acceleration,Team / peer context
+position_pct_movement_sprint_speed,Team / peer context
+position_pct_movement_agility,Team / peer context
+position_pct_movement_reactions,Team / peer context
+position_pct_movement_balance,Team / peer context
+position_pct_power_shot_power,Team / peer context
+position_pct_power_jumping,Team / peer context
+position_pct_power_stamina,Team / peer context
+position_pct_power_strength,Team / peer context
+position_pct_power_long_shots,Team / peer context
+position_pct_mentality_aggression,Team / peer context
+position_pct_mentality_interceptions,Team / peer context
+position_pct_mentality_positioning,Team / peer context
+position_pct_mentality_vision,Team / peer context
+position_pct_mentality_penalties,Team / peer context
+position_pct_mentality_composure,Team / peer context
+position_pct_defending_marking_awareness,Team / peer context
+position_pct_defending_standing_tackle,Team / peer context
+position_pct_defending_sliding_tackle,Team / peer context
+position_pct_goalkeeping_diving,Team / peer context
+position_pct_goalkeeping_handling,Team / peer context
+position_pct_goalkeeping_kicking,Team / peer context
+position_pct_goalkeeping_positioning,Team / peer context
+position_pct_goalkeeping_reflexes,Team / peer context
+position_age_peer_log_n,Team / peer context
+position_age_pct_overall,Team / peer context
+position_age_pct_pace,Team / peer context
+position_age_pct_shooting,Team / peer context
+position_age_pct_passing,Team / peer context
+position_age_pct_dribbling,Team / peer context
+position_age_pct_defending,Team / peer context
+position_age_pct_physic,Team / peer context
+position_age_pct_role_quality,Team / peer context
+position_age_pct_technical_quality,Team / peer context
+position_age_pct_athletic_quality,Team / peer context
+position_age_pct_mental_quality,Team / peer context
+position_age_pct_attacking_crossing,Team / peer context
+position_age_pct_attacking_finishing,Team / peer context
+position_age_pct_attacking_heading_accuracy,Team / peer context
+position_age_pct_attacking_short_passing,Team / peer context
+position_age_pct_attacking_volleys,Team / peer context
+position_age_pct_skill_dribbling,Team / peer context
+position_age_pct_skill_curve,Team / peer context
+position_age_pct_skill_fk_accuracy,Team / peer context
+position_age_pct_skill_long_passing,Team / peer context
+position_age_pct_skill_ball_control,Team / peer context
+position_age_pct_movement_acceleration,Team / peer context
+position_age_pct_movement_sprint_speed,Team / peer context
+position_age_pct_movement_agility,Team / peer context
+position_age_pct_movement_reactions,Team / peer context
+position_age_pct_movement_balance,Team / peer context
+position_age_pct_power_shot_power,Team / peer context
+position_age_pct_power_jumping,Team / peer context
+position_age_pct_power_stamina,Team / peer context
+position_age_pct_power_strength,Team / peer context
+position_age_pct_power_long_shots,Team / peer context
+position_age_pct_mentality_aggression,Team / peer context
+position_age_pct_mentality_interceptions,Team / peer context
+position_age_pct_mentality_positioning,Team / peer context
+position_age_pct_mentality_vision,Team / peer context
+position_age_pct_mentality_penalties,Team / peer context
+position_age_pct_mentality_composure,Team / peer context
+position_age_pct_defending_marking_awareness,Team / peer context
+position_age_pct_defending_standing_tackle,Team / peer context
+position_age_pct_defending_sliding_tackle,Team / peer context
+position_age_pct_goalkeeping_diving,Team / peer context
+position_age_pct_goalkeeping_handling,Team / peer context
+position_age_pct_goalkeeping_kicking,Team / peer context
+position_age_pct_goalkeeping_positioning,Team / peer context
+position_age_pct_goalkeeping_reflexes,Team / peer context
+team_role_peer_log_n,Team / peer context
+team_role_pct_overall,Team / peer context
+team_role_gap_overall,Team / peer context
+team_role_pct_role_quality,Team / peer context
+team_role_gap_role_quality,Team / peer context
+team_role_pct_technical_quality,Team / peer context
+team_role_gap_technical_quality,Team / peer context
+team_role_pct_athletic_quality,Team / peer context
+team_role_gap_athletic_quality,Team / peer context
+team_role_pct_mental_quality,Team / peer context
+team_role_gap_mental_quality,Team / peer context
+team_role_pct_movement_reactions,Team / peer context
+team_role_gap_movement_reactions,Team / peer context
+team_role_rating_depth_gap,Team / peer context
+league_position_peer_log_n,Team / peer context
+league_position_pct_overall,Team / peer context
+league_position_pct_role_quality,Team / peer context
+league_position_pct_technical_quality,Team / peer context
+league_position_pct_athletic_quality,Team / peer context
+league_position_pct_mental_quality,Team / peer context
+league_position_pct_pace,Team / peer context
+league_position_age_peer_log_n,Team / peer context
+league_position_age_pct_overall,Team / peer context
+league_position_age_pct_role_quality,Team / peer context
+league_position_age_pct_technical_quality,Team / peer context
+league_position_age_pct_athletic_quality,Team / peer context
+league_position_age_pct_mental_quality,Team / peer context
+league_position_age_pct_pace,Team / peer context
+team_skill_above_rating_rank,Team / peer context
+position_age_skill_above_rating_rank,Team / peer context
+club_named_starter,Team / peer context
+club_substitute,Team / peer context
+club_reserve,Team / peer context
+team_top11_rating_context_change1,Team / peer context
+team_strength_league_percentile_context_change1,Team / peer context
+league_mean_team_strength_context_change1,Team / peer context
+rating_vs_team_mean_context_change1,Team / peer context
+team_pct_overall_context_change1,Team / peer context
+team_pct_role_quality_context_change1,Team / peer context
+team_role_pct_role_quality_context_change1,Team / peer context
+position_age_pct_role_quality_context_change1,Team / peer context
+team_role_rating_depth_gap_context_change1,Team / peer context
+club_team_id_changed1,Team / peer context
+league_id_changed1,Team / peer context
+team_top11_rating_context_change2,Team / peer context
+team_strength_league_percentile_context_change2,Team / peer context
+league_mean_team_strength_context_change2,Team / peer context
+rating_vs_team_mean_context_change2,Team / peer context
+team_pct_overall_context_change2,Team / peer context
+team_pct_role_quality_context_change2,Team / peer context
+team_role_pct_role_quality_context_change2,Team / peer context
+position_age_pct_role_quality_context_change2,Team / peer context
+team_role_rating_depth_gap_context_change2,Team / peer context
+club_team_id_changed2,Team / peer context
+league_id_changed2,Team / peer context
+potential,FIFA potential
+potential_gap,FIFA potential
+overall_lag3,Player history
+overall_change3,Player history
+role_quality_lag3,Player history
+role_quality_change3,Player history
+technical_quality_lag3,Player history
+technical_quality_change3,Player history
+athletic_quality_lag3,Player history
+athletic_quality_change3,Player history
+mental_quality_lag3,Player history
+mental_quality_change3,Player history
+team_top11_rating_lag3,Team / peer context
+team_top11_rating_change3,Team / peer context
+movement_reactions_lag3,Player history
+movement_reactions_change3,Player history
+skill_ball_control_lag3,Player history
+skill_ball_control_change3,Player history
+power_stamina_lag3,Player history
+power_stamina_change3,Player history
+overall_lag4,Player history
+overall_change4,Player history
+role_quality_lag4,Player history
+role_quality_change4,Player history
+technical_quality_lag4,Player history
+technical_quality_change4,Player history
+athletic_quality_lag4,Player history
+athletic_quality_change4,Player history
+mental_quality_lag4,Player history
+mental_quality_change4,Player history
+team_top11_rating_lag4,Team / peer context
+team_top11_rating_change4,Team / peer context
+movement_reactions_lag4,Player history
+movement_reactions_change4,Player history
+skill_ball_control_lag4,Player history
+skill_ball_control_change4,Player history
+power_stamina_lag4,Player history
+power_stamina_change4,Player history
+overall_past_slope,Player history
+overall_past_observations,Player history
+role_quality_past_slope,Player history
+role_quality_past_observations,Player history
+technical_quality_past_slope,Player history
+technical_quality_past_observations,Player history
+athletic_quality_past_slope,Player history
+athletic_quality_past_observations,Player history
+mental_quality_past_slope,Player history
+mental_quality_past_observations,Player history
+team_top11_rating_past_slope,Team / peer context
+team_top11_rating_past_observations,Team / peer context
+movement_reactions_past_slope,Player history
+movement_reactions_past_observations,Player history
+skill_ball_control_past_slope,Player history
+skill_ball_control_past_observations,Player history
+power_stamina_past_slope,Player history
+power_stamina_past_observations,Player history
+rating_below_recent_peak,Player history
+rating_above_recent_floor,Player history
+past_growth_skill_ahead,Player history
+recent_growth_consistency,Player history

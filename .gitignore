@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+*.joblib
+results/*cache*
+results/room_payload.json
+results/prepared_role_panel.joblib
+*.zip

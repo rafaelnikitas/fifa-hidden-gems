@@ -1,0 +1,1725 @@
+player_id,short_name,feature,shap,group
+260908,M. Kerkez,overall,-0.12784106571310636,Current attributes
+260908,M. Kerkez,age,0.12762355799743824,Age / physique
+260908,M. Kerkez,height_cm,-0.07725270354199328,Age / physique
+260908,M. Kerkez,weight_kg,-0.004428876182683925,Age / physique
+260908,M. Kerkez,weak_foot,-0.0005315150835929479,Current attributes
+260908,M. Kerkez,skill_moves,0.005077517571999735,Current attributes
+260908,M. Kerkez,pace,0.0041770660875788245,Current attributes
+260908,M. Kerkez,shooting,-0.0005474375757359116,Current attributes
+260908,M. Kerkez,passing,-0.0011340308752731602,Current attributes
+260908,M. Kerkez,dribbling,-0.00388056752329629,Current attributes
+260908,M. Kerkez,defending,-0.0031735871291295233,Current attributes
+260908,M. Kerkez,physic,-0.0003803700103756739,Current attributes
+260908,M. Kerkez,attacking_crossing,0.0005521122895649891,Current attributes
+260908,M. Kerkez,attacking_finishing,0.005331680479293439,Current attributes
+260908,M. Kerkez,attacking_heading_accuracy,-0.011056372200079313,Current attributes
+260908,M. Kerkez,attacking_short_passing,0.0027202091474076624,Current attributes
+260908,M. Kerkez,attacking_volleys,6.70484028348516e-05,Current attributes
+260908,M. Kerkez,skill_dribbling,-0.0004529165219696869,Current attributes
+260908,M. Kerkez,skill_curve,-0.0058159036138214016,Current attributes
+260908,M. Kerkez,skill_fk_accuracy,-0.056988040466215785,Current attributes
+260908,M. Kerkez,skill_long_passing,-0.002565306948616673,Current attributes
+260908,M. Kerkez,skill_ball_control,-0.01674982505914663,Current attributes
+260908,M. Kerkez,movement_acceleration,0.0022372209566894887,Past development
+260908,M. Kerkez,movement_sprint_speed,0.0026678372952781736,Current attributes
+260908,M. Kerkez,movement_agility,-0.008113685149834503,Current attributes
+260908,M. Kerkez,movement_reactions,-0.0029720644040055386,Current attributes
+260908,M. Kerkez,movement_balance,0.005729370600963266,Current attributes
+260908,M. Kerkez,power_shot_power,0.003284498769778484,Current attributes
+260908,M. Kerkez,power_jumping,0.0005896897535431738,Current attributes
+260908,M. Kerkez,power_stamina,0.002071111801224574,Current attributes
+260908,M. Kerkez,power_strength,-0.007888656213558777,Current attributes
+260908,M. Kerkez,power_long_shots,7.838201084942702e-05,Current attributes
+260908,M. Kerkez,mentality_aggression,0.017008156368065932,Current attributes
+260908,M. Kerkez,mentality_interceptions,0.0006099817584941643,Current attributes
+260908,M. Kerkez,mentality_positioning,-0.0034685260264594453,Current attributes
+260908,M. Kerkez,mentality_vision,-0.0006205943653251841,Current attributes
+260908,M. Kerkez,mentality_penalties,-0.0075390650424274,Current attributes
+260908,M. Kerkez,mentality_composure,-0.037527455545170195,Current attributes
+260908,M. Kerkez,defending_marking_awareness,-0.02377044427085768,Current attributes
+260908,M. Kerkez,defending_standing_tackle,0.005756246052979153,Current attributes
+260908,M. Kerkez,defending_sliding_tackle,0.0070915022611856265,Current attributes
+260908,M. Kerkez,goalkeeping_diving,-0.003920667826708793,Current attributes
+260908,M. Kerkez,goalkeeping_handling,-0.00037068476591028266,Current attributes
+260908,M. Kerkez,goalkeeping_kicking,-0.0023225418220260805,Current attributes
+260908,M. Kerkez,goalkeeping_positioning,-0.0008845498656904884,Current attributes
+260908,M. Kerkez,goalkeeping_reflexes,0.007537434807929921,Current attributes
+260908,M. Kerkez,right_foot,0.006521752925390369,Current attributes
+260908,M. Kerkez,role_FW,0.0,Current attributes
+260908,M. Kerkez,role_Wing,0.0,Current attributes
+260908,M. Kerkez,role_MF,0.0002997826526922579,Current attributes
+260908,M. Kerkez,role_CB,0.0,Current attributes
+260908,M. Kerkez,role_FB,0.0,Current attributes
+260908,M. Kerkez,role_GK,0.0,Current attributes
+260908,M. Kerkez,role_Other,0.0,Current attributes
+260908,M. Kerkez,role_quality,0.0718866888910679,Current attributes
+260908,M. Kerkez,technical_quality,-0.0016928679900901425,Current attributes
+260908,M. Kerkez,athletic_quality,0.007476941120876318,Current attributes
+260908,M. Kerkez,mental_quality,-0.01789684786128559,Current attributes
+260908,M. Kerkez,role_headroom,-0.022779093235207114,Current attributes
+260908,M. Kerkez,technical_headroom,-0.0004693633854727998,Current attributes
+260908,M. Kerkez,athletic_headroom,-0.015103780637369496,Current attributes
+260908,M. Kerkez,mental_headroom,-0.0006975061118099959,Current attributes
+260908,M. Kerkez,skill_spikiness,0.005877585029221165,Current attributes
+260908,M. Kerkez,attributes_75plus,0.014793239218621319,Current attributes
+260908,M. Kerkez,attributes_80plus,0.006482032831733796,Current attributes
+260908,M. Kerkez,role_balance,0.014155477008751258,Current attributes
+260908,M. Kerkez,weakest_role_skill,0.011233965568358786,Current attributes
+260908,M. Kerkez,age_to_21,0.06268919105245921,Age / physique
+260908,M. Kerkez,age_rating_interaction,0.11403627486829085,Age / physique
+260908,M. Kerkez,role_quality_peer_percentile,0.657799313429956,Current attributes
+260908,M. Kerkez,technical_quality_peer_percentile,0.048314982605459196,Current attributes
+260908,M. Kerkez,athletic_quality_peer_percentile,-0.014603260990500246,Current attributes
+260908,M. Kerkez,mental_quality_peer_percentile,0.14190863091287378,Current attributes
+260908,M. Kerkez,overall_lag1,0.002261172135150379,Past development
+260908,M. Kerkez,overall_change1,-0.00011588849873111512,Past development
+260908,M. Kerkez,overall_lag2,0.000553849788205137,Past development
+260908,M. Kerkez,overall_change2,0.006416382064808065,Past development
+260908,M. Kerkez,role_quality_lag1,0.0020647859878260453,Past development
+260908,M. Kerkez,role_quality_change1,0.003856379941555782,Past development
+260908,M. Kerkez,role_quality_lag2,0.0,Past development
+260908,M. Kerkez,role_quality_change2,-0.0018555747659491086,Past development
+260908,M. Kerkez,technical_quality_lag1,0.004648257148137932,Past development
+260908,M. Kerkez,technical_quality_change1,0.0031258103960422217,Past development
+260908,M. Kerkez,technical_quality_lag2,-0.003001672536881731,Past development
+260908,M. Kerkez,technical_quality_change2,0.0010509992009969267,Past development
+260908,M. Kerkez,athletic_quality_lag1,0.002787593645550553,Past development
+260908,M. Kerkez,athletic_quality_change1,0.0,Past development
+260908,M. Kerkez,athletic_quality_lag2,0.003687908925592168,Past development
+260908,M. Kerkez,athletic_quality_change2,-0.001569824738652409,Past development
+260908,M. Kerkez,mental_quality_lag1,8.393729327226976e-06,Past development
+260908,M. Kerkez,mental_quality_change1,0.000518638605651039,Past development
+260908,M. Kerkez,mental_quality_lag2,0.0,Past development
+260908,M. Kerkez,mental_quality_change2,-0.0004966328690504243,Past development
+260908,M. Kerkez,movement_reactions_lag1,0.004899519180007175,Past development
+260908,M. Kerkez,movement_reactions_change1,0.0009571610328667523,Past development
+260908,M. Kerkez,movement_reactions_lag2,-0.0009218624714578729,Past development
+260908,M. Kerkez,movement_reactions_change2,-0.007664958690764413,Past development
+260908,M. Kerkez,skill_ball_control_lag1,0.0038723301814288773,Past development
+260908,M. Kerkez,skill_ball_control_change1,-0.0003725422408553408,Past development
+260908,M. Kerkez,skill_ball_control_lag2,0.003209188809348569,Past development
+260908,M. Kerkez,skill_ball_control_change2,-0.0004370727479448378,Past development
+260908,M. Kerkez,power_stamina_lag1,0.0012528710189315352,Past development
+260908,M. Kerkez,power_stamina_change1,-0.0006287503839977186,Past development
+260908,M. Kerkez,power_stamina_lag2,0.005458737530868292,Past development
+260908,M. Kerkez,power_stamina_change2,0.0,Past development
+260908,M. Kerkez,history_length,0.0045051615502242634,Past development
+260908,M. Kerkez,rating_acceleration,0.0,Past development
+260908,M. Kerkez,core_growth_ahead_of_rating,0.0,Current attributes
+260908,M. Kerkez,technical_growth_ahead_of_rating,0.004807986626153026,Current attributes
+260908,M. Kerkez,team_roster_n,-0.006330519341970322,Team / peer context
+260908,M. Kerkez,team_mean_rating,0.06268574018676148,Team / peer context
+260908,M. Kerkez,team_median_rating,0.08144561937231642,Team / peer context
+260908,M. Kerkez,team_rating_std,-0.015588062582835563,Team / peer context
+260908,M. Kerkez,team_best_rating,0.0013475998718808044,Team / peer context
+260908,M. Kerkez,team_mean_age,0.05673303382871334,Team / peer context
+260908,M. Kerkez,team_top11_rating,0.2477952903362943,Team / peer context
+260908,M. Kerkez,team_u21_share,-0.014446464591943937,Team / peer context
+260908,M. Kerkez,team_80plus_count,-0.015652498454277502,Team / peer context
+260908,M. Kerkez,team_strength_league_percentile,0.012188680789093619,Team / peer context
+260908,M. Kerkez,league_team_count,-0.0013116234200010548,Team / peer context
+260908,M. Kerkez,league_mean_team_strength,-0.05072513614659572,Team / peer context
+260908,M. Kerkez,league_best_team_strength,0.08328689525401096,Team / peer context
+260908,M. Kerkez,team_strength_vs_league,0.021559997764247163,Team / peer context
+260908,M. Kerkez,team_strength_vs_league_best,-3.50199734183448e-05,Team / peer context
+260908,M. Kerkez,team_strength_global_percentile,0.07530579172191336,Team / peer context
+260908,M. Kerkez,rating_vs_team_top11,0.000637166183017944,Team / peer context
+260908,M. Kerkez,rating_vs_team_mean,-0.0066065312979495475,Team / peer context
+260908,M. Kerkez,age_vs_team_mean,0.02007126959652044,Team / peer context
+260908,M. Kerkez,team_roster_log_n,0.027714947533646533,Team / peer context
+260908,M. Kerkez,league_level_numeric,0.004007356655716002,Team / peer context
+260908,M. Kerkez,previous_peak_gap,5.2559112626146975e-08,Current attributes
+260908,M. Kerkez,first_observed_age,0.023481086283899593,Age / physique
+260908,M. Kerkez,editions_since_first_seen,0.008894912897451968,Age / physique
+260908,M. Kerkez,team_peer_log_n,-0.005846401614763933,Team / peer context
+260908,M. Kerkez,team_pct_overall,-0.006002605748424098,Team / peer context
+260908,M. Kerkez,team_gap_overall,0.0013021209552336772,Team / peer context
+260908,M. Kerkez,team_pct_pace,0.0022462731684487138,Team / peer context
+260908,M. Kerkez,team_gap_pace,-0.000667353053168489,Team / peer context
+260908,M. Kerkez,team_pct_shooting,0.006085143271980976,Team / peer context
+260908,M. Kerkez,team_gap_shooting,-0.004641464482124951,Team / peer context
+260908,M. Kerkez,team_pct_passing,0.0007870794126359419,Team / peer context
+260908,M. Kerkez,team_gap_passing,-0.001244115141902247,Team / peer context
+260908,M. Kerkez,team_pct_dribbling,-0.00749034428637756,Team / peer context
+260908,M. Kerkez,team_gap_dribbling,0.001077724263310064,Team / peer context
+260908,M. Kerkez,team_pct_defending,0.003043254605932911,Team / peer context
+260908,M. Kerkez,team_gap_defending,0.0,Team / peer context
+260908,M. Kerkez,team_pct_physic,0.0,Team / peer context
+260908,M. Kerkez,team_gap_physic,0.003469448062137726,Team / peer context
+260908,M. Kerkez,team_pct_role_quality,-0.0016599917936792564,Team / peer context
+260908,M. Kerkez,team_gap_role_quality,-0.004722431881617904,Team / peer context
+260908,M. Kerkez,team_pct_technical_quality,-0.003964903952338691,Team / peer context
+260908,M. Kerkez,team_gap_technical_quality,-0.0006682046340148296,Team / peer context
+260908,M. Kerkez,team_pct_athletic_quality,0.000571564493991977,Team / peer context
+260908,M. Kerkez,team_gap_athletic_quality,0.0,Team / peer context
+260908,M. Kerkez,team_pct_mental_quality,0.0006176135768554459,Team / peer context
+260908,M. Kerkez,team_gap_mental_quality,-0.01964528944947855,Team / peer context
+260908,M. Kerkez,team_pct_attacking_crossing,-0.028764792923644377,Team / peer context
+260908,M. Kerkez,team_gap_attacking_crossing,-0.032617716662670854,Team / peer context
+260908,M. Kerkez,team_pct_attacking_finishing,-0.0004200036952742892,Team / peer context
+260908,M. Kerkez,team_gap_attacking_finishing,-0.014768421069844447,Team / peer context
+260908,M. Kerkez,team_pct_attacking_heading_accuracy,0.004332363059120388,Team / peer context
+260908,M. Kerkez,team_gap_attacking_heading_accuracy,-0.0008005128709262263,Team / peer context
+260908,M. Kerkez,team_pct_attacking_short_passing,0.00508351820729424,Team / peer context
+260908,M. Kerkez,team_gap_attacking_short_passing,0.0013427540905997866,Team / peer context
+260908,M. Kerkez,team_pct_attacking_volleys,0.015245704949404495,Team / peer context
+260908,M. Kerkez,team_gap_attacking_volleys,-0.008415662976407803,Team / peer context
+260908,M. Kerkez,team_pct_skill_dribbling,0.004060666826712035,Team / peer context
+260908,M. Kerkez,team_gap_skill_dribbling,0.002048164538184288,Team / peer context
+260908,M. Kerkez,team_pct_skill_curve,-0.0010539908894205048,Team / peer context
+260908,M. Kerkez,team_gap_skill_curve,0.0,Team / peer context
+260908,M. Kerkez,team_pct_skill_fk_accuracy,0.0,Team / peer context
+260908,M. Kerkez,team_gap_skill_fk_accuracy,0.0003142953690928379,Team / peer context
+260908,M. Kerkez,team_pct_skill_long_passing,0.005050606858683258,Team / peer context
+260908,M. Kerkez,team_gap_skill_long_passing,0.0,Team / peer context
+260908,M. Kerkez,team_pct_skill_ball_control,0.0,Team / peer context
+260908,M. Kerkez,team_gap_skill_ball_control,-0.007182045079732075,Team / peer context
+260908,M. Kerkez,team_pct_movement_acceleration,0.00033980508971532235,Past development
+260908,M. Kerkez,team_gap_movement_acceleration,0.0003847183875120869,Past development
+260908,M. Kerkez,team_pct_movement_sprint_speed,-0.006651748322421917,Team / peer context
+260908,M. Kerkez,team_gap_movement_sprint_speed,0.004220561931915897,Team / peer context
+260908,M. Kerkez,team_pct_movement_agility,0.0032148526105799354,Team / peer context
+260908,M. Kerkez,team_gap_movement_agility,0.004249023719164314,Team / peer context
+260908,M. Kerkez,team_pct_movement_reactions,-0.0006195040971334273,Team / peer context
+260908,M. Kerkez,team_gap_movement_reactions,0.012618977370320623,Team / peer context
+260908,M. Kerkez,team_pct_movement_balance,0.0,Team / peer context
+260908,M. Kerkez,team_gap_movement_balance,-0.012749276843689246,Team / peer context
+260908,M. Kerkez,team_pct_power_shot_power,0.0034931858947536303,Team / peer context
+260908,M. Kerkez,team_gap_power_shot_power,0.0,Team / peer context
+260908,M. Kerkez,team_pct_power_jumping,0.007986841651445864,Team / peer context
+260908,M. Kerkez,team_gap_power_jumping,-0.0036430704951999618,Team / peer context
+260908,M. Kerkez,team_pct_power_stamina,-0.0005553570360241841,Team / peer context
+260908,M. Kerkez,team_gap_power_stamina,-0.00045315487100453184,Team / peer context
+260908,M. Kerkez,team_pct_power_strength,0.0005210522301325102,Team / peer context
+260908,M. Kerkez,team_gap_power_strength,0.0012302791605075913,Team / peer context
+260908,M. Kerkez,team_pct_power_long_shots,0.00028333661738451203,Team / peer context
+260908,M. Kerkez,team_gap_power_long_shots,-4.052185910081215e-07,Team / peer context
+260908,M. Kerkez,team_pct_mentality_aggression,-0.0036260007942761274,Team / peer context
+260908,M. Kerkez,team_gap_mentality_aggression,-0.00017900765376470222,Team / peer context
+260908,M. Kerkez,team_pct_mentality_interceptions,0.0074873219581153855,Team / peer context
+260908,M. Kerkez,team_gap_mentality_interceptions,-0.0012140009884841767,Team / peer context
+260908,M. Kerkez,team_pct_mentality_positioning,0.0022509216583603757,Team / peer context
+260908,M. Kerkez,team_gap_mentality_positioning,-3.7044833624145855e-05,Team / peer context
+260908,M. Kerkez,team_pct_mentality_vision,0.00022212656258817432,Team / peer context
+260908,M. Kerkez,team_gap_mentality_vision,-0.0008974340054594333,Team / peer context
+260908,M. Kerkez,team_pct_mentality_penalties,0.0029844571057351427,Team / peer context
+260908,M. Kerkez,team_gap_mentality_penalties,0.0007754764042517233,Team / peer context
+260908,M. Kerkez,team_pct_mentality_composure,-0.03256856809380194,Team / peer context
+260908,M. Kerkez,team_gap_mentality_composure,-0.032657290891544836,Team / peer context
+260908,M. Kerkez,team_pct_defending_marking_awareness,-0.004904835163086146,Team / peer context
+260908,M. Kerkez,team_gap_defending_marking_awareness,-0.0022451663619112334,Team / peer context
+260908,M. Kerkez,team_pct_defending_standing_tackle,-0.006806595884159392,Team / peer context
+260908,M. Kerkez,team_gap_defending_standing_tackle,-0.0004826976798859962,Team / peer context
+260908,M. Kerkez,team_pct_defending_sliding_tackle,-0.007008414758364449,Team / peer context
+260908,M. Kerkez,team_gap_defending_sliding_tackle,0.0004479582804498694,Team / peer context
+260908,M. Kerkez,team_pct_goalkeeping_diving,-0.005384532826798929,Team / peer context
+260908,M. Kerkez,team_gap_goalkeeping_diving,-0.010679409057972135,Team / peer context
+260908,M. Kerkez,team_pct_goalkeeping_handling,-0.002534061602302486,Team / peer context
+260908,M. Kerkez,team_gap_goalkeeping_handling,-0.0005149078797936456,Team / peer context
+260908,M. Kerkez,team_pct_goalkeeping_kicking,0.005439731839935571,Team / peer context
+260908,M. Kerkez,team_gap_goalkeeping_kicking,0.0007542953991757828,Team / peer context
+260908,M. Kerkez,team_pct_goalkeeping_positioning,-0.00210303979780099,Team / peer context
+260908,M. Kerkez,team_gap_goalkeeping_positioning,-0.019789347103002744,Team / peer context
+260908,M. Kerkez,team_pct_goalkeeping_reflexes,-0.0068266302259639994,Team / peer context
+260908,M. Kerkez,team_gap_goalkeeping_reflexes,0.008540113205408706,Team / peer context
+260908,M. Kerkez,position_peer_log_n,-0.024702254609259025,Team / peer context
+260908,M. Kerkez,position_pct_overall,-0.055886193336365256,Team / peer context
+260908,M. Kerkez,position_pct_pace,-0.0014624631963653053,Team / peer context
+260908,M. Kerkez,position_pct_shooting,0.00048719245745493093,Team / peer context
+260908,M. Kerkez,position_pct_passing,0.015060573522543363,Team / peer context
+260908,M. Kerkez,position_pct_dribbling,-0.0021167576090345116,Team / peer context
+260908,M. Kerkez,position_pct_defending,-0.00681217001925046,Team / peer context
+260908,M. Kerkez,position_pct_physic,0.0002689891960795147,Team / peer context
+260908,M. Kerkez,position_pct_role_quality,0.0549165833289232,Team / peer context
+260908,M. Kerkez,position_pct_technical_quality,0.06564475824996867,Team / peer context
+260908,M. Kerkez,position_pct_athletic_quality,0.0167936371483959,Team / peer context
+260908,M. Kerkez,position_pct_mental_quality,0.0004970283209973758,Team / peer context
+260908,M. Kerkez,position_pct_attacking_crossing,-0.003241354805227701,Team / peer context
+260908,M. Kerkez,position_pct_attacking_finishing,0.007706684306000572,Team / peer context
+260908,M. Kerkez,position_pct_attacking_heading_accuracy,-0.006615324088044721,Team / peer context
+260908,M. Kerkez,position_pct_attacking_short_passing,-0.004726920738385977,Team / peer context
+260908,M. Kerkez,position_pct_attacking_volleys,-0.00772262609542031,Team / peer context
+260908,M. Kerkez,position_pct_skill_dribbling,0.0015612680024686264,Team / peer context
+260908,M. Kerkez,position_pct_skill_curve,-0.010515132880494884,Team / peer context
+260908,M. Kerkez,position_pct_skill_fk_accuracy,0.004044210886536389,Team / peer context
+260908,M. Kerkez,position_pct_skill_long_passing,-0.002863594193678939,Team / peer context
+260908,M. Kerkez,position_pct_skill_ball_control,-0.001462162431352748,Team / peer context
+260908,M. Kerkez,position_pct_movement_acceleration,-0.0002298324666954465,Past development
+260908,M. Kerkez,position_pct_movement_sprint_speed,0.013151430324991255,Team / peer context
+260908,M. Kerkez,position_pct_movement_agility,-0.010875137814182256,Team / peer context
+260908,M. Kerkez,position_pct_movement_reactions,0.008817899198716473,Team / peer context
+260908,M. Kerkez,position_pct_movement_balance,-0.0025957086401320727,Team / peer context
+260908,M. Kerkez,position_pct_power_shot_power,0.01508833340058457,Team / peer context
+260908,M. Kerkez,position_pct_power_jumping,0.0067788582966813275,Team / peer context
+260908,M. Kerkez,position_pct_power_stamina,0.010116101963145588,Team / peer context
+260908,M. Kerkez,position_pct_power_strength,0.012626508197406435,Team / peer context
+260908,M. Kerkez,position_pct_power_long_shots,0.0014986059404733605,Team / peer context
+260908,M. Kerkez,position_pct_mentality_aggression,0.03765091974666397,Team / peer context
+260908,M. Kerkez,position_pct_mentality_interceptions,-0.004230162981392854,Team / peer context
+260908,M. Kerkez,position_pct_mentality_positioning,-0.006901269471550326,Team / peer context
+260908,M. Kerkez,position_pct_mentality_vision,0.027870409186274633,Team / peer context
+260908,M. Kerkez,position_pct_mentality_penalties,0.0066444737042651875,Team / peer context
+260908,M. Kerkez,position_pct_mentality_composure,-0.05573714266105189,Team / peer context
+260908,M. Kerkez,position_pct_defending_marking_awareness,0.006659096039256383,Team / peer context
+260908,M. Kerkez,position_pct_defending_standing_tackle,5.108516871246952e-05,Team / peer context
+260908,M. Kerkez,position_pct_defending_sliding_tackle,0.0017785425379338866,Team / peer context
+260908,M. Kerkez,position_pct_goalkeeping_diving,0.0002288413526815103,Team / peer context
+260908,M. Kerkez,position_pct_goalkeeping_handling,0.01632360031259457,Team / peer context
+260908,M. Kerkez,position_pct_goalkeeping_kicking,-0.0013118373226442236,Team / peer context
+260908,M. Kerkez,position_pct_goalkeeping_positioning,0.0006994287825905044,Team / peer context
+260908,M. Kerkez,position_pct_goalkeeping_reflexes,0.0038584340978969197,Team / peer context
+260908,M. Kerkez,position_age_peer_log_n,0.09079298581719873,Team / peer context
+260908,M. Kerkez,position_age_pct_overall,0.3323994741063701,Team / peer context
+260908,M. Kerkez,position_age_pct_pace,0.002372124261487979,Team / peer context
+260908,M. Kerkez,position_age_pct_shooting,0.0,Team / peer context
+260908,M. Kerkez,position_age_pct_passing,0.020076003915210725,Team / peer context
+260908,M. Kerkez,position_age_pct_dribbling,0.04931663777607716,Team / peer context
+260908,M. Kerkez,position_age_pct_defending,0.041721134691106096,Team / peer context
+260908,M. Kerkez,position_age_pct_physic,-0.003243770066424887,Team / peer context
+260908,M. Kerkez,position_age_pct_role_quality,0.08015917803932036,Team / peer context
+260908,M. Kerkez,position_age_pct_technical_quality,0.0448111533557221,Team / peer context
+260908,M. Kerkez,position_age_pct_athletic_quality,0.0012216378062397497,Team / peer context
+260908,M. Kerkez,position_age_pct_mental_quality,-0.014034032359554931,Team / peer context
+260908,M. Kerkez,position_age_pct_attacking_crossing,0.011894832018642325,Team / peer context
+260908,M. Kerkez,position_age_pct_attacking_finishing,0.013192414069258827,Team / peer context
+260908,M. Kerkez,position_age_pct_attacking_heading_accuracy,-0.0017334030466578244,Team / peer context
+260908,M. Kerkez,position_age_pct_attacking_short_passing,0.00018937991597916198,Team / peer context
+260908,M. Kerkez,position_age_pct_attacking_volleys,0.008110121079924123,Team / peer context
+260908,M. Kerkez,position_age_pct_skill_dribbling,-0.0018339950771694708,Team / peer context
+260908,M. Kerkez,position_age_pct_skill_curve,0.025168715491713328,Team / peer context
+260908,M. Kerkez,position_age_pct_skill_fk_accuracy,0.0039078192328315985,Team / peer context
+260908,M. Kerkez,position_age_pct_skill_long_passing,-0.0006267739854405882,Team / peer context
+260908,M. Kerkez,position_age_pct_skill_ball_control,0.0327440472522259,Team / peer context
+260908,M. Kerkez,position_age_pct_movement_acceleration,-0.0004997907039732388,Past development
+260908,M. Kerkez,position_age_pct_movement_sprint_speed,-0.0014647965906686032,Team / peer context
+260908,M. Kerkez,position_age_pct_movement_agility,-0.025891942064348222,Team / peer context
+260908,M. Kerkez,position_age_pct_movement_reactions,0.033705537738438686,Team / peer context
+260908,M. Kerkez,position_age_pct_movement_balance,0.0009848406159224938,Team / peer context
+260908,M. Kerkez,position_age_pct_power_shot_power,0.017535234831213966,Team / peer context
+260908,M. Kerkez,position_age_pct_power_jumping,0.011677024293952405,Team / peer context
+260908,M. Kerkez,position_age_pct_power_stamina,0.01388446630810546,Team / peer context
+260908,M. Kerkez,position_age_pct_power_strength,-0.006112230986916917,Team / peer context
+260908,M. Kerkez,position_age_pct_power_long_shots,-0.036329688066882575,Team / peer context
+260908,M. Kerkez,position_age_pct_mentality_aggression,0.030091966878857457,Team / peer context
+260908,M. Kerkez,position_age_pct_mentality_interceptions,0.008254643036707194,Team / peer context
+260908,M. Kerkez,position_age_pct_mentality_positioning,0.03534440830675334,Team / peer context
+260908,M. Kerkez,position_age_pct_mentality_vision,0.014884658075513391,Team / peer context
+260908,M. Kerkez,position_age_pct_mentality_penalties,0.008712054268004693,Team / peer context
+260908,M. Kerkez,position_age_pct_mentality_composure,-0.11378022825654076,Team / peer context
+260908,M. Kerkez,position_age_pct_defending_marking_awareness,0.03158863898305279,Team / peer context
+260908,M. Kerkez,position_age_pct_defending_standing_tackle,0.009637767933716495,Team / peer context
+260908,M. Kerkez,position_age_pct_defending_sliding_tackle,0.0,Team / peer context
+260908,M. Kerkez,position_age_pct_goalkeeping_diving,0.02571582304287215,Team / peer context
+260908,M. Kerkez,position_age_pct_goalkeeping_handling,-0.0011182427123428117,Team / peer context
+260908,M. Kerkez,position_age_pct_goalkeeping_kicking,0.010493985429041796,Team / peer context
+260908,M. Kerkez,position_age_pct_goalkeeping_positioning,0.013589118099360177,Team / peer context
+260908,M. Kerkez,position_age_pct_goalkeeping_reflexes,0.0005572190587794464,Team / peer context
+260908,M. Kerkez,team_role_peer_log_n,-0.003012420334047994,Team / peer context
+260908,M. Kerkez,team_role_pct_overall,0.0011074277049307642,Team / peer context
+260908,M. Kerkez,team_role_gap_overall,0.0,Team / peer context
+260908,M. Kerkez,team_role_pct_role_quality,0.001865497337178263,Team / peer context
+260908,M. Kerkez,team_role_gap_role_quality,0.0028872922848423646,Team / peer context
+260908,M. Kerkez,team_role_pct_technical_quality,0.002699934540656423,Team / peer context
+260908,M. Kerkez,team_role_gap_technical_quality,-0.006072060713990104,Team / peer context
+260908,M. Kerkez,team_role_pct_athletic_quality,-0.0007168166329260146,Team / peer context
+260908,M. Kerkez,team_role_gap_athletic_quality,0.0010315753501141194,Team / peer context
+260908,M. Kerkez,team_role_pct_mental_quality,0.006442343316993326,Team / peer context
+260908,M. Kerkez,team_role_gap_mental_quality,0.008775741696499825,Team / peer context
+260908,M. Kerkez,team_role_pct_movement_reactions,0.006129608957377642,Team / peer context
+260908,M. Kerkez,team_role_gap_movement_reactions,0.0024503499593022684,Team / peer context
+260908,M. Kerkez,team_role_rating_depth_gap,-0.00013984975154595315,Team / peer context
+260908,M. Kerkez,league_position_peer_log_n,0.002313925328454912,Team / peer context
+260908,M. Kerkez,league_position_pct_overall,-0.004670888159119077,Team / peer context
+260908,M. Kerkez,league_position_pct_role_quality,0.012039844304069429,Team / peer context
+260908,M. Kerkez,league_position_pct_technical_quality,0.0004964943553155458,Team / peer context
+260908,M. Kerkez,league_position_pct_athletic_quality,0.0042234630862077235,Team / peer context
+260908,M. Kerkez,league_position_pct_mental_quality,-0.0032389427961641093,Team / peer context
+260908,M. Kerkez,league_position_pct_pace,0.06892374277314212,Team / peer context
+260908,M. Kerkez,league_position_age_peer_log_n,-0.0013049922333991367,Team / peer context
+260908,M. Kerkez,league_position_age_pct_overall,0.0009867349447680372,Team / peer context
+260908,M. Kerkez,league_position_age_pct_role_quality,-0.0003994608270722116,Team / peer context
+260908,M. Kerkez,league_position_age_pct_technical_quality,0.003696562894853966,Team / peer context
+260908,M. Kerkez,league_position_age_pct_athletic_quality,-0.00028003547492101423,Team / peer context
+260908,M. Kerkez,league_position_age_pct_mental_quality,0.00024025607656491838,Team / peer context
+260908,M. Kerkez,league_position_age_pct_pace,0.0002738168274292973,Team / peer context
+260908,M. Kerkez,team_skill_above_rating_rank,-0.007893052926920082,Team / peer context
+260908,M. Kerkez,position_age_skill_above_rating_rank,-0.04554900591867113,Team / peer context
+260908,M. Kerkez,club_named_starter,0.15866664331803182,Team / peer context
+260908,M. Kerkez,club_substitute,0.0064150241870070245,Team / peer context
+260908,M. Kerkez,club_reserve,0.01273731972076271,Team / peer context
+260908,M. Kerkez,team_top11_rating_context_change1,-0.0003963990773977765,Past development
+260908,M. Kerkez,team_strength_league_percentile_context_change1,0.0,Past development
+260908,M. Kerkez,league_mean_team_strength_context_change1,0.0002651698339777165,Past development
+260908,M. Kerkez,rating_vs_team_mean_context_change1,-2.3388056620072573e-05,Past development
+260908,M. Kerkez,team_pct_overall_context_change1,0.0,Past development
+260908,M. Kerkez,team_pct_role_quality_context_change1,-0.001768303752759512,Past development
+260908,M. Kerkez,team_role_pct_role_quality_context_change1,0.0,Past development
+260908,M. Kerkez,position_age_pct_role_quality_context_change1,-0.0011561302134011299,Past development
+260908,M. Kerkez,team_role_rating_depth_gap_context_change1,-0.0021009477286901062,Past development
+260908,M. Kerkez,club_team_id_changed1,-0.0009995716508361275,Past development
+260908,M. Kerkez,league_id_changed1,-0.0009370948786704913,Past development
+260908,M. Kerkez,team_top11_rating_context_change2,-0.0016604644610506332,Past development
+260908,M. Kerkez,team_strength_league_percentile_context_change2,-0.00040702948882172474,Past development
+260908,M. Kerkez,league_mean_team_strength_context_change2,0.002017616350858403,Past development
+260908,M. Kerkez,rating_vs_team_mean_context_change2,-0.00014758864921528611,Past development
+260908,M. Kerkez,team_pct_overall_context_change2,2.8848226658061984e-05,Past development
+260908,M. Kerkez,team_pct_role_quality_context_change2,0.0020827750994795217,Past development
+260908,M. Kerkez,team_role_pct_role_quality_context_change2,0.0024338028228669713,Past development
+260908,M. Kerkez,position_age_pct_role_quality_context_change2,0.005050609437754128,Past development
+260908,M. Kerkez,team_role_rating_depth_gap_context_change2,0.0009535341028358421,Past development
+260908,M. Kerkez,club_team_id_changed2,7.412390172617754e-05,Past development
+260908,M. Kerkez,league_id_changed2,0.0017563603361442851,Past development
+260908,M. Kerkez,potential,0.7886340340835212,FIFA potential
+260908,M. Kerkez,potential_gap,0.011854441022150932,FIFA potential
+260908,M. Kerkez,overall_lag3,0.002008519197637341,Past development
+260908,M. Kerkez,overall_change3,0.0007131370952429743,Past development
+260908,M. Kerkez,role_quality_lag3,0.0,Past development
+260908,M. Kerkez,role_quality_change3,0.0,Past development
+260908,M. Kerkez,technical_quality_lag3,0.0,Past development
+260908,M. Kerkez,technical_quality_change3,0.0,Past development
+260908,M. Kerkez,athletic_quality_lag3,0.001463669133619117,Past development
+260908,M. Kerkez,athletic_quality_change3,0.001319534779581063,Past development
+260908,M. Kerkez,mental_quality_lag3,0.0,Past development
+260908,M. Kerkez,mental_quality_change3,0.0,Past development
+260908,M. Kerkez,team_top11_rating_lag3,0.0037681487771610463,Past development
+260908,M. Kerkez,team_top11_rating_change3,0.0,Past development
+260908,M. Kerkez,movement_reactions_lag3,0.0,Past development
+260908,M. Kerkez,movement_reactions_change3,-1.4019421859424859e-05,Past development
+260908,M. Kerkez,skill_ball_control_lag3,0.011397874422358137,Past development
+260908,M. Kerkez,skill_ball_control_change3,0.0,Past development
+260908,M. Kerkez,power_stamina_lag3,0.0008200762300327714,Past development
+260908,M. Kerkez,power_stamina_change3,0.0017864096578816668,Past development
+260908,M. Kerkez,overall_lag4,0.0,Past development
+260908,M. Kerkez,overall_change4,0.0005491015547697011,Past development
+260908,M. Kerkez,role_quality_lag4,0.0014200577593783787,Past development
+260908,M. Kerkez,role_quality_change4,0.0,Past development
+260908,M. Kerkez,technical_quality_lag4,0.001046215465549975,Past development
+260908,M. Kerkez,technical_quality_change4,0.0,Past development
+260908,M. Kerkez,athletic_quality_lag4,0.0,Past development
+260908,M. Kerkez,athletic_quality_change4,0.0,Past development
+260908,M. Kerkez,mental_quality_lag4,0.0,Past development
+260908,M. Kerkez,mental_quality_change4,0.0,Past development
+260908,M. Kerkez,team_top11_rating_lag4,0.0,Past development
+260908,M. Kerkez,team_top11_rating_change4,0.0,Past development
+260908,M. Kerkez,movement_reactions_lag4,2.0948495780789955e-06,Past development
+260908,M. Kerkez,movement_reactions_change4,-6.826007106420206e-06,Past development
+260908,M. Kerkez,skill_ball_control_lag4,0.003929033856401202,Past development
+260908,M. Kerkez,skill_ball_control_change4,0.0,Past development
+260908,M. Kerkez,power_stamina_lag4,0.003280238761629274,Past development
+260908,M. Kerkez,power_stamina_change4,0.0026506520252669846,Past development
+260908,M. Kerkez,overall_past_slope,-0.0047008378003121545,Past development
+260908,M. Kerkez,overall_past_observations,0.0005407641542806637,Past development
+260908,M. Kerkez,role_quality_past_slope,0.0011037783819026138,Past development
+260908,M. Kerkez,role_quality_past_observations,0.005036485153937857,Past development
+260908,M. Kerkez,technical_quality_past_slope,0.0,Past development
+260908,M. Kerkez,technical_quality_past_observations,0.009220467875195145,Past development
+260908,M. Kerkez,athletic_quality_past_slope,0.00436649672563877,Past development
+260908,M. Kerkez,athletic_quality_past_observations,0.0,Past development
+260908,M. Kerkez,mental_quality_past_slope,0.003577880085122121,Past development
+260908,M. Kerkez,mental_quality_past_observations,0.0,Past development
+260908,M. Kerkez,team_top11_rating_past_slope,0.00017482112242926199,Past development
+260908,M. Kerkez,team_top11_rating_past_observations,0.009078832193137827,Past development
+260908,M. Kerkez,movement_reactions_past_slope,-0.00014223488050674383,Past development
+260908,M. Kerkez,movement_reactions_past_observations,0.0,Past development
+260908,M. Kerkez,skill_ball_control_past_slope,0.0011384885365451642,Past development
+260908,M. Kerkez,skill_ball_control_past_observations,0.0026914507503554,Past development
+260908,M. Kerkez,power_stamina_past_slope,0.0,Past development
+260908,M. Kerkez,power_stamina_past_observations,0.006388758793822934,Past development
+260908,M. Kerkez,rating_below_recent_peak,1.4761235388628365e-05,Past development
+260908,M. Kerkez,rating_above_recent_floor,0.0,Past development
+260908,M. Kerkez,past_growth_skill_ahead,0.003999207250712469,Past development
+260908,M. Kerkez,recent_growth_consistency,0.0020813803984414355,Past development
+230872,M. Svilar,overall,-0.09422683186362828,Current attributes
+230872,M. Svilar,age,0.02941558640712663,Age / physique
+230872,M. Svilar,height_cm,0.29515042869047786,Age / physique
+230872,M. Svilar,weight_kg,-0.0034433326868713327,Age / physique
+230872,M. Svilar,weak_foot,0.00011892949929037924,Current attributes
+230872,M. Svilar,skill_moves,-0.0055167763808911755,Current attributes
+230872,M. Svilar,pace,-0.006943348279486396,Current attributes
+230872,M. Svilar,shooting,0.0005623256552240758,Current attributes
+230872,M. Svilar,passing,0.006596695823137163,Current attributes
+230872,M. Svilar,dribbling,0.004321750146891662,Current attributes
+230872,M. Svilar,defending,-0.014832270546847581,Current attributes
+230872,M. Svilar,physic,0.006044151395030032,Current attributes
+230872,M. Svilar,attacking_crossing,9.270592773848993e-05,Current attributes
+230872,M. Svilar,attacking_finishing,0.015317781641769626,Current attributes
+230872,M. Svilar,attacking_heading_accuracy,0.034551865467085774,Current attributes
+230872,M. Svilar,attacking_short_passing,0.008437392834451093,Current attributes
+230872,M. Svilar,attacking_volleys,-0.00044980467110080654,Current attributes
+230872,M. Svilar,skill_dribbling,0.008436756946969534,Current attributes
+230872,M. Svilar,skill_curve,0.006528437862094093,Current attributes
+230872,M. Svilar,skill_fk_accuracy,-0.03240228257883316,Current attributes
+230872,M. Svilar,skill_long_passing,-0.004789487327060441,Current attributes
+230872,M. Svilar,skill_ball_control,-0.02381223518746156,Current attributes
+230872,M. Svilar,movement_acceleration,0.008588962381504748,Past development
+230872,M. Svilar,movement_sprint_speed,-0.0003034721341485336,Current attributes
+230872,M. Svilar,movement_agility,-0.00530599638116912,Current attributes
+230872,M. Svilar,movement_reactions,0.01537833514284018,Current attributes
+230872,M. Svilar,movement_balance,0.010011622740864905,Current attributes
+230872,M. Svilar,power_shot_power,6.221880001126354e-05,Current attributes
+230872,M. Svilar,power_jumping,-0.023181571273357376,Current attributes
+230872,M. Svilar,power_stamina,-0.009902858114734413,Current attributes
+230872,M. Svilar,power_strength,-0.005690112330012307,Current attributes
+230872,M. Svilar,power_long_shots,-0.0012405535843646306,Current attributes
+230872,M. Svilar,mentality_aggression,-0.040528346873263225,Current attributes
+230872,M. Svilar,mentality_interceptions,-0.03334119914587604,Current attributes
+230872,M. Svilar,mentality_positioning,-0.0017864679647555865,Current attributes
+230872,M. Svilar,mentality_vision,-0.0012384700433468404,Current attributes
+230872,M. Svilar,mentality_penalties,-0.0031048718715675507,Current attributes
+230872,M. Svilar,mentality_composure,0.022106834309221838,Current attributes
+230872,M. Svilar,defending_marking_awareness,0.007923804053816496,Current attributes
+230872,M. Svilar,defending_standing_tackle,0.005801550196433275,Current attributes
+230872,M. Svilar,defending_sliding_tackle,0.005678382690400908,Current attributes
+230872,M. Svilar,goalkeeping_diving,0.01742248621053997,Current attributes
+230872,M. Svilar,goalkeeping_handling,0.007855108607407285,Current attributes
+230872,M. Svilar,goalkeeping_kicking,-0.005228702900412421,Current attributes
+230872,M. Svilar,goalkeeping_positioning,0.012392471456528876,Current attributes
+230872,M. Svilar,goalkeeping_reflexes,0.0005280132235365333,Current attributes
+230872,M. Svilar,right_foot,-0.0024604605735071877,Current attributes
+230872,M. Svilar,role_FW,0.0,Current attributes
+230872,M. Svilar,role_Wing,0.0,Current attributes
+230872,M. Svilar,role_MF,-0.0002951033426945361,Current attributes
+230872,M. Svilar,role_CB,0.0,Current attributes
+230872,M. Svilar,role_FB,0.0,Current attributes
+230872,M. Svilar,role_GK,0.0,Current attributes
+230872,M. Svilar,role_Other,0.0,Current attributes
+230872,M. Svilar,role_quality,-0.03084359980865082,Current attributes
+230872,M. Svilar,technical_quality,-0.0026087312719374287,Current attributes
+230872,M. Svilar,athletic_quality,0.004881145643350993,Current attributes
+230872,M. Svilar,mental_quality,0.017230054931448295,Current attributes
+230872,M. Svilar,role_headroom,0.013204776471018422,Current attributes
+230872,M. Svilar,technical_headroom,0.0013763541922597266,Current attributes
+230872,M. Svilar,athletic_headroom,0.019997961319569664,Current attributes
+230872,M. Svilar,mental_headroom,-0.0014570081846713265,Current attributes
+230872,M. Svilar,skill_spikiness,0.013561972723280392,Current attributes
+230872,M. Svilar,attributes_75plus,-0.08337714519335072,Current attributes
+230872,M. Svilar,attributes_80plus,-0.0021238803297571104,Current attributes
+230872,M. Svilar,role_balance,-0.017516348596019235,Current attributes
+230872,M. Svilar,weakest_role_skill,-0.0030016627787597472,Current attributes
+230872,M. Svilar,age_to_21,0.026266527586873322,Age / physique
+230872,M. Svilar,age_rating_interaction,0.05339360640155318,Age / physique
+230872,M. Svilar,role_quality_peer_percentile,0.02219215234593178,Current attributes
+230872,M. Svilar,technical_quality_peer_percentile,0.017108399573577182,Current attributes
+230872,M. Svilar,athletic_quality_peer_percentile,-0.018000303508421252,Current attributes
+230872,M. Svilar,mental_quality_peer_percentile,-0.018827682437132943,Current attributes
+230872,M. Svilar,overall_lag1,0.0022701552740402317,Past development
+230872,M. Svilar,overall_change1,-0.0004274490206304896,Past development
+230872,M. Svilar,overall_lag2,-0.00016553620732628478,Past development
+230872,M. Svilar,overall_change2,-0.004536107975595173,Past development
+230872,M. Svilar,role_quality_lag1,-0.004321000046536095,Past development
+230872,M. Svilar,role_quality_change1,0.002213763476574656,Past development
+230872,M. Svilar,role_quality_lag2,0.0,Past development
+230872,M. Svilar,role_quality_change2,-0.007591789630354526,Past development
+230872,M. Svilar,technical_quality_lag1,-0.00567291721437051,Past development
+230872,M. Svilar,technical_quality_change1,0.008391455791140673,Past development
+230872,M. Svilar,technical_quality_lag2,-0.0003942038507025497,Past development
+230872,M. Svilar,technical_quality_change2,0.0021748284379004322,Past development
+230872,M. Svilar,athletic_quality_lag1,0.004249673535537731,Past development
+230872,M. Svilar,athletic_quality_change1,0.0,Past development
+230872,M. Svilar,athletic_quality_lag2,-0.006101848935361298,Past development
+230872,M. Svilar,athletic_quality_change2,-0.001237969576661293,Past development
+230872,M. Svilar,mental_quality_lag1,8.393729327226976e-06,Past development
+230872,M. Svilar,mental_quality_change1,-0.0024271311264787276,Past development
+230872,M. Svilar,mental_quality_lag2,0.0,Past development
+230872,M. Svilar,mental_quality_change2,-0.0003065613259713998,Past development
+230872,M. Svilar,movement_reactions_lag1,0.00011757965061426345,Past development
+230872,M. Svilar,movement_reactions_change1,-0.0037848177544327474,Past development
+230872,M. Svilar,movement_reactions_lag2,-0.006718877391914835,Past development
+230872,M. Svilar,movement_reactions_change2,-0.008391379824281899,Past development
+230872,M. Svilar,skill_ball_control_lag1,-0.003818853233754891,Past development
+230872,M. Svilar,skill_ball_control_change1,-0.0002134313694785733,Past development
+230872,M. Svilar,skill_ball_control_lag2,0.003516025767124317,Past development
+230872,M. Svilar,skill_ball_control_change2,-0.0007641589168654831,Past development
+230872,M. Svilar,power_stamina_lag1,0.0009663075235865162,Past development
+230872,M. Svilar,power_stamina_change1,-0.0016653747437542282,Past development
+230872,M. Svilar,power_stamina_lag2,0.004984756043470452,Past development
+230872,M. Svilar,power_stamina_change2,0.0,Past development
+230872,M. Svilar,history_length,-0.008557251837424933,Past development
+230872,M. Svilar,rating_acceleration,0.0,Past development
+230872,M. Svilar,core_growth_ahead_of_rating,0.0,Current attributes
+230872,M. Svilar,technical_growth_ahead_of_rating,-0.007824507916278011,Current attributes
+230872,M. Svilar,team_roster_n,0.02130724568933645,Team / peer context
+230872,M. Svilar,team_mean_rating,-0.008323287857624722,Team / peer context
+230872,M. Svilar,team_median_rating,0.22862982535288306,Team / peer context
+230872,M. Svilar,team_rating_std,0.00039802939462852413,Team / peer context
+230872,M. Svilar,team_best_rating,-0.017945455287159292,Team / peer context
+230872,M. Svilar,team_mean_age,0.010676903903940476,Team / peer context
+230872,M. Svilar,team_top11_rating,0.2655509633585388,Team / peer context
+230872,M. Svilar,team_u21_share,-0.015716081317473915,Team / peer context
+230872,M. Svilar,team_80plus_count,0.09028730074422472,Team / peer context
+230872,M. Svilar,team_strength_league_percentile,0.008516399717805679,Team / peer context
+230872,M. Svilar,league_team_count,0.0019337284775659757,Team / peer context
+230872,M. Svilar,league_mean_team_strength,0.2666524610502765,Team / peer context
+230872,M. Svilar,league_best_team_strength,0.26540194327765076,Team / peer context
+230872,M. Svilar,team_strength_vs_league,0.0031480250796770627,Team / peer context
+230872,M. Svilar,team_strength_vs_league_best,-0.0008853001510134547,Team / peer context
+230872,M. Svilar,team_strength_global_percentile,0.34437006862930264,Team / peer context
+230872,M. Svilar,rating_vs_team_top11,0.0023000409006796924,Team / peer context
+230872,M. Svilar,rating_vs_team_mean,-0.008008994426254431,Team / peer context
+230872,M. Svilar,age_vs_team_mean,0.03333478961317855,Team / peer context
+230872,M. Svilar,team_roster_log_n,0.01601098217821651,Team / peer context
+230872,M. Svilar,league_level_numeric,0.0031743953062248393,Team / peer context
+230872,M. Svilar,previous_peak_gap,2.3543215339332758e-08,Current attributes
+230872,M. Svilar,first_observed_age,0.10820639252539307,Age / physique
+230872,M. Svilar,editions_since_first_seen,-0.026581916756354282,Age / physique
+230872,M. Svilar,team_peer_log_n,-0.010863296590282803,Team / peer context
+230872,M. Svilar,team_pct_overall,0.004180511126123002,Team / peer context
+230872,M. Svilar,team_gap_overall,0.0013021209552336772,Team / peer context
+230872,M. Svilar,team_pct_pace,0.009492712525709048,Team / peer context
+230872,M. Svilar,team_gap_pace,-0.01508435755810869,Team / peer context
+230872,M. Svilar,team_pct_shooting,0.006085143271980976,Team / peer context
+230872,M. Svilar,team_gap_shooting,-0.004593136074933605,Team / peer context
+230872,M. Svilar,team_pct_passing,-0.0007893331524813558,Team / peer context
+230872,M. Svilar,team_gap_passing,-6.597383064757697e-05,Team / peer context
+230872,M. Svilar,team_pct_dribbling,0.001843209772655216,Team / peer context
+230872,M. Svilar,team_gap_dribbling,-0.001202777471324331,Team / peer context
+230872,M. Svilar,team_pct_defending,-0.003471566633971414,Team / peer context
+230872,M. Svilar,team_gap_defending,0.0,Team / peer context
+230872,M. Svilar,team_pct_physic,0.0,Team / peer context
+230872,M. Svilar,team_gap_physic,-0.0023515364775749887,Team / peer context
+230872,M. Svilar,team_pct_role_quality,-6.029033783475806e-05,Team / peer context
+230872,M. Svilar,team_gap_role_quality,-0.12845230267045715,Team / peer context
+230872,M. Svilar,team_pct_technical_quality,0.004415986931851264,Team / peer context
+230872,M. Svilar,team_gap_technical_quality,9.087917787065373e-05,Team / peer context
+230872,M. Svilar,team_pct_athletic_quality,-1.1506980082851212e-05,Team / peer context
+230872,M. Svilar,team_gap_athletic_quality,0.0,Team / peer context
+230872,M. Svilar,team_pct_mental_quality,0.0032278596169398478,Team / peer context
+230872,M. Svilar,team_gap_mental_quality,0.06447533471788518,Team / peer context
+230872,M. Svilar,team_pct_attacking_crossing,0.02468227987327855,Team / peer context
+230872,M. Svilar,team_gap_attacking_crossing,-0.0063635154400681375,Team / peer context
+230872,M. Svilar,team_pct_attacking_finishing,0.0024569511785012166,Team / peer context
+230872,M. Svilar,team_gap_attacking_finishing,-0.009878042189783071,Team / peer context
+230872,M. Svilar,team_pct_attacking_heading_accuracy,0.0010661343777542095,Team / peer context
+230872,M. Svilar,team_gap_attacking_heading_accuracy,0.0005149164203225752,Team / peer context
+230872,M. Svilar,team_pct_attacking_short_passing,-0.004859536975142179,Team / peer context
+230872,M. Svilar,team_gap_attacking_short_passing,-0.002318930740412466,Team / peer context
+230872,M. Svilar,team_pct_attacking_volleys,-0.00023198094774350435,Team / peer context
+230872,M. Svilar,team_gap_attacking_volleys,-0.007909493647571458,Team / peer context
+230872,M. Svilar,team_pct_skill_dribbling,0.00318837697387391,Team / peer context
+230872,M. Svilar,team_gap_skill_dribbling,-0.0016414787918210192,Team / peer context
+230872,M. Svilar,team_pct_skill_curve,-0.011417577732317446,Team / peer context
+230872,M. Svilar,team_gap_skill_curve,0.0,Team / peer context
+230872,M. Svilar,team_pct_skill_fk_accuracy,0.0,Team / peer context
+230872,M. Svilar,team_gap_skill_fk_accuracy,-0.002431086692926271,Team / peer context
+230872,M. Svilar,team_pct_skill_long_passing,0.0021840104706319255,Team / peer context
+230872,M. Svilar,team_gap_skill_long_passing,0.0,Team / peer context
+230872,M. Svilar,team_pct_skill_ball_control,0.0,Team / peer context
+230872,M. Svilar,team_gap_skill_ball_control,-0.016773208641839406,Team / peer context
+230872,M. Svilar,team_pct_movement_acceleration,0.002117446696134942,Past development
+230872,M. Svilar,team_gap_movement_acceleration,0.005490568217229102,Past development
+230872,M. Svilar,team_pct_movement_sprint_speed,-0.0029247477626398464,Team / peer context
+230872,M. Svilar,team_gap_movement_sprint_speed,0.0008228205102769628,Team / peer context
+230872,M. Svilar,team_pct_movement_agility,0.00019234640691701867,Team / peer context
+230872,M. Svilar,team_gap_movement_agility,-0.0003655570032976086,Team / peer context
+230872,M. Svilar,team_pct_movement_reactions,-0.001560229932567215,Team / peer context
+230872,M. Svilar,team_gap_movement_reactions,0.013628120887526626,Team / peer context
+230872,M. Svilar,team_pct_movement_balance,0.0,Team / peer context
+230872,M. Svilar,team_gap_movement_balance,0.04421193829066945,Team / peer context
+230872,M. Svilar,team_pct_power_shot_power,-0.010539293823668411,Team / peer context
+230872,M. Svilar,team_gap_power_shot_power,0.0,Team / peer context
+230872,M. Svilar,team_pct_power_jumping,0.0015723987722919238,Team / peer context
+230872,M. Svilar,team_gap_power_jumping,0.002283071586260688,Team / peer context
+230872,M. Svilar,team_pct_power_stamina,-0.007402059204651021,Team / peer context
+230872,M. Svilar,team_gap_power_stamina,-0.007202349886900342,Team / peer context
+230872,M. Svilar,team_pct_power_strength,0.003147858457189135,Team / peer context
+230872,M. Svilar,team_gap_power_strength,-0.0002862515740796037,Team / peer context
+230872,M. Svilar,team_pct_power_long_shots,0.00025131449025210897,Team / peer context
+230872,M. Svilar,team_gap_power_long_shots,0.003841533478673091,Team / peer context
+230872,M. Svilar,team_pct_mentality_aggression,-0.021800976940625223,Team / peer context
+230872,M. Svilar,team_gap_mentality_aggression,-0.013165437427349784,Team / peer context
+230872,M. Svilar,team_pct_mentality_interceptions,-0.05212086932990549,Team / peer context
+230872,M. Svilar,team_gap_mentality_interceptions,-0.018815929892545703,Team / peer context
+230872,M. Svilar,team_pct_mentality_positioning,0.017907018031748347,Team / peer context
+230872,M. Svilar,team_gap_mentality_positioning,-0.008802929495561202,Team / peer context
+230872,M. Svilar,team_pct_mentality_vision,0.00022212656258817432,Team / peer context
+230872,M. Svilar,team_gap_mentality_vision,-0.004382376248391802,Team / peer context
+230872,M. Svilar,team_pct_mentality_penalties,0.0021473152963076753,Team / peer context
+230872,M. Svilar,team_gap_mentality_penalties,0.0007754764042517233,Team / peer context
+230872,M. Svilar,team_pct_mentality_composure,0.03023958904007424,Team / peer context
+230872,M. Svilar,team_gap_mentality_composure,0.0008714557432317359,Team / peer context
+230872,M. Svilar,team_pct_defending_marking_awareness,-0.0009193634050199575,Team / peer context
+230872,M. Svilar,team_gap_defending_marking_awareness,0.014130383512114545,Team / peer context
+230872,M. Svilar,team_pct_defending_standing_tackle,-0.015198391572370403,Team / peer context
+230872,M. Svilar,team_gap_defending_standing_tackle,-0.009017317209338507,Team / peer context
+230872,M. Svilar,team_pct_defending_sliding_tackle,-2.87362361787568e-05,Team / peer context
+230872,M. Svilar,team_gap_defending_sliding_tackle,0.0009524353985701813,Team / peer context
+230872,M. Svilar,team_pct_goalkeeping_diving,-0.0022223270123215267,Team / peer context
+230872,M. Svilar,team_gap_goalkeeping_diving,0.03261076831115762,Team / peer context
+230872,M. Svilar,team_pct_goalkeeping_handling,0.01375076834775045,Team / peer context
+230872,M. Svilar,team_gap_goalkeeping_handling,0.007089993875610233,Team / peer context
+230872,M. Svilar,team_pct_goalkeeping_kicking,0.0020618588612352027,Team / peer context
+230872,M. Svilar,team_gap_goalkeeping_kicking,0.0027169087783362206,Team / peer context
+230872,M. Svilar,team_pct_goalkeeping_positioning,0.04883309153617654,Team / peer context
+230872,M. Svilar,team_gap_goalkeeping_positioning,-0.01542847005892434,Team / peer context
+230872,M. Svilar,team_pct_goalkeeping_reflexes,0.013543040536567689,Team / peer context
+230872,M. Svilar,team_gap_goalkeeping_reflexes,-0.019506893347630963,Team / peer context
+230872,M. Svilar,position_peer_log_n,-0.014322717685155618,Team / peer context
+230872,M. Svilar,position_pct_overall,0.09361253171486066,Team / peer context
+230872,M. Svilar,position_pct_pace,0.0032802415053072844,Team / peer context
+230872,M. Svilar,position_pct_shooting,-0.00670682276733465,Team / peer context
+230872,M. Svilar,position_pct_passing,0.0003128197426154819,Team / peer context
+230872,M. Svilar,position_pct_dribbling,-0.004355379154283141,Team / peer context
+230872,M. Svilar,position_pct_defending,-0.006845315364957322,Team / peer context
+230872,M. Svilar,position_pct_physic,0.0002689891960795147,Team / peer context
+230872,M. Svilar,position_pct_role_quality,0.011250598067342325,Team / peer context
+230872,M. Svilar,position_pct_technical_quality,0.05374499288140879,Team / peer context
+230872,M. Svilar,position_pct_athletic_quality,0.004675861267740237,Team / peer context
+230872,M. Svilar,position_pct_mental_quality,0.06742083845978068,Team / peer context
+230872,M. Svilar,position_pct_attacking_crossing,0.006640981371729742,Team / peer context
+230872,M. Svilar,position_pct_attacking_finishing,0.0020489435542039103,Team / peer context
+230872,M. Svilar,position_pct_attacking_heading_accuracy,-0.019595432872817703,Team / peer context
+230872,M. Svilar,position_pct_attacking_short_passing,0.013361668838878446,Team / peer context
+230872,M. Svilar,position_pct_attacking_volleys,-3.4655074980847024e-05,Team / peer context
+230872,M. Svilar,position_pct_skill_dribbling,0.0015612680024686264,Team / peer context
+230872,M. Svilar,position_pct_skill_curve,-0.027977521769210728,Team / peer context
+230872,M. Svilar,position_pct_skill_fk_accuracy,0.0016987376679008014,Team / peer context
+230872,M. Svilar,position_pct_skill_long_passing,-0.0001979055137346186,Team / peer context
+230872,M. Svilar,position_pct_skill_ball_control,0.010015739392442467,Team / peer context
+230872,M. Svilar,position_pct_movement_acceleration,-0.0002298324666954465,Past development
+230872,M. Svilar,position_pct_movement_sprint_speed,0.030814146249171268,Team / peer context
+230872,M. Svilar,position_pct_movement_agility,-0.006454684383352312,Team / peer context
+230872,M. Svilar,position_pct_movement_reactions,0.010289931859427896,Team / peer context
+230872,M. Svilar,position_pct_movement_balance,0.0007973420464376133,Team / peer context
+230872,M. Svilar,position_pct_power_shot_power,0.006468097433725754,Team / peer context
+230872,M. Svilar,position_pct_power_jumping,-0.004680176206521741,Team / peer context
+230872,M. Svilar,position_pct_power_stamina,0.012960470067980895,Team / peer context
+230872,M. Svilar,position_pct_power_strength,0.006802414395801102,Team / peer context
+230872,M. Svilar,position_pct_power_long_shots,0.0005710365166679691,Team / peer context
+230872,M. Svilar,position_pct_mentality_aggression,0.0012876702738265564,Team / peer context
+230872,M. Svilar,position_pct_mentality_interceptions,0.004366986547117932,Team / peer context
+230872,M. Svilar,position_pct_mentality_positioning,-0.004497239540043025,Team / peer context
+230872,M. Svilar,position_pct_mentality_vision,0.03136798708350546,Team / peer context
+230872,M. Svilar,position_pct_mentality_penalties,-0.018748086411513622,Team / peer context
+230872,M. Svilar,position_pct_mentality_composure,-0.04361319981208443,Team / peer context
+230872,M. Svilar,position_pct_defending_marking_awareness,0.006429709460564989,Team / peer context
+230872,M. Svilar,position_pct_defending_standing_tackle,0.04876907876601813,Team / peer context
+230872,M. Svilar,position_pct_defending_sliding_tackle,0.015358562431967161,Team / peer context
+230872,M. Svilar,position_pct_goalkeeping_diving,0.00026719114671789555,Team / peer context
+230872,M. Svilar,position_pct_goalkeeping_handling,-0.011868471876728636,Team / peer context
+230872,M. Svilar,position_pct_goalkeeping_kicking,-0.0007906501675956256,Team / peer context
+230872,M. Svilar,position_pct_goalkeeping_positioning,-0.003815839526357438,Team / peer context
+230872,M. Svilar,position_pct_goalkeeping_reflexes,0.002247736056147022,Team / peer context
+230872,M. Svilar,position_age_peer_log_n,-0.008892403937832711,Team / peer context
+230872,M. Svilar,position_age_pct_overall,0.42417707325373316,Team / peer context
+230872,M. Svilar,position_age_pct_pace,-0.007938420368110806,Team / peer context
+230872,M. Svilar,position_age_pct_shooting,0.0,Team / peer context
+230872,M. Svilar,position_age_pct_passing,0.0003160929410096386,Team / peer context
+230872,M. Svilar,position_age_pct_dribbling,-0.02454334728294968,Team / peer context
+230872,M. Svilar,position_age_pct_defending,0.02201098382566024,Team / peer context
+230872,M. Svilar,position_age_pct_physic,-0.010024506697907604,Team / peer context
+230872,M. Svilar,position_age_pct_role_quality,0.12906994562490937,Team / peer context
+230872,M. Svilar,position_age_pct_technical_quality,0.023822896004989078,Team / peer context
+230872,M. Svilar,position_age_pct_athletic_quality,0.019735735870068903,Team / peer context
+230872,M. Svilar,position_age_pct_mental_quality,-0.0008430724323581401,Team / peer context
+230872,M. Svilar,position_age_pct_attacking_crossing,-0.005418683276854968,Team / peer context
+230872,M. Svilar,position_age_pct_attacking_finishing,0.018250459290259202,Team / peer context
+230872,M. Svilar,position_age_pct_attacking_heading_accuracy,0.016922950558753286,Team / peer context
+230872,M. Svilar,position_age_pct_attacking_short_passing,0.000321665034411988,Team / peer context
+230872,M. Svilar,position_age_pct_attacking_volleys,-0.0027530403907397357,Team / peer context
+230872,M. Svilar,position_age_pct_skill_dribbling,-0.10911929401554155,Team / peer context
+230872,M. Svilar,position_age_pct_skill_curve,0.016181333186645046,Team / peer context
+230872,M. Svilar,position_age_pct_skill_fk_accuracy,-0.013917719624926194,Team / peer context
+230872,M. Svilar,position_age_pct_skill_long_passing,0.005370487454949941,Team / peer context
+230872,M. Svilar,position_age_pct_skill_ball_control,0.021871571687748684,Team / peer context
+230872,M. Svilar,position_age_pct_movement_acceleration,-0.012174737065210554,Past development
+230872,M. Svilar,position_age_pct_movement_sprint_speed,-0.0010337122069444835,Team / peer context
+230872,M. Svilar,position_age_pct_movement_agility,-0.036288878361722794,Team / peer context
+230872,M. Svilar,position_age_pct_movement_reactions,0.019981531510130345,Team / peer context
+230872,M. Svilar,position_age_pct_movement_balance,0.0014821837735110547,Team / peer context
+230872,M. Svilar,position_age_pct_power_shot_power,0.015310256091497366,Team / peer context
+230872,M. Svilar,position_age_pct_power_jumping,-0.022442246787379872,Team / peer context
+230872,M. Svilar,position_age_pct_power_stamina,0.0048816180231082825,Team / peer context
+230872,M. Svilar,position_age_pct_power_strength,-0.0028973213551694178,Team / peer context
+230872,M. Svilar,position_age_pct_power_long_shots,-0.04027389256643597,Team / peer context
+230872,M. Svilar,position_age_pct_mentality_aggression,-0.004550472426383722,Team / peer context
+230872,M. Svilar,position_age_pct_mentality_interceptions,0.004489256666702285,Team / peer context
+230872,M. Svilar,position_age_pct_mentality_positioning,0.019725618466762684,Team / peer context
+230872,M. Svilar,position_age_pct_mentality_vision,0.011037912215625684,Team / peer context
+230872,M. Svilar,position_age_pct_mentality_penalties,-0.006014375017668833,Team / peer context
+230872,M. Svilar,position_age_pct_mentality_composure,-0.04451667353311973,Team / peer context
+230872,M. Svilar,position_age_pct_defending_marking_awareness,-0.006815145302184999,Team / peer context
+230872,M. Svilar,position_age_pct_defending_standing_tackle,0.02202975048207692,Team / peer context
+230872,M. Svilar,position_age_pct_defending_sliding_tackle,0.0,Team / peer context
+230872,M. Svilar,position_age_pct_goalkeeping_diving,0.013252390658195366,Team / peer context
+230872,M. Svilar,position_age_pct_goalkeeping_handling,0.0017290937434220612,Team / peer context
+230872,M. Svilar,position_age_pct_goalkeeping_kicking,-0.015537765355612077,Team / peer context
+230872,M. Svilar,position_age_pct_goalkeeping_positioning,0.011791905917233194,Team / peer context
+230872,M. Svilar,position_age_pct_goalkeeping_reflexes,0.004460973403788168,Team / peer context
+230872,M. Svilar,team_role_peer_log_n,-0.0012862421644128984,Team / peer context
+230872,M. Svilar,team_role_pct_overall,0.003786706498791887,Team / peer context
+230872,M. Svilar,team_role_gap_overall,0.0,Team / peer context
+230872,M. Svilar,team_role_pct_role_quality,-0.000795850357549185,Team / peer context
+230872,M. Svilar,team_role_gap_role_quality,0.004380359637039988,Team / peer context
+230872,M. Svilar,team_role_pct_technical_quality,0.0074443700043836545,Team / peer context
+230872,M. Svilar,team_role_gap_technical_quality,0.0016842640412298043,Team / peer context
+230872,M. Svilar,team_role_pct_athletic_quality,0.002392020885135596,Team / peer context
+230872,M. Svilar,team_role_gap_athletic_quality,0.009785582132192484,Team / peer context
+230872,M. Svilar,team_role_pct_mental_quality,-3.211179659891148e-05,Team / peer context
+230872,M. Svilar,team_role_gap_mental_quality,0.0030222079449297133,Team / peer context
+230872,M. Svilar,team_role_pct_movement_reactions,0.011449774378456061,Team / peer context
+230872,M. Svilar,team_role_gap_movement_reactions,0.0010215896030782122,Team / peer context
+230872,M. Svilar,team_role_rating_depth_gap,0.0028712798592975593,Team / peer context
+230872,M. Svilar,league_position_peer_log_n,0.0012692076918393112,Team / peer context
+230872,M. Svilar,league_position_pct_overall,0.005153029855323805,Team / peer context
+230872,M. Svilar,league_position_pct_role_quality,-0.023545547960995825,Team / peer context
+230872,M. Svilar,league_position_pct_technical_quality,-0.00150358954632083,Team / peer context
+230872,M. Svilar,league_position_pct_athletic_quality,0.001803663783971368,Team / peer context
+230872,M. Svilar,league_position_pct_mental_quality,0.002932890543680713,Team / peer context
+230872,M. Svilar,league_position_pct_pace,0.0011060283795573658,Team / peer context
+230872,M. Svilar,league_position_age_peer_log_n,-0.0029979333010801347,Team / peer context
+230872,M. Svilar,league_position_age_pct_overall,-0.00229496375031749,Team / peer context
+230872,M. Svilar,league_position_age_pct_role_quality,-0.007972961175248686,Team / peer context
+230872,M. Svilar,league_position_age_pct_technical_quality,-0.020671865216689,Team / peer context
+230872,M. Svilar,league_position_age_pct_athletic_quality,-0.00032527725013870707,Team / peer context
+230872,M. Svilar,league_position_age_pct_mental_quality,-0.00015183434497310005,Team / peer context
+230872,M. Svilar,league_position_age_pct_pace,-0.0002073144000094044,Team / peer context
+230872,M. Svilar,team_skill_above_rating_rank,0.005759530956153103,Team / peer context
+230872,M. Svilar,position_age_skill_above_rating_rank,0.02737715425225474,Team / peer context
+230872,M. Svilar,club_named_starter,-0.13091526344063037,Team / peer context
+230872,M. Svilar,club_substitute,-0.004156503460274513,Team / peer context
+230872,M. Svilar,club_reserve,0.016407062202681854,Team / peer context
+230872,M. Svilar,team_top11_rating_context_change1,0.0007421972454380583,Past development
+230872,M. Svilar,team_strength_league_percentile_context_change1,0.0,Past development
+230872,M. Svilar,league_mean_team_strength_context_change1,-0.002758838368131371,Past development
+230872,M. Svilar,rating_vs_team_mean_context_change1,-5.4074208086993956e-05,Past development
+230872,M. Svilar,team_pct_overall_context_change1,0.0,Past development
+230872,M. Svilar,team_pct_role_quality_context_change1,0.008687529449039654,Past development
+230872,M. Svilar,team_role_pct_role_quality_context_change1,0.0,Past development
+230872,M. Svilar,position_age_pct_role_quality_context_change1,-0.003244414470141209,Past development
+230872,M. Svilar,team_role_rating_depth_gap_context_change1,0.0012135136135440604,Past development
+230872,M. Svilar,club_team_id_changed1,0.005567389239592062,Past development
+230872,M. Svilar,league_id_changed1,0.008430057437817934,Past development
+230872,M. Svilar,team_top11_rating_context_change2,-0.0024490364929009474,Past development
+230872,M. Svilar,team_strength_league_percentile_context_change2,-0.00025108503685560723,Past development
+230872,M. Svilar,league_mean_team_strength_context_change2,-0.006261239048504124,Past development
+230872,M. Svilar,rating_vs_team_mean_context_change2,-0.000472784441970993,Past development
+230872,M. Svilar,team_pct_overall_context_change2,-0.0003802577154441534,Past development
+230872,M. Svilar,team_pct_role_quality_context_change2,-0.008202388632919269,Past development
+230872,M. Svilar,team_role_pct_role_quality_context_change2,-0.00957229255454677,Past development
+230872,M. Svilar,position_age_pct_role_quality_context_change2,0.015262887238647663,Past development
+230872,M. Svilar,team_role_rating_depth_gap_context_change2,-0.006395336968324403,Past development
+230872,M. Svilar,club_team_id_changed2,0.0007020374674282632,Past development
+230872,M. Svilar,league_id_changed2,-0.0025461906181518733,Past development
+230872,M. Svilar,potential,0.5449996465894076,FIFA potential
+230872,M. Svilar,potential_gap,0.024225848461260014,FIFA potential
+230872,M. Svilar,overall_lag3,-0.031676160427956374,Past development
+230872,M. Svilar,overall_change3,-0.01386535263108815,Past development
+230872,M. Svilar,role_quality_lag3,0.0,Past development
+230872,M. Svilar,role_quality_change3,0.0,Past development
+230872,M. Svilar,technical_quality_lag3,0.0,Past development
+230872,M. Svilar,technical_quality_change3,0.0,Past development
+230872,M. Svilar,athletic_quality_lag3,0.0011746433738901688,Past development
+230872,M. Svilar,athletic_quality_change3,-0.005919976265880332,Past development
+230872,M. Svilar,mental_quality_lag3,0.0,Past development
+230872,M. Svilar,mental_quality_change3,0.0,Past development
+230872,M. Svilar,team_top11_rating_lag3,-0.0034565467511863956,Past development
+230872,M. Svilar,team_top11_rating_change3,0.0,Past development
+230872,M. Svilar,movement_reactions_lag3,0.0,Past development
+230872,M. Svilar,movement_reactions_change3,-2.036226765848232e-05,Past development
+230872,M. Svilar,skill_ball_control_lag3,0.008943182913859003,Past development
+230872,M. Svilar,skill_ball_control_change3,0.0,Past development
+230872,M. Svilar,power_stamina_lag3,-0.0018418883364438895,Past development
+230872,M. Svilar,power_stamina_change3,-0.0022136953497483994,Past development
+230872,M. Svilar,overall_lag4,0.0,Past development
+230872,M. Svilar,overall_change4,-0.009455701593799382,Past development
+230872,M. Svilar,role_quality_lag4,-0.03519578764405275,Past development
+230872,M. Svilar,role_quality_change4,0.0,Past development
+230872,M. Svilar,technical_quality_lag4,-0.006874429793264027,Past development
+230872,M. Svilar,technical_quality_change4,0.0,Past development
+230872,M. Svilar,athletic_quality_lag4,0.0,Past development
+230872,M. Svilar,athletic_quality_change4,0.0,Past development
+230872,M. Svilar,mental_quality_lag4,0.0,Past development
+230872,M. Svilar,mental_quality_change4,0.0,Past development
+230872,M. Svilar,team_top11_rating_lag4,0.0,Past development
+230872,M. Svilar,team_top11_rating_change4,0.0,Past development
+230872,M. Svilar,movement_reactions_lag4,2.0948495780789955e-06,Past development
+230872,M. Svilar,movement_reactions_change4,-6.826007106420206e-06,Past development
+230872,M. Svilar,skill_ball_control_lag4,-0.021866129870353294,Past development
+230872,M. Svilar,skill_ball_control_change4,0.0,Past development
+230872,M. Svilar,power_stamina_lag4,0.00299715013561649,Past development
+230872,M. Svilar,power_stamina_change4,-0.020761370904200903,Past development
+230872,M. Svilar,overall_past_slope,-0.004744176316048421,Past development
+230872,M. Svilar,overall_past_observations,0.009289460696589895,Past development
+230872,M. Svilar,role_quality_past_slope,-0.0003267777767470378,Past development
+230872,M. Svilar,role_quality_past_observations,0.005841605149439924,Past development
+230872,M. Svilar,technical_quality_past_slope,0.0,Past development
+230872,M. Svilar,technical_quality_past_observations,-0.016492851688382743,Past development
+230872,M. Svilar,athletic_quality_past_slope,-0.005260213157660279,Past development
+230872,M. Svilar,athletic_quality_past_observations,0.0,Past development
+230872,M. Svilar,mental_quality_past_slope,-0.002288709309055256,Past development
+230872,M. Svilar,mental_quality_past_observations,0.0,Past development
+230872,M. Svilar,team_top11_rating_past_slope,-0.0002400815304155948,Past development
+230872,M. Svilar,team_top11_rating_past_observations,-0.02260621303988002,Past development
+230872,M. Svilar,movement_reactions_past_slope,-0.00014223488050674383,Past development
+230872,M. Svilar,movement_reactions_past_observations,0.0,Past development
+230872,M. Svilar,skill_ball_control_past_slope,-0.0009032892567281001,Past development
+230872,M. Svilar,skill_ball_control_past_observations,-0.010424468783792138,Past development
+230872,M. Svilar,power_stamina_past_slope,0.0,Past development
+230872,M. Svilar,power_stamina_past_observations,-0.013293140055983014,Past development
+230872,M. Svilar,rating_below_recent_peak,0.00048440014576504604,Past development
+230872,M. Svilar,rating_above_recent_floor,0.0,Past development
+230872,M. Svilar,past_growth_skill_ahead,0.00038470146786411517,Past development
+230872,M. Svilar,recent_growth_consistency,0.006575698694256838,Past development
+267976,Pablo Torre,overall,-0.12654670580404734,Current attributes
+267976,Pablo Torre,age,0.023651515804154533,Age / physique
+267976,Pablo Torre,height_cm,-0.09127987007393594,Age / physique
+267976,Pablo Torre,weight_kg,-0.016512725377644928,Age / physique
+267976,Pablo Torre,weak_foot,-0.00022128177537946814,Current attributes
+267976,Pablo Torre,skill_moves,0.06175273713028798,Current attributes
+267976,Pablo Torre,pace,0.015175836890258629,Current attributes
+267976,Pablo Torre,shooting,-0.0029743226953639823,Current attributes
+267976,Pablo Torre,passing,0.00242019221371962,Current attributes
+267976,Pablo Torre,dribbling,-0.0043433963878524,Current attributes
+267976,Pablo Torre,defending,-0.006321525436649489,Current attributes
+267976,Pablo Torre,physic,-0.0005649250161148077,Current attributes
+267976,Pablo Torre,attacking_crossing,0.0005521122895649891,Current attributes
+267976,Pablo Torre,attacking_finishing,-0.0022576551596747915,Current attributes
+267976,Pablo Torre,attacking_heading_accuracy,0.020452252014612187,Current attributes
+267976,Pablo Torre,attacking_short_passing,0.008380814506462364,Current attributes
+267976,Pablo Torre,attacking_volleys,6.70484028348516e-05,Current attributes
+267976,Pablo Torre,skill_dribbling,-0.0005538031403849133,Current attributes
+267976,Pablo Torre,skill_curve,0.009105521254171502,Current attributes
+267976,Pablo Torre,skill_fk_accuracy,0.09898453561790455,Current attributes
+267976,Pablo Torre,skill_long_passing,-0.0053226494875242515,Current attributes
+267976,Pablo Torre,skill_ball_control,0.03894905206201325,Current attributes
+267976,Pablo Torre,movement_acceleration,0.0033865141482098595,Past development
+267976,Pablo Torre,movement_sprint_speed,0.0008975046787179882,Current attributes
+267976,Pablo Torre,movement_agility,-0.008232181462931976,Current attributes
+267976,Pablo Torre,movement_reactions,0.010761085169483953,Current attributes
+267976,Pablo Torre,movement_balance,-0.015688712078430884,Current attributes
+267976,Pablo Torre,power_shot_power,0.004358779843036913,Current attributes
+267976,Pablo Torre,power_jumping,0.02471721756732885,Current attributes
+267976,Pablo Torre,power_stamina,-0.0003058671159503227,Current attributes
+267976,Pablo Torre,power_strength,0.018846056846794378,Current attributes
+267976,Pablo Torre,power_long_shots,-0.0031876663069806787,Current attributes
+267976,Pablo Torre,mentality_aggression,-0.002324751549372766,Current attributes
+267976,Pablo Torre,mentality_interceptions,0.0011463314218495457,Current attributes
+267976,Pablo Torre,mentality_positioning,-0.002567617255822988,Current attributes
+267976,Pablo Torre,mentality_vision,0.0008473432955025391,Current attributes
+267976,Pablo Torre,mentality_penalties,0.003465356039270734,Current attributes
+267976,Pablo Torre,mentality_composure,-0.04661455728375969,Current attributes
+267976,Pablo Torre,defending_marking_awareness,0.008949164985070986,Current attributes
+267976,Pablo Torre,defending_standing_tackle,0.007819705300066107,Current attributes
+267976,Pablo Torre,defending_sliding_tackle,0.006921947460574641,Current attributes
+267976,Pablo Torre,goalkeeping_diving,-0.003920667826708793,Current attributes
+267976,Pablo Torre,goalkeeping_handling,-0.00037068476591028266,Current attributes
+267976,Pablo Torre,goalkeeping_kicking,-0.0022089300070274155,Current attributes
+267976,Pablo Torre,goalkeeping_positioning,0.002895779543972535,Current attributes
+267976,Pablo Torre,goalkeeping_reflexes,0.006221321070333541,Current attributes
+267976,Pablo Torre,right_foot,-0.002093129136985415,Current attributes
+267976,Pablo Torre,role_FW,0.0,Current attributes
+267976,Pablo Torre,role_Wing,0.0,Current attributes
+267976,Pablo Torre,role_MF,0.005948773511449928,Current attributes
+267976,Pablo Torre,role_CB,0.0,Current attributes
+267976,Pablo Torre,role_FB,0.0,Current attributes
+267976,Pablo Torre,role_GK,0.0,Current attributes
+267976,Pablo Torre,role_Other,0.0,Current attributes
+267976,Pablo Torre,role_quality,0.007496463787961756,Current attributes
+267976,Pablo Torre,technical_quality,0.005547906268653838,Current attributes
+267976,Pablo Torre,athletic_quality,0.006519202143327248,Current attributes
+267976,Pablo Torre,mental_quality,0.0029311473026921676,Current attributes
+267976,Pablo Torre,role_headroom,-0.004152637399777956,Current attributes
+267976,Pablo Torre,technical_headroom,0.004085601557397062,Current attributes
+267976,Pablo Torre,athletic_headroom,-0.00895528831005121,Current attributes
+267976,Pablo Torre,mental_headroom,-0.0007867237177585653,Current attributes
+267976,Pablo Torre,skill_spikiness,0.008028804816968165,Current attributes
+267976,Pablo Torre,attributes_75plus,-0.007614489323013439,Current attributes
+267976,Pablo Torre,attributes_80plus,-0.0019311101627557962,Current attributes
+267976,Pablo Torre,role_balance,0.0010787975069930064,Current attributes
+267976,Pablo Torre,weakest_role_skill,0.005126641262836256,Current attributes
+267976,Pablo Torre,age_to_21,0.02174787183948096,Age / physique
+267976,Pablo Torre,age_rating_interaction,0.036231613008340685,Age / physique
+267976,Pablo Torre,role_quality_peer_percentile,0.5663595928039719,Current attributes
+267976,Pablo Torre,technical_quality_peer_percentile,0.04692628949514827,Current attributes
+267976,Pablo Torre,athletic_quality_peer_percentile,-0.0028212968676350073,Current attributes
+267976,Pablo Torre,mental_quality_peer_percentile,0.15051246152516384,Current attributes
+267976,Pablo Torre,overall_lag1,0.0029718682751034833,Past development
+267976,Pablo Torre,overall_change1,-0.00011138478803588408,Past development
+267976,Pablo Torre,overall_lag2,-0.0003684152399245877,Past development
+267976,Pablo Torre,overall_change2,0.006259906286013317,Past development
+267976,Pablo Torre,role_quality_lag1,0.0006351697301650826,Past development
+267976,Pablo Torre,role_quality_change1,0.0019186597809744777,Past development
+267976,Pablo Torre,role_quality_lag2,0.0,Past development
+267976,Pablo Torre,role_quality_change2,-0.0013918695698221797,Past development
+267976,Pablo Torre,technical_quality_lag1,0.004648257148137932,Past development
+267976,Pablo Torre,technical_quality_change1,0.00307838685731116,Past development
+267976,Pablo Torre,technical_quality_lag2,-0.003001672536881731,Past development
+267976,Pablo Torre,technical_quality_change2,-0.0006873200120475672,Past development
+267976,Pablo Torre,athletic_quality_lag1,0.002787593645550553,Past development
+267976,Pablo Torre,athletic_quality_change1,0.0,Past development
+267976,Pablo Torre,athletic_quality_lag2,0.004250750781290259,Past development
+267976,Pablo Torre,athletic_quality_change2,-0.0013870858521984664,Past development
+267976,Pablo Torre,mental_quality_lag1,0.0008146143370551505,Past development
+267976,Pablo Torre,mental_quality_change1,-9.962798062683616e-05,Past development
+267976,Pablo Torre,mental_quality_lag2,0.0,Past development
+267976,Pablo Torre,mental_quality_change2,-0.0010688937618107796,Past development
+267976,Pablo Torre,movement_reactions_lag1,0.0027993756035502434,Past development
+267976,Pablo Torre,movement_reactions_change1,-0.00043052477269730246,Past development
+267976,Pablo Torre,movement_reactions_lag2,0.0019463649164656147,Past development
+267976,Pablo Torre,movement_reactions_change2,-0.0016477504690330467,Past development
+267976,Pablo Torre,skill_ball_control_lag1,0.0039012339861458018,Past development
+267976,Pablo Torre,skill_ball_control_change1,3.632068479558614e-05,Past development
+267976,Pablo Torre,skill_ball_control_lag2,0.003209188809348569,Past development
+267976,Pablo Torre,skill_ball_control_change2,-0.00030618038471905834,Past development
+267976,Pablo Torre,power_stamina_lag1,0.0012528710189315352,Past development
+267976,Pablo Torre,power_stamina_change1,-0.0009617280849306472,Past development
+267976,Pablo Torre,power_stamina_lag2,0.00521157697496354,Past development
+267976,Pablo Torre,power_stamina_change2,0.0,Past development
+267976,Pablo Torre,history_length,0.0045051615502242634,Past development
+267976,Pablo Torre,rating_acceleration,0.0,Past development
+267976,Pablo Torre,core_growth_ahead_of_rating,0.0,Current attributes
+267976,Pablo Torre,technical_growth_ahead_of_rating,0.004807986626153026,Current attributes
+267976,Pablo Torre,team_roster_n,0.02271458556223012,Team / peer context
+267976,Pablo Torre,team_mean_rating,0.10091422717662783,Team / peer context
+267976,Pablo Torre,team_median_rating,0.31397861646976366,Team / peer context
+267976,Pablo Torre,team_rating_std,0.0035959210504496147,Team / peer context
+267976,Pablo Torre,team_best_rating,0.056480676607645615,Team / peer context
+267976,Pablo Torre,team_mean_age,-0.002241643196012399,Team / peer context
+267976,Pablo Torre,team_top11_rating,0.28400105248101387,Team / peer context
+267976,Pablo Torre,team_u21_share,0.011988686645047889,Team / peer context
+267976,Pablo Torre,team_80plus_count,0.13963735246257855,Team / peer context
+267976,Pablo Torre,team_strength_league_percentile,0.005102699899168625,Team / peer context
+267976,Pablo Torre,league_team_count,0.004224933669076855,Team / peer context
+267976,Pablo Torre,league_mean_team_strength,0.21288966362933312,Team / peer context
+267976,Pablo Torre,league_best_team_strength,0.2351219182068687,Team / peer context
+267976,Pablo Torre,team_strength_vs_league,0.00399508313439855,Team / peer context
+267976,Pablo Torre,team_strength_vs_league_best,-0.01510719533747097,Team / peer context
+267976,Pablo Torre,team_strength_global_percentile,0.3906695977262427,Team / peer context
+267976,Pablo Torre,rating_vs_team_top11,-0.00249925804431773,Team / peer context
+267976,Pablo Torre,rating_vs_team_mean,-0.011632506749560574,Team / peer context
+267976,Pablo Torre,age_vs_team_mean,0.02482257605461477,Team / peer context
+267976,Pablo Torre,team_roster_log_n,0.12555263119091084,Team / peer context
+267976,Pablo Torre,league_level_numeric,0.004007356655716002,Team / peer context
+267976,Pablo Torre,previous_peak_gap,5.2559112626146975e-08,Current attributes
+267976,Pablo Torre,first_observed_age,0.019198821564725885,Age / physique
+267976,Pablo Torre,editions_since_first_seen,0.012099125643492253,Age / physique
+267976,Pablo Torre,team_peer_log_n,0.05002280564530742,Team / peer context
+267976,Pablo Torre,team_pct_overall,0.002683604468605075,Team / peer context
+267976,Pablo Torre,team_gap_overall,0.0013021209552336772,Team / peer context
+267976,Pablo Torre,team_pct_pace,-0.004240625519150317,Team / peer context
+267976,Pablo Torre,team_gap_pace,0.0013909869712001438,Team / peer context
+267976,Pablo Torre,team_pct_shooting,-0.0005691706375109744,Team / peer context
+267976,Pablo Torre,team_gap_shooting,0.0013052775707832166,Team / peer context
+267976,Pablo Torre,team_pct_passing,0.0007870794126359419,Team / peer context
+267976,Pablo Torre,team_gap_passing,-0.001244115141902247,Team / peer context
+267976,Pablo Torre,team_pct_dribbling,-0.00182747746232232,Team / peer context
+267976,Pablo Torre,team_gap_dribbling,0.0011108365583879733,Team / peer context
+267976,Pablo Torre,team_pct_defending,-0.0003584505209346814,Team / peer context
+267976,Pablo Torre,team_gap_defending,0.0,Team / peer context
+267976,Pablo Torre,team_pct_physic,0.0,Team / peer context
+267976,Pablo Torre,team_gap_physic,0.003469448062137726,Team / peer context
+267976,Pablo Torre,team_pct_role_quality,-0.00014647224477080148,Team / peer context
+267976,Pablo Torre,team_gap_role_quality,0.0050167195118442955,Team / peer context
+267976,Pablo Torre,team_pct_technical_quality,-0.0010906947132351163,Team / peer context
+267976,Pablo Torre,team_gap_technical_quality,0.003831923341487764,Team / peer context
+267976,Pablo Torre,team_pct_athletic_quality,0.0004159740973714744,Team / peer context
+267976,Pablo Torre,team_gap_athletic_quality,0.0,Team / peer context
+267976,Pablo Torre,team_pct_mental_quality,-0.004596534955759063,Team / peer context
+267976,Pablo Torre,team_gap_mental_quality,-0.007303345625195038,Team / peer context
+267976,Pablo Torre,team_pct_attacking_crossing,-0.015539725948861372,Team / peer context
+267976,Pablo Torre,team_gap_attacking_crossing,-0.010273067991265612,Team / peer context
+267976,Pablo Torre,team_pct_attacking_finishing,-0.0004200036952742892,Team / peer context
+267976,Pablo Torre,team_gap_attacking_finishing,0.011982491468512466,Team / peer context
+267976,Pablo Torre,team_pct_attacking_heading_accuracy,0.007396899721188396,Team / peer context
+267976,Pablo Torre,team_gap_attacking_heading_accuracy,-0.000470005773609547,Team / peer context
+267976,Pablo Torre,team_pct_attacking_short_passing,0.014454632291294059,Team / peer context
+267976,Pablo Torre,team_gap_attacking_short_passing,-0.004252603319538985,Team / peer context
+267976,Pablo Torre,team_pct_attacking_volleys,-0.001226636027996339,Team / peer context
+267976,Pablo Torre,team_gap_attacking_volleys,0.003164786182334449,Team / peer context
+267976,Pablo Torre,team_pct_skill_dribbling,-0.004324774431679008,Team / peer context
+267976,Pablo Torre,team_gap_skill_dribbling,0.00046933364931970017,Team / peer context
+267976,Pablo Torre,team_pct_skill_curve,0.005373889990094571,Team / peer context
+267976,Pablo Torre,team_gap_skill_curve,0.0,Team / peer context
+267976,Pablo Torre,team_pct_skill_fk_accuracy,0.0,Team / peer context
+267976,Pablo Torre,team_gap_skill_fk_accuracy,-0.044499173776396526,Team / peer context
+267976,Pablo Torre,team_pct_skill_long_passing,0.004035688822647574,Team / peer context
+267976,Pablo Torre,team_gap_skill_long_passing,0.0,Team / peer context
+267976,Pablo Torre,team_pct_skill_ball_control,0.0,Team / peer context
+267976,Pablo Torre,team_gap_skill_ball_control,-0.01655458167438608,Team / peer context
+267976,Pablo Torre,team_pct_movement_acceleration,0.003179838755915309,Past development
+267976,Pablo Torre,team_gap_movement_acceleration,0.0028692194820475574,Past development
+267976,Pablo Torre,team_pct_movement_sprint_speed,-0.012732932945469734,Team / peer context
+267976,Pablo Torre,team_gap_movement_sprint_speed,0.008617994954358964,Team / peer context
+267976,Pablo Torre,team_pct_movement_agility,0.0012294594542420281,Team / peer context
+267976,Pablo Torre,team_gap_movement_agility,-0.0007318687468149329,Team / peer context
+267976,Pablo Torre,team_pct_movement_reactions,-0.0034594240494466204,Team / peer context
+267976,Pablo Torre,team_gap_movement_reactions,-0.007528728696366515,Team / peer context
+267976,Pablo Torre,team_pct_movement_balance,0.0,Team / peer context
+267976,Pablo Torre,team_gap_movement_balance,-0.002720694020178844,Team / peer context
+267976,Pablo Torre,team_pct_power_shot_power,0.0034570982915693273,Team / peer context
+267976,Pablo Torre,team_gap_power_shot_power,0.0,Team / peer context
+267976,Pablo Torre,team_pct_power_jumping,-0.0001440577847522705,Team / peer context
+267976,Pablo Torre,team_gap_power_jumping,0.014035601329454245,Team / peer context
+267976,Pablo Torre,team_pct_power_stamina,0.0034595896698782,Team / peer context
+267976,Pablo Torre,team_gap_power_stamina,0.0019924323357673776,Team / peer context
+267976,Pablo Torre,team_pct_power_strength,0.002770266014295014,Team / peer context
+267976,Pablo Torre,team_gap_power_strength,0.00019411240581947956,Team / peer context
+267976,Pablo Torre,team_pct_power_long_shots,0.00025131449025210897,Team / peer context
+267976,Pablo Torre,team_gap_power_long_shots,-0.0014189030525055052,Team / peer context
+267976,Pablo Torre,team_pct_mentality_aggression,-0.006074387051009577,Team / peer context
+267976,Pablo Torre,team_gap_mentality_aggression,0.001583294462221467,Team / peer context
+267976,Pablo Torre,team_pct_mentality_interceptions,0.005639933801556874,Team / peer context
+267976,Pablo Torre,team_gap_mentality_interceptions,0.00016955795260088771,Team / peer context
+267976,Pablo Torre,team_pct_mentality_positioning,-0.0031641845729966046,Team / peer context
+267976,Pablo Torre,team_gap_mentality_positioning,0.0006767254834732314,Team / peer context
+267976,Pablo Torre,team_pct_mentality_vision,-0.0005987972881394885,Team / peer context
+267976,Pablo Torre,team_gap_mentality_vision,-0.005463343288061897,Team / peer context
+267976,Pablo Torre,team_pct_mentality_penalties,0.0005097134006002833,Team / peer context
+267976,Pablo Torre,team_gap_mentality_penalties,0.0007754764042517233,Team / peer context
+267976,Pablo Torre,team_pct_mentality_composure,-0.0017429523121945019,Team / peer context
+267976,Pablo Torre,team_gap_mentality_composure,-0.0307016823379229,Team / peer context
+267976,Pablo Torre,team_pct_defending_marking_awareness,-0.005125399212538638,Team / peer context
+267976,Pablo Torre,team_gap_defending_marking_awareness,-0.002115397591912495,Team / peer context
+267976,Pablo Torre,team_pct_defending_standing_tackle,0.0031815126748234446,Team / peer context
+267976,Pablo Torre,team_gap_defending_standing_tackle,-0.0004826976798859962,Team / peer context
+267976,Pablo Torre,team_pct_defending_sliding_tackle,0.0006482114564785222,Team / peer context
+267976,Pablo Torre,team_gap_defending_sliding_tackle,-5.346111597414867e-05,Team / peer context
+267976,Pablo Torre,team_pct_goalkeeping_diving,-0.006294218090601321,Team / peer context
+267976,Pablo Torre,team_gap_goalkeeping_diving,0.0013510622475255232,Team / peer context
+267976,Pablo Torre,team_pct_goalkeeping_handling,-0.0032952267785890874,Team / peer context
+267976,Pablo Torre,team_gap_goalkeeping_handling,-0.0005149078797936456,Team / peer context
+267976,Pablo Torre,team_pct_goalkeeping_kicking,0.001457343060327618,Team / peer context
+267976,Pablo Torre,team_gap_goalkeeping_kicking,0.00451505041192217,Team / peer context
+267976,Pablo Torre,team_pct_goalkeeping_positioning,5.193727565193444e-05,Team / peer context
+267976,Pablo Torre,team_gap_goalkeeping_positioning,-0.020474108398416093,Team / peer context
+267976,Pablo Torre,team_pct_goalkeeping_reflexes,0.011377718025215904,Team / peer context
+267976,Pablo Torre,team_gap_goalkeeping_reflexes,0.005425741723409791,Team / peer context
+267976,Pablo Torre,position_peer_log_n,0.012238937355599541,Team / peer context
+267976,Pablo Torre,position_pct_overall,-0.0393687891887137,Team / peer context
+267976,Pablo Torre,position_pct_pace,-0.0012975873382968985,Team / peer context
+267976,Pablo Torre,position_pct_shooting,-0.001736827522327935,Team / peer context
+267976,Pablo Torre,position_pct_passing,-0.011452440492111929,Team / peer context
+267976,Pablo Torre,position_pct_dribbling,0.02307151378598591,Team / peer context
+267976,Pablo Torre,position_pct_defending,0.034899768052427,Team / peer context
+267976,Pablo Torre,position_pct_physic,0.0002689891960795147,Team / peer context
+267976,Pablo Torre,position_pct_role_quality,0.024320126093037294,Team / peer context
+267976,Pablo Torre,position_pct_technical_quality,-0.01226507824230889,Team / peer context
+267976,Pablo Torre,position_pct_athletic_quality,0.028876778463409986,Team / peer context
+267976,Pablo Torre,position_pct_mental_quality,0.0031274818854070386,Team / peer context
+267976,Pablo Torre,position_pct_attacking_crossing,0.0014588467619493283,Team / peer context
+267976,Pablo Torre,position_pct_attacking_finishing,-0.0082667161629921,Team / peer context
+267976,Pablo Torre,position_pct_attacking_heading_accuracy,0.00779077347211094,Team / peer context
+267976,Pablo Torre,position_pct_attacking_short_passing,0.020941208447549445,Team / peer context
+267976,Pablo Torre,position_pct_attacking_volleys,0.003913418565961184,Team / peer context
+267976,Pablo Torre,position_pct_skill_dribbling,-0.0029724590982833565,Team / peer context
+267976,Pablo Torre,position_pct_skill_curve,-0.003556559275443621,Team / peer context
+267976,Pablo Torre,position_pct_skill_fk_accuracy,0.006117383823757496,Team / peer context
+267976,Pablo Torre,position_pct_skill_long_passing,-0.005317643874564603,Team / peer context
+267976,Pablo Torre,position_pct_skill_ball_control,0.029749655400787584,Team / peer context
+267976,Pablo Torre,position_pct_movement_acceleration,-0.0002298324666954465,Past development
+267976,Pablo Torre,position_pct_movement_sprint_speed,-0.00010931947608594375,Team / peer context
+267976,Pablo Torre,position_pct_movement_agility,-0.01090676024664807,Team / peer context
+267976,Pablo Torre,position_pct_movement_reactions,0.006349780111280782,Team / peer context
+267976,Pablo Torre,position_pct_movement_balance,0.0007973420464376133,Team / peer context
+267976,Pablo Torre,position_pct_power_shot_power,-0.020514649395150217,Team / peer context
+267976,Pablo Torre,position_pct_power_jumping,0.0021404781428576367,Team / peer context
+267976,Pablo Torre,position_pct_power_stamina,-6.483271242685592e-05,Team / peer context
+267976,Pablo Torre,position_pct_power_strength,0.002201168660182981,Team / peer context
+267976,Pablo Torre,position_pct_power_long_shots,0.0014986059404733605,Team / peer context
+267976,Pablo Torre,position_pct_mentality_aggression,-0.0021391923494634255,Team / peer context
+267976,Pablo Torre,position_pct_mentality_interceptions,0.019277943092317344,Team / peer context
+267976,Pablo Torre,position_pct_mentality_positioning,-0.00435249017818126,Team / peer context
+267976,Pablo Torre,position_pct_mentality_vision,0.026890639906568287,Team / peer context
+267976,Pablo Torre,position_pct_mentality_penalties,0.0022939270633258744,Team / peer context
+267976,Pablo Torre,position_pct_mentality_composure,-0.07434678365897587,Team / peer context
+267976,Pablo Torre,position_pct_defending_marking_awareness,0.009689387143693044,Team / peer context
+267976,Pablo Torre,position_pct_defending_standing_tackle,0.0377853224279003,Team / peer context
+267976,Pablo Torre,position_pct_defending_sliding_tackle,0.003307731737741209,Team / peer context
+267976,Pablo Torre,position_pct_goalkeeping_diving,0.002415801286615411,Team / peer context
+267976,Pablo Torre,position_pct_goalkeeping_handling,-0.008207669335702666,Team / peer context
+267976,Pablo Torre,position_pct_goalkeeping_kicking,0.03134057137873223,Team / peer context
+267976,Pablo Torre,position_pct_goalkeeping_positioning,-0.0014985542798397543,Team / peer context
+267976,Pablo Torre,position_pct_goalkeeping_reflexes,0.004595881831399975,Team / peer context
+267976,Pablo Torre,position_age_peer_log_n,-0.0018831291945842817,Team / peer context
+267976,Pablo Torre,position_age_pct_overall,0.13583701063231995,Team / peer context
+267976,Pablo Torre,position_age_pct_pace,-0.0018299863948885921,Team / peer context
+267976,Pablo Torre,position_age_pct_shooting,0.0,Team / peer context
+267976,Pablo Torre,position_age_pct_passing,0.01586113408497409,Team / peer context
+267976,Pablo Torre,position_age_pct_dribbling,0.01953009744285029,Team / peer context
+267976,Pablo Torre,position_age_pct_defending,-0.0015698607141979325,Team / peer context
+267976,Pablo Torre,position_age_pct_physic,0.010132258033141172,Team / peer context
+267976,Pablo Torre,position_age_pct_role_quality,0.09905561041392554,Team / peer context
+267976,Pablo Torre,position_age_pct_technical_quality,0.013165259285440531,Team / peer context
+267976,Pablo Torre,position_age_pct_athletic_quality,0.007686675808456474,Team / peer context
+267976,Pablo Torre,position_age_pct_mental_quality,0.028903992560746862,Team / peer context
+267976,Pablo Torre,position_age_pct_attacking_crossing,0.015243837671734005,Team / peer context
+267976,Pablo Torre,position_age_pct_attacking_finishing,0.007455871166131567,Team / peer context
+267976,Pablo Torre,position_age_pct_attacking_heading_accuracy,0.00030709710743812913,Team / peer context
+267976,Pablo Torre,position_age_pct_attacking_short_passing,0.0050843877168938595,Team / peer context
+267976,Pablo Torre,position_age_pct_attacking_volleys,0.003583422048765121,Team / peer context
+267976,Pablo Torre,position_age_pct_skill_dribbling,0.030236539173051413,Team / peer context
+267976,Pablo Torre,position_age_pct_skill_curve,-0.006796254108211899,Team / peer context
+267976,Pablo Torre,position_age_pct_skill_fk_accuracy,-0.020950892799364514,Team / peer context
+267976,Pablo Torre,position_age_pct_skill_long_passing,0.0009810820618727121,Team / peer context
+267976,Pablo Torre,position_age_pct_skill_ball_control,0.030826030174987768,Team / peer context
+267976,Pablo Torre,position_age_pct_movement_acceleration,-0.00905386137297922,Past development
+267976,Pablo Torre,position_age_pct_movement_sprint_speed,-0.0018416294640130177,Team / peer context
+267976,Pablo Torre,position_age_pct_movement_agility,-0.03587833905751542,Team / peer context
+267976,Pablo Torre,position_age_pct_movement_reactions,0.007860061565556506,Team / peer context
+267976,Pablo Torre,position_age_pct_movement_balance,0.0038533216256445477,Team / peer context
+267976,Pablo Torre,position_age_pct_power_shot_power,0.007315151737941843,Team / peer context
+267976,Pablo Torre,position_age_pct_power_jumping,0.007233142570676605,Team / peer context
+267976,Pablo Torre,position_age_pct_power_stamina,0.015702320904100685,Team / peer context
+267976,Pablo Torre,position_age_pct_power_strength,0.0009288171060221503,Team / peer context
+267976,Pablo Torre,position_age_pct_power_long_shots,-0.028207618458034045,Team / peer context
+267976,Pablo Torre,position_age_pct_mentality_aggression,0.001894926708821799,Team / peer context
+267976,Pablo Torre,position_age_pct_mentality_interceptions,0.005651692090490724,Team / peer context
+267976,Pablo Torre,position_age_pct_mentality_positioning,0.006652594989453347,Team / peer context
+267976,Pablo Torre,position_age_pct_mentality_vision,0.018986647586496812,Team / peer context
+267976,Pablo Torre,position_age_pct_mentality_penalties,0.004257017452286623,Team / peer context
+267976,Pablo Torre,position_age_pct_mentality_composure,-0.005299263117837889,Team / peer context
+267976,Pablo Torre,position_age_pct_defending_marking_awareness,0.0004468514385510191,Team / peer context
+267976,Pablo Torre,position_age_pct_defending_standing_tackle,0.0049960745424527,Team / peer context
+267976,Pablo Torre,position_age_pct_defending_sliding_tackle,0.0,Team / peer context
+267976,Pablo Torre,position_age_pct_goalkeeping_diving,-0.009323815997473743,Team / peer context
+267976,Pablo Torre,position_age_pct_goalkeeping_handling,0.0020729903970319492,Team / peer context
+267976,Pablo Torre,position_age_pct_goalkeeping_kicking,0.007912976373418569,Team / peer context
+267976,Pablo Torre,position_age_pct_goalkeeping_positioning,0.016551985051723783,Team / peer context
+267976,Pablo Torre,position_age_pct_goalkeeping_reflexes,1.9480375545981895e-05,Team / peer context
+267976,Pablo Torre,team_role_peer_log_n,-0.013448208115982744,Team / peer context
+267976,Pablo Torre,team_role_pct_overall,0.003786706498791887,Team / peer context
+267976,Pablo Torre,team_role_gap_overall,0.0,Team / peer context
+267976,Pablo Torre,team_role_pct_role_quality,0.00021022816460681109,Team / peer context
+267976,Pablo Torre,team_role_gap_role_quality,0.020789865601699417,Team / peer context
+267976,Pablo Torre,team_role_pct_technical_quality,0.000124508618945766,Team / peer context
+267976,Pablo Torre,team_role_gap_technical_quality,-0.006437281160765168,Team / peer context
+267976,Pablo Torre,team_role_pct_athletic_quality,-0.004115063325841532,Team / peer context
+267976,Pablo Torre,team_role_gap_athletic_quality,0.0038070207230064567,Team / peer context
+267976,Pablo Torre,team_role_pct_mental_quality,0.005666304212465641,Team / peer context
+267976,Pablo Torre,team_role_gap_mental_quality,-0.024110812169681323,Team / peer context
+267976,Pablo Torre,team_role_pct_movement_reactions,0.008959421857130726,Team / peer context
+267976,Pablo Torre,team_role_gap_movement_reactions,0.0010215896030782122,Team / peer context
+267976,Pablo Torre,team_role_rating_depth_gap,0.011349787530467031,Team / peer context
+267976,Pablo Torre,league_position_peer_log_n,0.0015376243392347922,Team / peer context
+267976,Pablo Torre,league_position_pct_overall,0.006216542949924063,Team / peer context
+267976,Pablo Torre,league_position_pct_role_quality,0.0174591231807851,Team / peer context
+267976,Pablo Torre,league_position_pct_technical_quality,0.0004964943553155458,Team / peer context
+267976,Pablo Torre,league_position_pct_athletic_quality,-7.960023102948654e-05,Team / peer context
+267976,Pablo Torre,league_position_pct_mental_quality,0.0006263628359712038,Team / peer context
+267976,Pablo Torre,league_position_pct_pace,-0.002094575279278268,Team / peer context
+267976,Pablo Torre,league_position_age_peer_log_n,0.0014733367955111838,Team / peer context
+267976,Pablo Torre,league_position_age_pct_overall,0.0075957820501322704,Team / peer context
+267976,Pablo Torre,league_position_age_pct_role_quality,-0.001866926434618081,Team / peer context
+267976,Pablo Torre,league_position_age_pct_technical_quality,0.001516089093588138,Team / peer context
+267976,Pablo Torre,league_position_age_pct_athletic_quality,-0.00028003547492101423,Team / peer context
+267976,Pablo Torre,league_position_age_pct_mental_quality,0.00027383070859090283,Team / peer context
+267976,Pablo Torre,league_position_age_pct_pace,-0.0019148651917728458,Team / peer context
+267976,Pablo Torre,team_skill_above_rating_rank,0.013712866923975515,Team / peer context
+267976,Pablo Torre,position_age_skill_above_rating_rank,-0.010942181536907432,Team / peer context
+267976,Pablo Torre,club_named_starter,-0.09494444564947421,Team / peer context
+267976,Pablo Torre,club_substitute,0.0064150241870070245,Team / peer context
+267976,Pablo Torre,club_reserve,-0.0807674790905004,Team / peer context
+267976,Pablo Torre,team_top11_rating_context_change1,0.00010622530958852243,Past development
+267976,Pablo Torre,team_strength_league_percentile_context_change1,0.0,Past development
+267976,Pablo Torre,league_mean_team_strength_context_change1,0.0002651698339777165,Past development
+267976,Pablo Torre,rating_vs_team_mean_context_change1,-2.3388056620072573e-05,Past development
+267976,Pablo Torre,team_pct_overall_context_change1,0.0,Past development
+267976,Pablo Torre,team_pct_role_quality_context_change1,-0.0022051568503721163,Past development
+267976,Pablo Torre,team_role_pct_role_quality_context_change1,0.0,Past development
+267976,Pablo Torre,position_age_pct_role_quality_context_change1,-0.0023627779408083778,Past development
+267976,Pablo Torre,team_role_rating_depth_gap_context_change1,0.004087871812058798,Past development
+267976,Pablo Torre,club_team_id_changed1,0.0013239218135153324,Past development
+267976,Pablo Torre,league_id_changed1,0.0015019410226231602,Past development
+267976,Pablo Torre,team_top11_rating_context_change2,-0.000950082564269479,Past development
+267976,Pablo Torre,team_strength_league_percentile_context_change2,-0.00025108503685560723,Past development
+267976,Pablo Torre,league_mean_team_strength_context_change2,0.002017616350858403,Past development
+267976,Pablo Torre,rating_vs_team_mean_context_change2,-4.819232163639491e-05,Past development
+267976,Pablo Torre,team_pct_overall_context_change2,9.918249743709664e-05,Past development
+267976,Pablo Torre,team_pct_role_quality_context_change2,0.0025715660053501864,Past development
+267976,Pablo Torre,team_role_pct_role_quality_context_change2,0.00131878852450682,Past development
+267976,Pablo Torre,position_age_pct_role_quality_context_change2,0.006260628071627426,Past development
+267976,Pablo Torre,team_role_rating_depth_gap_context_change2,0.0009535341028358421,Past development
+267976,Pablo Torre,club_team_id_changed2,7.412390172617754e-05,Past development
+267976,Pablo Torre,league_id_changed2,0.005270755411188188,Past development
+267976,Pablo Torre,potential,0.8387528966805196,FIFA potential
+267976,Pablo Torre,potential_gap,-0.022209040019822143,FIFA potential
+267976,Pablo Torre,overall_lag3,0.001930114595001048,Past development
+267976,Pablo Torre,overall_change3,0.002544296400883287,Past development
+267976,Pablo Torre,role_quality_lag3,0.0,Past development
+267976,Pablo Torre,role_quality_change3,0.0,Past development
+267976,Pablo Torre,technical_quality_lag3,0.0,Past development
+267976,Pablo Torre,technical_quality_change3,0.0,Past development
+267976,Pablo Torre,athletic_quality_lag3,0.0016996607547082934,Past development
+267976,Pablo Torre,athletic_quality_change3,-0.0004437081544014167,Past development
+267976,Pablo Torre,mental_quality_lag3,0.0,Past development
+267976,Pablo Torre,mental_quality_change3,0.0,Past development
+267976,Pablo Torre,team_top11_rating_lag3,0.008995191860675067,Past development
+267976,Pablo Torre,team_top11_rating_change3,0.0,Past development
+267976,Pablo Torre,movement_reactions_lag3,0.0,Past development
+267976,Pablo Torre,movement_reactions_change3,-1.090458169177893e-05,Past development
+267976,Pablo Torre,skill_ball_control_lag3,0.008683557346482294,Past development
+267976,Pablo Torre,skill_ball_control_change3,0.0,Past development
+267976,Pablo Torre,power_stamina_lag3,0.0008200762300327714,Past development
+267976,Pablo Torre,power_stamina_change3,0.0019139677175590655,Past development
+267976,Pablo Torre,overall_lag4,0.0,Past development
+267976,Pablo Torre,overall_change4,0.0005563543012285007,Past development
+267976,Pablo Torre,role_quality_lag4,0.0019786495631929227,Past development
+267976,Pablo Torre,role_quality_change4,0.0,Past development
+267976,Pablo Torre,technical_quality_lag4,0.0011117629589403105,Past development
+267976,Pablo Torre,technical_quality_change4,0.0,Past development
+267976,Pablo Torre,athletic_quality_lag4,0.0,Past development
+267976,Pablo Torre,athletic_quality_change4,0.0,Past development
+267976,Pablo Torre,mental_quality_lag4,0.0,Past development
+267976,Pablo Torre,mental_quality_change4,0.0,Past development
+267976,Pablo Torre,team_top11_rating_lag4,0.0,Past development
+267976,Pablo Torre,team_top11_rating_change4,0.0,Past development
+267976,Pablo Torre,movement_reactions_lag4,2.0948495780789955e-06,Past development
+267976,Pablo Torre,movement_reactions_change4,-5.0247621478746316e-06,Past development
+267976,Pablo Torre,skill_ball_control_lag4,0.003929033856401202,Past development
+267976,Pablo Torre,skill_ball_control_change4,0.0,Past development
+267976,Pablo Torre,power_stamina_lag4,0.004407021611315257,Past development
+267976,Pablo Torre,power_stamina_change4,0.003072757470820674,Past development
+267976,Pablo Torre,overall_past_slope,-0.0034624944165724766,Past development
+267976,Pablo Torre,overall_past_observations,0.002186342623611356,Past development
+267976,Pablo Torre,role_quality_past_slope,-4.407644464214799e-05,Past development
+267976,Pablo Torre,role_quality_past_observations,0.005429449280252527,Past development
+267976,Pablo Torre,technical_quality_past_slope,0.0,Past development
+267976,Pablo Torre,technical_quality_past_observations,0.007242757220578472,Past development
+267976,Pablo Torre,athletic_quality_past_slope,0.0055986474351811845,Past development
+267976,Pablo Torre,athletic_quality_past_observations,0.0,Past development
+267976,Pablo Torre,mental_quality_past_slope,0.0015912832116967875,Past development
+267976,Pablo Torre,mental_quality_past_observations,0.0,Past development
+267976,Pablo Torre,team_top11_rating_past_slope,0.00017482112242926199,Past development
+267976,Pablo Torre,team_top11_rating_past_observations,0.02080524081313947,Past development
+267976,Pablo Torre,movement_reactions_past_slope,-0.00014223488050674383,Past development
+267976,Pablo Torre,movement_reactions_past_observations,0.0,Past development
+267976,Pablo Torre,skill_ball_control_past_slope,0.0011384885365451642,Past development
+267976,Pablo Torre,skill_ball_control_past_observations,0.005532810520641889,Past development
+267976,Pablo Torre,power_stamina_past_slope,0.0,Past development
+267976,Pablo Torre,power_stamina_past_observations,0.007095689654944552,Past development
+267976,Pablo Torre,rating_below_recent_peak,-0.00013972696350629212,Past development
+267976,Pablo Torre,rating_above_recent_floor,0.0,Past development
+267976,Pablo Torre,past_growth_skill_ahead,0.006502782020798424,Past development
+267976,Pablo Torre,recent_growth_consistency,0.0029038579024515156,Past development
+264309,A. Güler,overall,-0.12912906285927286,Current attributes
+264309,A. Güler,age,0.045815012712665075,Age / physique
+264309,A. Güler,height_cm,-0.1310382451191574,Age / physique
+264309,A. Güler,weight_kg,0.08591608966591237,Age / physique
+264309,A. Güler,weak_foot,-0.00010032606111443838,Current attributes
+264309,A. Güler,skill_moves,0.006566382042368778,Current attributes
+264309,A. Güler,pace,-0.005843479286400005,Current attributes
+264309,A. Güler,shooting,-0.005200819118032149,Current attributes
+264309,A. Güler,passing,0.0017235118429954532,Current attributes
+264309,A. Güler,dribbling,0.0067927485752702485,Current attributes
+264309,A. Güler,defending,-0.0022872312780319805,Current attributes
+264309,A. Güler,physic,-0.0008405430682623122,Current attributes
+264309,A. Güler,attacking_crossing,0.0005521122895649891,Current attributes
+264309,A. Güler,attacking_finishing,0.001060225399280806,Current attributes
+264309,A. Güler,attacking_heading_accuracy,0.005780942300168855,Current attributes
+264309,A. Güler,attacking_short_passing,0.008380814506462364,Current attributes
+264309,A. Güler,attacking_volleys,0.0003431233527697351,Current attributes
+264309,A. Güler,skill_dribbling,0.0026364662929719384,Current attributes
+264309,A. Güler,skill_curve,0.00876873291270137,Current attributes
+264309,A. Güler,skill_fk_accuracy,0.05896225299565069,Current attributes
+264309,A. Güler,skill_long_passing,-0.005401559526227526,Current attributes
+264309,A. Güler,skill_ball_control,0.026378037080234285,Current attributes
+264309,A. Güler,movement_acceleration,0.0027332850967277424,Past development
+264309,A. Güler,movement_sprint_speed,0.0002561305678067153,Current attributes
+264309,A. Güler,movement_agility,-0.006245332252967316,Current attributes
+264309,A. Güler,movement_reactions,0.005839807723276912,Current attributes
+264309,A. Güler,movement_balance,0.005741288965158564,Current attributes
+264309,A. Güler,power_shot_power,0.011731783139040521,Current attributes
+264309,A. Güler,power_jumping,0.0067603865778161345,Current attributes
+264309,A. Güler,power_stamina,0.0014597040315972476,Current attributes
+264309,A. Güler,power_strength,0.01163714947358639,Current attributes
+264309,A. Güler,power_long_shots,-0.0031876663069806787,Current attributes
+264309,A. Güler,mentality_aggression,-0.002553749179685107,Current attributes
+264309,A. Güler,mentality_interceptions,-0.001603618006886287,Current attributes
+264309,A. Güler,mentality_positioning,0.00038070663437725035,Current attributes
+264309,A. Güler,mentality_vision,-0.0007850474066905292,Current attributes
+264309,A. Güler,mentality_penalties,-0.0016385972592296428,Current attributes
+264309,A. Güler,mentality_composure,-0.05549857956280587,Current attributes
+264309,A. Güler,defending_marking_awareness,0.007912243107985509,Current attributes
+264309,A. Güler,defending_standing_tackle,0.013089584765270378,Current attributes
+264309,A. Güler,defending_sliding_tackle,0.004478347833182718,Current attributes
+264309,A. Güler,goalkeeping_diving,-0.003920667826708793,Current attributes
+264309,A. Güler,goalkeeping_handling,1.7706139628619735e-05,Current attributes
+264309,A. Güler,goalkeeping_kicking,-0.0025069616736735165,Current attributes
+264309,A. Güler,goalkeeping_positioning,0.0017702686552933682,Current attributes
+264309,A. Güler,goalkeeping_reflexes,0.007258357875759731,Current attributes
+264309,A. Güler,right_foot,0.001735428400617681,Current attributes
+264309,A. Güler,role_FW,0.0,Current attributes
+264309,A. Güler,role_Wing,0.0,Current attributes
+264309,A. Güler,role_MF,-0.0008619900004718791,Current attributes
+264309,A. Güler,role_CB,0.0,Current attributes
+264309,A. Güler,role_FB,0.0,Current attributes
+264309,A. Güler,role_GK,0.0,Current attributes
+264309,A. Güler,role_Other,0.0,Current attributes
+264309,A. Güler,role_quality,-0.008104003522246012,Current attributes
+264309,A. Güler,technical_quality,0.0034650600388746802,Current attributes
+264309,A. Güler,athletic_quality,-0.008076321621791447,Current attributes
+264309,A. Güler,mental_quality,0.0029311473026921676,Current attributes
+264309,A. Güler,role_headroom,0.0007391821176225484,Current attributes
+264309,A. Güler,technical_headroom,0.002843199431651636,Current attributes
+264309,A. Güler,athletic_headroom,-0.00895528831005121,Current attributes
+264309,A. Güler,mental_headroom,-0.0007867237177585653,Current attributes
+264309,A. Güler,skill_spikiness,0.010907128390014346,Current attributes
+264309,A. Güler,attributes_75plus,-0.021850859886227692,Current attributes
+264309,A. Güler,attributes_80plus,-0.0024019609539175186,Current attributes
+264309,A. Güler,role_balance,0.02963042111656883,Current attributes
+264309,A. Güler,weakest_role_skill,0.0011507925201819334,Current attributes
+264309,A. Güler,age_to_21,0.06390149967152178,Age / physique
+264309,A. Güler,age_rating_interaction,0.020048180461536915,Age / physique
+264309,A. Güler,role_quality_peer_percentile,0.5990188712823783,Current attributes
+264309,A. Güler,technical_quality_peer_percentile,0.03711169205060978,Current attributes
+264309,A. Güler,athletic_quality_peer_percentile,-0.007447296767032221,Current attributes
+264309,A. Güler,mental_quality_peer_percentile,0.16656723363509418,Current attributes
+264309,A. Güler,overall_lag1,0.0031002326517603415,Past development
+264309,A. Güler,overall_change1,-7.027249257337996e-05,Past development
+264309,A. Güler,overall_lag2,-0.0009590282780006676,Past development
+264309,A. Güler,overall_change2,0.0026844722519687256,Past development
+264309,A. Güler,role_quality_lag1,0.0006351697301650826,Past development
+264309,A. Güler,role_quality_change1,0.0034155135465555055,Past development
+264309,A. Güler,role_quality_lag2,0.0,Past development
+264309,A. Güler,role_quality_change2,-0.0016162681893383672,Past development
+264309,A. Güler,technical_quality_lag1,0.005348629936521626,Past development
+264309,A. Güler,technical_quality_change1,0.0029875537419010558,Past development
+264309,A. Güler,technical_quality_lag2,-0.003001672536881731,Past development
+264309,A. Güler,technical_quality_change2,0.0010509992009969267,Past development
+264309,A. Güler,athletic_quality_lag1,0.002787593645550553,Past development
+264309,A. Güler,athletic_quality_change1,0.0,Past development
+264309,A. Güler,athletic_quality_lag2,0.003687908925592168,Past development
+264309,A. Güler,athletic_quality_change2,-0.0015529617960285966,Past development
+264309,A. Güler,mental_quality_lag1,8.393729327226976e-06,Past development
+264309,A. Güler,mental_quality_change1,0.0004933274853470166,Past development
+264309,A. Güler,mental_quality_lag2,0.0,Past development
+264309,A. Güler,mental_quality_change2,-0.0010871093298499748,Past development
+264309,A. Güler,movement_reactions_lag1,0.004899519180007175,Past development
+264309,A. Güler,movement_reactions_change1,-0.0004837572718157225,Past development
+264309,A. Güler,movement_reactions_lag2,0.0019463649164656147,Past development
+264309,A. Güler,movement_reactions_change2,-0.007239680138712931,Past development
+264309,A. Güler,skill_ball_control_lag1,0.002675448178428336,Past development
+264309,A. Güler,skill_ball_control_change1,-0.0003725800776116992,Past development
+264309,A. Güler,skill_ball_control_lag2,0.003209188809348569,Past development
+264309,A. Güler,skill_ball_control_change2,-0.0003934473719114265,Past development
+264309,A. Güler,power_stamina_lag1,0.0012528710189315352,Past development
+264309,A. Güler,power_stamina_change1,-0.0006108138993324854,Past development
+264309,A. Güler,power_stamina_lag2,0.00521157697496354,Past development
+264309,A. Güler,power_stamina_change2,0.0,Past development
+264309,A. Güler,history_length,0.0045051615502242634,Past development
+264309,A. Güler,rating_acceleration,0.0,Past development
+264309,A. Güler,core_growth_ahead_of_rating,0.0,Current attributes
+264309,A. Güler,technical_growth_ahead_of_rating,0.004807986626153026,Current attributes
+264309,A. Güler,team_roster_n,-0.007881313064853325,Team / peer context
+264309,A. Güler,team_mean_rating,0.06497487012888219,Team / peer context
+264309,A. Güler,team_median_rating,0.17505570339453422,Team / peer context
+264309,A. Güler,team_rating_std,-0.010195465451785422,Team / peer context
+264309,A. Güler,team_best_rating,0.016537867903597275,Team / peer context
+264309,A. Güler,team_mean_age,-0.0058602733413258955,Team / peer context
+264309,A. Güler,team_top11_rating,0.24167731530890907,Team / peer context
+264309,A. Güler,team_u21_share,-0.01748007466970086,Team / peer context
+264309,A. Güler,team_80plus_count,-0.014367615412178772,Team / peer context
+264309,A. Güler,team_strength_league_percentile,0.01248157937220059,Team / peer context
+264309,A. Güler,league_team_count,-0.002910735842453291,Team / peer context
+264309,A. Güler,league_mean_team_strength,0.03280226707724977,Team / peer context
+264309,A. Güler,league_best_team_strength,0.01608548382182275,Team / peer context
+264309,A. Güler,team_strength_vs_league,0.0007553415412556701,Team / peer context
+264309,A. Güler,team_strength_vs_league_best,-0.00490383478649249,Team / peer context
+264309,A. Güler,team_strength_global_percentile,0.055314529790110506,Team / peer context
+264309,A. Güler,rating_vs_team_top11,-0.0016728673838331775,Team / peer context
+264309,A. Güler,rating_vs_team_mean,-0.009559897254478242,Team / peer context
+264309,A. Güler,age_vs_team_mean,0.01676369504720018,Team / peer context
+264309,A. Güler,team_roster_log_n,0.017544143200031084,Team / peer context
+264309,A. Güler,league_level_numeric,0.004007356655716002,Team / peer context
+264309,A. Güler,previous_peak_gap,5.2559112626146975e-08,Current attributes
+264309,A. Güler,first_observed_age,0.020687336629449635,Age / physique
+264309,A. Güler,editions_since_first_seen,0.012099125643492253,Age / physique
+264309,A. Güler,team_peer_log_n,-0.008494226502840416,Team / peer context
+264309,A. Güler,team_pct_overall,-0.0028675352790046003,Team / peer context
+264309,A. Güler,team_gap_overall,0.0013021209552336772,Team / peer context
+264309,A. Güler,team_pct_pace,0.002681427518553381,Team / peer context
+264309,A. Güler,team_gap_pace,-0.0013429401059090456,Team / peer context
+264309,A. Güler,team_pct_shooting,-7.672636077610956e-06,Team / peer context
+264309,A. Güler,team_gap_shooting,-0.0015090257573960907,Team / peer context
+264309,A. Güler,team_pct_passing,0.0005137859894734541,Team / peer context
+264309,A. Güler,team_gap_passing,-0.001244115141902247,Team / peer context
+264309,A. Güler,team_pct_dribbling,-0.0008581009924144398,Team / peer context
+264309,A. Güler,team_gap_dribbling,-0.012379788116301249,Team / peer context
+264309,A. Güler,team_pct_defending,0.004904269380849518,Team / peer context
+264309,A. Güler,team_gap_defending,0.0,Team / peer context
+264309,A. Güler,team_pct_physic,0.0,Team / peer context
+264309,A. Güler,team_gap_physic,-0.009380127997205221,Team / peer context
+264309,A. Güler,team_pct_role_quality,-0.0042083541539433165,Team / peer context
+264309,A. Güler,team_gap_role_quality,0.010526897667719477,Team / peer context
+264309,A. Güler,team_pct_technical_quality,-0.0010906947132351163,Team / peer context
+264309,A. Güler,team_gap_technical_quality,-0.0003971493154005352,Team / peer context
+264309,A. Güler,team_pct_athletic_quality,0.0004159740973714744,Team / peer context
+264309,A. Güler,team_gap_athletic_quality,0.0,Team / peer context
+264309,A. Güler,team_pct_mental_quality,0.0006176135768554459,Team / peer context
+264309,A. Güler,team_gap_mental_quality,-0.010487508940935001,Team / peer context
+264309,A. Güler,team_pct_attacking_crossing,-0.028764792923644377,Team / peer context
+264309,A. Güler,team_gap_attacking_crossing,-0.0183683381479829,Team / peer context
+264309,A. Güler,team_pct_attacking_finishing,-0.0004200036952742892,Team / peer context
+264309,A. Güler,team_gap_attacking_finishing,0.016244697107073713,Team / peer context
+264309,A. Güler,team_pct_attacking_heading_accuracy,0.008572983852510239,Team / peer context
+264309,A. Güler,team_gap_attacking_heading_accuracy,-0.0008005128709262263,Team / peer context
+264309,A. Güler,team_pct_attacking_short_passing,0.0034797560248374902,Team / peer context
+264309,A. Güler,team_gap_attacking_short_passing,-0.004252603319538985,Team / peer context
+264309,A. Güler,team_pct_attacking_volleys,0.00886093722701981,Team / peer context
+264309,A. Güler,team_gap_attacking_volleys,-0.0038830204948417596,Team / peer context
+264309,A. Güler,team_pct_skill_dribbling,0.004060666826712035,Team / peer context
+264309,A. Güler,team_gap_skill_dribbling,0.006439647534970769,Team / peer context
+264309,A. Güler,team_pct_skill_curve,-0.0006190307184236453,Team / peer context
+264309,A. Güler,team_gap_skill_curve,0.0,Team / peer context
+264309,A. Güler,team_pct_skill_fk_accuracy,0.0,Team / peer context
+264309,A. Güler,team_gap_skill_fk_accuracy,-0.01506143476210978,Team / peer context
+264309,A. Güler,team_pct_skill_long_passing,0.001979345622700422,Team / peer context
+264309,A. Güler,team_gap_skill_long_passing,0.0,Team / peer context
+264309,A. Güler,team_pct_skill_ball_control,0.0,Team / peer context
+264309,A. Güler,team_gap_skill_ball_control,-0.01655458167438608,Team / peer context
+264309,A. Güler,team_pct_movement_acceleration,0.0032298947297408225,Past development
+264309,A. Güler,team_gap_movement_acceleration,0.005379050758563469,Past development
+264309,A. Güler,team_pct_movement_sprint_speed,-0.012052408261351061,Team / peer context
+264309,A. Güler,team_gap_movement_sprint_speed,0.009089587843406945,Team / peer context
+264309,A. Güler,team_pct_movement_agility,0.0012294594542420281,Team / peer context
+264309,A. Güler,team_gap_movement_agility,0.005284568129834435,Team / peer context
+264309,A. Güler,team_pct_movement_reactions,-0.0034594240494466204,Team / peer context
+264309,A. Güler,team_gap_movement_reactions,0.0020278865792878256,Team / peer context
+264309,A. Güler,team_pct_movement_balance,0.0,Team / peer context
+264309,A. Güler,team_gap_movement_balance,-0.009508913688824516,Team / peer context
+264309,A. Güler,team_pct_power_shot_power,0.0009718414565673511,Team / peer context
+264309,A. Güler,team_gap_power_shot_power,0.0,Team / peer context
+264309,A. Güler,team_pct_power_jumping,0.006899416595687562,Team / peer context
+264309,A. Güler,team_gap_power_jumping,0.015708192303967042,Team / peer context
+264309,A. Güler,team_pct_power_stamina,-0.011898253898584595,Team / peer context
+264309,A. Güler,team_gap_power_stamina,-0.003471428791875322,Team / peer context
+264309,A. Güler,team_pct_power_strength,-0.0008349103729981078,Team / peer context
+264309,A. Güler,team_gap_power_strength,-0.018464353780886247,Team / peer context
+264309,A. Güler,team_pct_power_long_shots,0.00028333661738451203,Team / peer context
+264309,A. Güler,team_gap_power_long_shots,-0.0087726819644366,Team / peer context
+264309,A. Güler,team_pct_mentality_aggression,-0.02555413296181724,Team / peer context
+264309,A. Güler,team_gap_mentality_aggression,-0.019183760695463733,Team / peer context
+264309,A. Güler,team_pct_mentality_interceptions,0.00436343851559818,Team / peer context
+264309,A. Güler,team_gap_mentality_interceptions,-0.00036884902291155707,Team / peer context
+264309,A. Güler,team_pct_mentality_positioning,-0.004041093961003437,Team / peer context
+264309,A. Güler,team_gap_mentality_positioning,0.0006767254834732314,Team / peer context
+264309,A. Güler,team_pct_mentality_vision,-0.0005788107227459359,Team / peer context
+264309,A. Güler,team_gap_mentality_vision,0.003092812512749971,Team / peer context
+264309,A. Güler,team_pct_mentality_penalties,0.0005097134006002833,Team / peer context
+264309,A. Güler,team_gap_mentality_penalties,-0.002656482403018466,Team / peer context
+264309,A. Güler,team_pct_mentality_composure,-0.03270421163061786,Team / peer context
+264309,A. Güler,team_gap_mentality_composure,-0.034561591241117566,Team / peer context
+264309,A. Güler,team_pct_defending_marking_awareness,-0.004832868418024128,Team / peer context
+264309,A. Güler,team_gap_defending_marking_awareness,-0.002115397591912495,Team / peer context
+264309,A. Güler,team_pct_defending_standing_tackle,-0.0008534653501731299,Team / peer context
+264309,A. Güler,team_gap_defending_standing_tackle,-7.894036657026947e-05,Team / peer context
+264309,A. Güler,team_pct_defending_sliding_tackle,-0.002407494123866213,Team / peer context
+264309,A. Güler,team_gap_defending_sliding_tackle,0.0004479582804498694,Team / peer context
+264309,A. Güler,team_pct_goalkeeping_diving,-0.005114956056096063,Team / peer context
+264309,A. Güler,team_gap_goalkeeping_diving,0.0010412896799683658,Team / peer context
+264309,A. Güler,team_pct_goalkeeping_handling,-0.0013116197378033872,Team / peer context
+264309,A. Güler,team_gap_goalkeeping_handling,-0.0006623955615584122,Team / peer context
+264309,A. Güler,team_pct_goalkeeping_kicking,0.00028831627966878254,Team / peer context
+264309,A. Güler,team_gap_goalkeeping_kicking,0.0027169087783362206,Team / peer context
+264309,A. Güler,team_pct_goalkeeping_positioning,-0.005235879727315383,Team / peer context
+264309,A. Güler,team_gap_goalkeeping_positioning,-0.022071343757858096,Team / peer context
+264309,A. Güler,team_pct_goalkeeping_reflexes,0.009626048550567,Team / peer context
+264309,A. Güler,team_gap_goalkeeping_reflexes,0.008209386382712104,Team / peer context
+264309,A. Güler,position_peer_log_n,0.020003622626061014,Team / peer context
+264309,A. Güler,position_pct_overall,-0.10980141357603619,Team / peer context
+264309,A. Güler,position_pct_pace,0.001768672347966198,Team / peer context
+264309,A. Güler,position_pct_shooting,-0.0017376791528475699,Team / peer context
+264309,A. Güler,position_pct_passing,0.009853083743739166,Team / peer context
+264309,A. Güler,position_pct_dribbling,0.003915913290462189,Team / peer context
+264309,A. Güler,position_pct_defending,0.038384460651637906,Team / peer context
+264309,A. Güler,position_pct_physic,0.0002689891960795147,Team / peer context
+264309,A. Güler,position_pct_role_quality,0.030081987485565443,Team / peer context
+264309,A. Güler,position_pct_technical_quality,0.05209608038899448,Team / peer context
+264309,A. Güler,position_pct_athletic_quality,-0.002662993636178199,Team / peer context
+264309,A. Güler,position_pct_mental_quality,0.003264668495788143,Team / peer context
+264309,A. Güler,position_pct_attacking_crossing,0.0014588467619493283,Team / peer context
+264309,A. Güler,position_pct_attacking_finishing,0.0046444133268668236,Team / peer context
+264309,A. Güler,position_pct_attacking_heading_accuracy,0.007802002582424824,Team / peer context
+264309,A. Güler,position_pct_attacking_short_passing,-0.0005781872897045737,Team / peer context
+264309,A. Güler,position_pct_attacking_volleys,0.0010362915469999223,Team / peer context
+264309,A. Güler,position_pct_skill_dribbling,0.004379916831745067,Team / peer context
+264309,A. Güler,position_pct_skill_curve,0.012706821159031906,Team / peer context
+264309,A. Güler,position_pct_skill_fk_accuracy,0.005217487291610764,Team / peer context
+264309,A. Güler,position_pct_skill_long_passing,0.00716691524139537,Team / peer context
+264309,A. Güler,position_pct_skill_ball_control,-0.002696431759682162,Team / peer context
+264309,A. Güler,position_pct_movement_acceleration,-0.0002298324666954465,Past development
+264309,A. Güler,position_pct_movement_sprint_speed,-0.003691544097736148,Team / peer context
+264309,A. Güler,position_pct_movement_agility,-0.017709374408939337,Team / peer context
+264309,A. Güler,position_pct_movement_reactions,-0.008555888515476812,Team / peer context
+264309,A. Güler,position_pct_movement_balance,-0.0025957086401320727,Team / peer context
+264309,A. Güler,position_pct_power_shot_power,0.011676723610030157,Team / peer context
+264309,A. Güler,position_pct_power_jumping,0.008430985873668898,Team / peer context
+264309,A. Güler,position_pct_power_stamina,0.010116101963145588,Team / peer context
+264309,A. Güler,position_pct_power_strength,-0.012728347949449539,Team / peer context
+264309,A. Güler,position_pct_power_long_shots,0.0014986059404733605,Team / peer context
+264309,A. Güler,position_pct_mentality_aggression,-0.012537136787244276,Team / peer context
+264309,A. Güler,position_pct_mentality_interceptions,-0.0012339981681863765,Team / peer context
+264309,A. Güler,position_pct_mentality_positioning,-0.0011093621961399689,Team / peer context
+264309,A. Güler,position_pct_mentality_vision,0.028820861225784953,Team / peer context
+264309,A. Güler,position_pct_mentality_penalties,0.0066444737042651875,Team / peer context
+264309,A. Güler,position_pct_mentality_composure,-0.06759900397570338,Team / peer context
+264309,A. Güler,position_pct_defending_marking_awareness,0.006760525986042262,Team / peer context
+264309,A. Güler,position_pct_defending_standing_tackle,-0.031232149243946745,Team / peer context
+264309,A. Güler,position_pct_defending_sliding_tackle,0.00013159236217887232,Team / peer context
+264309,A. Güler,position_pct_goalkeeping_diving,-0.0018442031909085878,Team / peer context
+264309,A. Güler,position_pct_goalkeeping_handling,0.0030473037768691392,Team / peer context
+264309,A. Güler,position_pct_goalkeeping_kicking,-0.006086942659077317,Team / peer context
+264309,A. Güler,position_pct_goalkeeping_positioning,0.01669655753043714,Team / peer context
+264309,A. Güler,position_pct_goalkeeping_reflexes,0.003204917629836095,Team / peer context
+264309,A. Güler,position_age_peer_log_n,0.11755976402649117,Team / peer context
+264309,A. Güler,position_age_pct_overall,0.3435879952714174,Team / peer context
+264309,A. Güler,position_age_pct_pace,-0.005555645031517263,Team / peer context
+264309,A. Güler,position_age_pct_shooting,0.0,Team / peer context
+264309,A. Güler,position_age_pct_passing,-0.019272692163078534,Team / peer context
+264309,A. Güler,position_age_pct_dribbling,0.029270399842546174,Team / peer context
+264309,A. Güler,position_age_pct_defending,0.0005400939165619618,Team / peer context
+264309,A. Güler,position_age_pct_physic,-0.0025699056751871795,Team / peer context
+264309,A. Güler,position_age_pct_role_quality,0.05507833407132718,Team / peer context
+264309,A. Güler,position_age_pct_technical_quality,0.03588546251841031,Team / peer context
+264309,A. Güler,position_age_pct_athletic_quality,-0.03063583103571,Team / peer context
+264309,A. Güler,position_age_pct_mental_quality,0.0027674112076392986,Team / peer context
+264309,A. Güler,position_age_pct_attacking_crossing,0.02327628234971107,Team / peer context
+264309,A. Güler,position_age_pct_attacking_finishing,0.012559209747654001,Team / peer context
+264309,A. Güler,position_age_pct_attacking_heading_accuracy,0.0006051514924051037,Team / peer context
+264309,A. Güler,position_age_pct_attacking_short_passing,0.004397447664804393,Team / peer context
+264309,A. Güler,position_age_pct_attacking_volleys,-0.002668816667663774,Team / peer context
+264309,A. Güler,position_age_pct_skill_dribbling,0.01861199321088901,Team / peer context
+264309,A. Güler,position_age_pct_skill_curve,0.032579050652090706,Team / peer context
+264309,A. Güler,position_age_pct_skill_fk_accuracy,0.017837322641853934,Team / peer context
+264309,A. Güler,position_age_pct_skill_long_passing,0.0069341756553164035,Team / peer context
+264309,A. Güler,position_age_pct_skill_ball_control,0.03000581792545287,Team / peer context
+264309,A. Güler,position_age_pct_movement_acceleration,-0.00905386137297922,Past development
+264309,A. Güler,position_age_pct_movement_sprint_speed,-0.00024644503938244373,Team / peer context
+264309,A. Güler,position_age_pct_movement_agility,-0.036407645699835386,Team / peer context
+264309,A. Güler,position_age_pct_movement_reactions,-0.017278348341046523,Team / peer context
+264309,A. Güler,position_age_pct_movement_balance,0.03291797542013583,Team / peer context
+264309,A. Güler,position_age_pct_power_shot_power,-0.0038161578673284544,Team / peer context
+264309,A. Güler,position_age_pct_power_jumping,-0.019076116377465917,Team / peer context
+264309,A. Güler,position_age_pct_power_stamina,0.00297571007170679,Team / peer context
+264309,A. Güler,position_age_pct_power_strength,0.004183147631143171,Team / peer context
+264309,A. Güler,position_age_pct_power_long_shots,-0.06502863924142169,Team / peer context
+264309,A. Güler,position_age_pct_mentality_aggression,0.0004546878182555271,Team / peer context
+264309,A. Güler,position_age_pct_mentality_interceptions,0.03944019479193202,Team / peer context
+264309,A. Güler,position_age_pct_mentality_positioning,0.059357413427860294,Team / peer context
+264309,A. Güler,position_age_pct_mentality_vision,0.02162591894268521,Team / peer context
+264309,A. Güler,position_age_pct_mentality_penalties,0.005915001225492552,Team / peer context
+264309,A. Güler,position_age_pct_mentality_composure,-0.1399841016817443,Team / peer context
+264309,A. Güler,position_age_pct_defending_marking_awareness,0.0011160631277836518,Team / peer context
+264309,A. Güler,position_age_pct_defending_standing_tackle,0.007586547070442963,Team / peer context
+264309,A. Güler,position_age_pct_defending_sliding_tackle,0.0,Team / peer context
+264309,A. Güler,position_age_pct_goalkeeping_diving,-0.022704012487214802,Team / peer context
+264309,A. Güler,position_age_pct_goalkeeping_handling,0.0010524315083265752,Team / peer context
+264309,A. Güler,position_age_pct_goalkeeping_kicking,0.004576285053045293,Team / peer context
+264309,A. Güler,position_age_pct_goalkeeping_positioning,0.01175094021605673,Team / peer context
+264309,A. Güler,position_age_pct_goalkeeping_reflexes,-0.004585907745421704,Team / peer context
+264309,A. Güler,team_role_peer_log_n,0.004186815496335942,Team / peer context
+264309,A. Güler,team_role_pct_overall,-0.009118455606851535,Team / peer context
+264309,A. Güler,team_role_gap_overall,0.0,Team / peer context
+264309,A. Güler,team_role_pct_role_quality,0.0009250082249131618,Team / peer context
+264309,A. Güler,team_role_gap_role_quality,-0.007930797480371515,Team / peer context
+264309,A. Güler,team_role_pct_technical_quality,0.002699934540656423,Team / peer context
+264309,A. Güler,team_role_gap_technical_quality,0.007337629114681964,Team / peer context
+264309,A. Güler,team_role_pct_athletic_quality,-0.00620980306005637,Team / peer context
+264309,A. Güler,team_role_gap_athletic_quality,-0.002531924425027121,Team / peer context
+264309,A. Güler,team_role_pct_mental_quality,0.0028520522602443095,Team / peer context
+264309,A. Güler,team_role_gap_mental_quality,0.008775741696499825,Team / peer context
+264309,A. Güler,team_role_pct_movement_reactions,-0.017987669245390293,Team / peer context
+264309,A. Güler,team_role_gap_movement_reactions,-0.02646228772721433,Team / peer context
+264309,A. Güler,team_role_rating_depth_gap,0.00045970484320345065,Team / peer context
+264309,A. Güler,league_position_peer_log_n,-0.0003576565533087389,Team / peer context
+264309,A. Güler,league_position_pct_overall,-0.004670888159119077,Team / peer context
+264309,A. Güler,league_position_pct_role_quality,-0.021591705043818885,Team / peer context
+264309,A. Güler,league_position_pct_technical_quality,5.765644186490111e-05,Team / peer context
+264309,A. Güler,league_position_pct_athletic_quality,-0.001212686879520975,Team / peer context
+264309,A. Güler,league_position_pct_mental_quality,0.003249792169953181,Team / peer context
+264309,A. Güler,league_position_pct_pace,-0.006373260422717304,Team / peer context
+264309,A. Güler,league_position_age_peer_log_n,0.0013314013833829624,Team / peer context
+264309,A. Güler,league_position_age_pct_overall,-0.0005630156840708447,Team / peer context
+264309,A. Güler,league_position_age_pct_role_quality,0.010238174839360691,Team / peer context
+264309,A. Güler,league_position_age_pct_technical_quality,0.002324966034978681,Team / peer context
+264309,A. Güler,league_position_age_pct_athletic_quality,-0.00031226263228141657,Team / peer context
+264309,A. Güler,league_position_age_pct_mental_quality,0.00027383070859090283,Team / peer context
+264309,A. Güler,league_position_age_pct_pace,0.00024381824557613753,Team / peer context
+264309,A. Güler,team_skill_above_rating_rank,-0.006101175029008474,Team / peer context
+264309,A. Güler,position_age_skill_above_rating_rank,0.024921484207137787,Team / peer context
+264309,A. Güler,club_named_starter,-0.10704964127467387,Team / peer context
+264309,A. Güler,club_substitute,0.002395218326316122,Team / peer context
+264309,A. Güler,club_reserve,-0.07473111674797984,Team / peer context
+264309,A. Güler,team_top11_rating_context_change1,0.0005641934324827106,Past development
+264309,A. Güler,team_strength_league_percentile_context_change1,0.0,Past development
+264309,A. Güler,league_mean_team_strength_context_change1,0.0002651698339777165,Past development
+264309,A. Güler,rating_vs_team_mean_context_change1,-2.3388056620072573e-05,Past development
+264309,A. Güler,team_pct_overall_context_change1,0.0,Past development
+264309,A. Güler,team_pct_role_quality_context_change1,0.0008847199259343629,Past development
+264309,A. Güler,team_role_pct_role_quality_context_change1,0.0,Past development
+264309,A. Güler,position_age_pct_role_quality_context_change1,-0.0023639512748399225,Past development
+264309,A. Güler,team_role_rating_depth_gap_context_change1,-0.0022188729958950567,Past development
+264309,A. Güler,club_team_id_changed1,-0.0009995716508361275,Past development
+264309,A. Güler,league_id_changed1,-9.585879004853213e-05,Past development
+264309,A. Güler,team_top11_rating_context_change2,-0.001097444907740853,Past development
+264309,A. Güler,team_strength_league_percentile_context_change2,-0.00040702948882172474,Past development
+264309,A. Güler,league_mean_team_strength_context_change2,0.002017616350858403,Past development
+264309,A. Güler,rating_vs_team_mean_context_change2,-0.00022408477243163113,Past development
+264309,A. Güler,team_pct_overall_context_change2,0.000994041838554583,Past development
+264309,A. Güler,team_pct_role_quality_context_change2,0.0018619931421467561,Past development
+264309,A. Güler,team_role_pct_role_quality_context_change2,0.004578255836979421,Past development
+264309,A. Güler,position_age_pct_role_quality_context_change2,0.006260628071627426,Past development
+264309,A. Güler,team_role_rating_depth_gap_context_change2,0.0009535341028358421,Past development
+264309,A. Güler,club_team_id_changed2,-0.00028116479164742804,Past development
+264309,A. Güler,league_id_changed2,0.002582786899390411,Past development
+264309,A. Güler,potential,0.7958225465074407,FIFA potential
+264309,A. Güler,potential_gap,-0.017030947847132938,FIFA potential
+264309,A. Güler,overall_lag3,0.002008519197637341,Past development
+264309,A. Güler,overall_change3,0.0007131370952429743,Past development
+264309,A. Güler,role_quality_lag3,0.0,Past development
+264309,A. Güler,role_quality_change3,0.0,Past development
+264309,A. Güler,technical_quality_lag3,0.0,Past development
+264309,A. Güler,technical_quality_change3,0.0,Past development
+264309,A. Güler,athletic_quality_lag3,0.0016996607547082934,Past development
+264309,A. Güler,athletic_quality_change3,0.001319534779581063,Past development
+264309,A. Güler,mental_quality_lag3,0.0,Past development
+264309,A. Güler,mental_quality_change3,0.0,Past development
+264309,A. Güler,team_top11_rating_lag3,0.0053971469142195605,Past development
+264309,A. Güler,team_top11_rating_change3,0.0,Past development
+264309,A. Güler,movement_reactions_lag3,0.0,Past development
+264309,A. Güler,movement_reactions_change3,-1.090458169177893e-05,Past development
+264309,A. Güler,skill_ball_control_lag3,0.008258585234641576,Past development
+264309,A. Güler,skill_ball_control_change3,0.0,Past development
+264309,A. Güler,power_stamina_lag3,0.001364197466445577,Past development
+264309,A. Güler,power_stamina_change3,0.00028846389700495434,Past development
+264309,A. Güler,overall_lag4,0.0,Past development
+264309,A. Güler,overall_change4,0.0005563543012285007,Past development
+264309,A. Güler,role_quality_lag4,0.001702882521348546,Past development
+264309,A. Güler,role_quality_change4,0.0,Past development
+264309,A. Güler,technical_quality_lag4,0.0011117629589403105,Past development
+264309,A. Güler,technical_quality_change4,0.0,Past development
+264309,A. Güler,athletic_quality_lag4,0.0,Past development
+264309,A. Güler,athletic_quality_change4,0.0,Past development
+264309,A. Güler,mental_quality_lag4,0.0,Past development
+264309,A. Güler,mental_quality_change4,0.0,Past development
+264309,A. Güler,team_top11_rating_lag4,0.0,Past development
+264309,A. Güler,team_top11_rating_change4,0.0,Past development
+264309,A. Güler,movement_reactions_lag4,2.0948495780789955e-06,Past development
+264309,A. Güler,movement_reactions_change4,-5.0247621478746316e-06,Past development
+264309,A. Güler,skill_ball_control_lag4,0.003929033856401202,Past development
+264309,A. Güler,skill_ball_control_change4,0.0,Past development
+264309,A. Güler,power_stamina_lag4,0.0035839448484243554,Past development
+264309,A. Güler,power_stamina_change4,0.0020014810283956997,Past development
+264309,A. Güler,overall_past_slope,-0.007983972103417657,Past development
+264309,A. Güler,overall_past_observations,0.0008542635190628117,Past development
+264309,A. Güler,role_quality_past_slope,0.0011037783819026138,Past development
+264309,A. Güler,role_quality_past_observations,0.005429449280252527,Past development
+264309,A. Güler,technical_quality_past_slope,0.0,Past development
+264309,A. Güler,technical_quality_past_observations,0.007242757220578472,Past development
+264309,A. Güler,athletic_quality_past_slope,0.003879544805854933,Past development
+264309,A. Güler,athletic_quality_past_observations,0.0,Past development
+264309,A. Güler,mental_quality_past_slope,0.002038484244330014,Past development
+264309,A. Güler,mental_quality_past_observations,0.0,Past development
+264309,A. Güler,team_top11_rating_past_slope,0.0002746876907728874,Past development
+264309,A. Güler,team_top11_rating_past_observations,0.003189412996084502,Past development
+264309,A. Güler,movement_reactions_past_slope,-0.00014223488050674383,Past development
+264309,A. Güler,movement_reactions_past_observations,0.0,Past development
+264309,A. Güler,skill_ball_control_past_slope,0.0011384885365451642,Past development
+264309,A. Güler,skill_ball_control_past_observations,0.0026914507503554,Past development
+264309,A. Güler,power_stamina_past_slope,0.0,Past development
+264309,A. Güler,power_stamina_past_observations,0.004752913541716525,Past development
+264309,A. Güler,rating_below_recent_peak,1.4761235388628365e-05,Past development
+264309,A. Güler,rating_above_recent_floor,0.0,Past development
+264309,A. Güler,past_growth_skill_ahead,0.0059945704264847965,Past development
+264309,A. Güler,recent_growth_consistency,0.0020813803984414355,Past development

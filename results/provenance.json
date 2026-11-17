@@ -1,0 +1,110 @@
+{
+  "sources": [
+    {
+      "file": "male_players.csv",
+      "dataset": "ea-sports-fc-24-complete-player-dataset",
+      "sha256": "fd788f7809a62e9715f0cfa4e45c92a97dd716bd6d64dc48a71a0e86369a0a7e"
+    },
+    {
+      "file": "male_players.csv",
+      "dataset": "ea-sports-fc-25-database-ratings-and-stats",
+      "sha256": "689195986dffed3c2a33655c71e281d39eec03bc633c0acecae45500b9901a00"
+    },
+    {
+      "file": "FC26_20250921.csv",
+      "dataset": "fc-26-fifa-26-player-data",
+      "sha256": "4399cb2bcc2a14a2872e76a118f8f4bf64d7954503949c75751a14f33863e3b2"
+    }
+  ],
+  "normalized_snapshot_sha256": "b2e50694354d907c3e86ebcbbf079471bb8761eac3addba150eae4a396c6d0a7",
+  "execution": {
+    "local_every_cell_in_order": true,
+    "code_cells": 14,
+    "figures": 12,
+    "source_hidden": true,
+    "python_comments": 0,
+    "cell_errors": 0,
+    "visible_stderr": false,
+    "new_feature_removal_models_fitted_locally": true,
+    "kaggle_reading_version": "Quick Save preserving executed local outputs; not a fresh Kaggle training run.",
+    "old_notebook_preserved": true,
+    "markdown_cells": 14,
+    "all20_latest_shap_additivity_checked": true,
+    "local_execution_reused_unchanged_fitted_model_caches": true,
+    "models_refitted_in_this_update": false
+  },
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "lightgbm": "4.7.0",
+    "catboost": "1.2.10",
+    "plotly": "7.1.0",
+    "matplotlib": "3.10.8",
+    "nbformat": "5.11.1",
+    "ipython": "9.16.1",
+    "mistune": "3.4.0"
+  },
+  "results": {
+    "top50_hits": {
+      "FIFA inputs only": 7,
+      "FIFA potential": 14,
+      "Player model": 22,
+      "Without player history": 17,
+      "Without team / peer context": 11
+    },
+    "features": {
+      "FIFA inputs only": 11,
+      "Without team / peer context": 162,
+      "Without player history": 340
+    },
+    "confirmed_selection_overlap": {
+      "Neither": 76,
+      "ML only": 11,
+      "Both": 11,
+      "FIFA only": 3
+    },
+    "scope": "Fixed settings and dated labels; retrospective feature-removal comparison. Correlated features can substitute for each other."
+  },
+  "conditional_intervals": "Previously inspected ratings archive. These are dated replays, not independent prospective validation.",
+  "latest_shortlist": {
+    "snapshot": {
+      "snapshot_date": "2025-09-21",
+      "edition": 2026,
+      "source": "rovnez / FC26_20250921.csv",
+      "custom_snapshot": false,
+      "model_edition": 2026,
+      "snapshot_age_days": 421
+    },
+    "eligible_players": 13154,
+    "top_n": 20,
+    "future_target_editions": [
+      2027,
+      2028,
+      2029
+    ],
+    "model": "Player model",
+    "features": 431,
+    "hyperparameter_search_performed": false,
+    "probability_calibration_performed": false,
+    "shap_additivity_checked": true,
+    "outcomes": "Unconfirmed. No future ratings are used in the current shortlist.",
+    "parameters": {
+      "iterations": 450,
+      "learning_rate": 0.045,
+      "depth": 5,
+      "l2_leaf_reg": 12,
+      "loss_function": "Logloss",
+      "border_count": 64,
+      "thread_count": 4,
+      "random_seed": 42,
+      "verbose": false,
+      "allow_writing_files": false
+    }
+  },
+  "newer_sources_audit_file": "newer_sources_checked.json",
+  "historical_performance_unchanged_from_previous_bundle": true,
+  "public_release": "2026-11-17",
+  "upstream_analysis": "https://www.kaggle.com/code/rafanikitas/football-s-hidden-gems-ml-vs-fifa-potential"
+}

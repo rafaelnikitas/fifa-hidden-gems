@@ -1,0 +1,40 @@
+{
+  "question": "Does adding player information find more future 80+ players than ranking by FIFA potential at the same review budget?",
+  "prediction_years": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "review_budget_per_year": 50,
+  "eligible": "Current overall <70, any age, no previously observed 85+ rating. Potential must be recorded for the paired comparison.",
+  "target": "Observed 80+ in one of the next three editions.",
+  "training": "Sub-80 origins; no prior 85+; three-edition outcome window ends by decision date.",
+  "followup": "An observed target confirms a positive; negative requires all three future records; otherwise unresolved.",
+  "primary_methods": [
+    "Player model",
+    "FIFA potential"
+  ],
+  "fixed_model_parameters": {
+    "iterations": 450,
+    "depth": 5,
+    "learning_rate": 0.045,
+    "l2_leaf_reg": 12,
+    "border_count": 64,
+    "loss_function": "Logloss",
+    "random_seed": 42,
+    "thread_count": 4,
+    "verbose": false,
+    "allow_writing_files": false
+  },
+  "feature_membership": "feature_dictionary.csv",
+  "feature_removal_models": {
+    "FIFA inputs only": 11,
+    "Without team / peer context": 162,
+    "Without player history": 340
+  },
+  "weighting": "Sub-70 emphasis, inverse repeated-player training count, positive weighting and bounded extra weight for large positive gains; exact function dated_weights in source.",
+  "bootstrap": "500 draws; player IDs jointly resampled across editions; full annual rankings reselected at 50; fitted models fixed.",
+  "geometry_fit_edition": 2015,
+  "scope": "Retrospective replays on a previously explored archive. Conditional intervals do not include model-selection uncertainty or variation across future seasons."
+}

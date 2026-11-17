@@ -1,0 +1,67 @@
+{
+  "hits_at50": {
+    "FIFA potential": 14,
+    "Learned FIFA control": 10,
+    "Player + current role": 14,
+    "Player + learned future": 17,
+    "Player + linear trend": 13,
+    "Player model": 22
+  },
+  "star85_hits": {
+    "FIFA potential": 5,
+    "Learned FIFA control": 3,
+    "Player + current role": 4,
+    "Player + learned future": 4,
+    "Player + linear trend": 4,
+    "Player model": 5
+  },
+  "never70_at50": {
+    "FIFA potential": 14,
+    "Learned FIFA control": 10,
+    "Player + current role": 15,
+    "Player + learned future": 17,
+    "Player + linear trend": 14,
+    "Player model": 23
+  },
+  "confirmed80_events": 101,
+  "unique80_players": {
+    "FIFA potential": 12,
+    "Learned FIFA control": 10,
+    "Player model": 20,
+    "Player + current role": 14,
+    "Player + linear trend": 13,
+    "Player + learned future": 16
+  },
+  "years_future_beats_static": 2,
+  "extra_future_vs_static": 3,
+  "profile_forecast_wins": 17,
+  "profile_forecast_comparisons": 20,
+  "feature_counts": {
+    "Player model": 431,
+    "Player + current role": 435,
+    "Player + linear trend": 443,
+    "Player + learned future": 443
+  },
+  "geometry_variance": [
+    0.22288592771660876,
+    0.11819263347799544
+  ],
+  "validation": {
+    "future_removal_invariance": true,
+    "normalizer_and_geometry_fit_2015": true,
+    "role_profiles_known_at_origin": true,
+    "candidates_excluded_from_prototypes": true,
+    "dated_training_labels": true,
+    "native_shap_additivity": true
+  },
+  "retrospective_scope": "Previously inspected ratings archive. These are dated replays, not independent prospective validation.",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.8.0",
+    "lightgbm": "4.7.0",
+    "catboost": "1.2.10",
+    "plotly": "7.1.0",
+    "matplotlib": "3.10.8"
+  }
+}

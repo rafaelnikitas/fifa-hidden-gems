@@ -1,0 +1,21 @@
+{
+  "top50_hits": {
+    "FIFA inputs only": 7,
+    "FIFA potential": 14,
+    "Player model": 22,
+    "Without player history": 17,
+    "Without team / peer context": 11
+  },
+  "features": {
+    "FIFA inputs only": 11,
+    "Without team / peer context": 162,
+    "Without player history": 340
+  },
+  "confirmed_selection_overlap": {
+    "Neither": 76,
+    "ML only": 11,
+    "Both": 11,
+    "FIFA only": 3
+  },
+  "scope": "Fixed settings and dated labels; retrospective feature-removal comparison. Correlated features can substitute for each other."
+}

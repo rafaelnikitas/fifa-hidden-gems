@@ -1,0 +1,26 @@
+year,model,baseline,extra_hits,low,high,draws,scope
+2020,Player + learned future,Player model,-2,-5.0,1.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2021,Player + learned future,Player model,0,-5.0,4.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2022,Player + learned future,Player model,-1,-5.0,0.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2023,Player + learned future,Player model,-2,-7.0,2.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+Pooled,Player + learned future,Player model,-5,-13.0,1.0,500,"Conditional on these four cohorts, fitted models and observed records; not uncertainty over future football eras."
+2020,Player + learned future,Player + current role,0,-4.0,0.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2021,Player + learned future,Player + current role,2,-2.0,6.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2022,Player + learned future,Player + current role,2,-2.0,4.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2023,Player + learned future,Player + current role,-1,-5.0,3.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+Pooled,Player + learned future,Player + current role,3,-5.0,7.0,500,"Conditional on these four cohorts, fitted models and observed records; not uncertainty over future football eras."
+2020,Player + learned future,FIFA potential,1,-1.0,3.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2021,Player + learned future,FIFA potential,0,-6.0,5.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2022,Player + learned future,FIFA potential,0,-3.0,2.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2023,Player + learned future,FIFA potential,2,-2.0,6.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+Pooled,Player + learned future,FIFA potential,3,-6.0,9.0,500,"Conditional on these four cohorts, fitted models and observed records; not uncertainty over future football eras."
+2020,Player + learned future,Learned FIFA control,1,0.0,4.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2021,Player + learned future,Learned FIFA control,0,-6.0,5.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2022,Player + learned future,Learned FIFA control,2,-2.0,5.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2023,Player + learned future,Learned FIFA control,4,0.0,8.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+Pooled,Player + learned future,Learned FIFA control,7,-1.0,14.0,500,"Conditional on these four cohorts, fitted models and observed records; not uncertainty over future football eras."
+2020,Player model,FIFA potential,3,0.0,6.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2021,Player model,FIFA potential,0,-2.5249999999999986,3.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2022,Player model,FIFA potential,1,-2.0,5.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+2023,Player model,FIFA potential,4,-1.0,9.0,500,Fixed models; player IDs resampled jointly across four editions; full rankings reranked at 50.
+Pooled,Player model,FIFA potential,8,1.0,15.0,500,"Conditional on these four cohorts, fitted models and observed records; not uncertainty over future football eras."
